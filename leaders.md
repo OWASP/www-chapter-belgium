@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Sebastien Deleersnyder](mailto:seba@owasp.org)
+* [Lieven Desmet](mailto:lieven.desmet@owasp.org)
+* [Bart De Win](mailto:bart.dewin@owasp.org)
