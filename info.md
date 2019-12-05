@@ -1,17 +1,6 @@
-### belgium Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
-
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
-
-### Code Repository
-* [repo](#)
-
-### Change Log
-* [changes](#)
-
+### Information
+* [Become a Member](https://www.owasp.org/index.php/Membership)
+* [Subscribe to chapter invitations](http://eepurl.com/iFZtb)
+* [Join our mailing list](https://groups.google.com/a/owasp.org/forum/#!forum/belgium-chapter)
+* [Become a chapter sponsor](https://www.owasp.org/index.php/Local_Chapter_Supporter)
+* [OWASP BE on Twitter](https://twitter.com/owasp_be)
