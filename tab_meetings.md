@@ -21,9 +21,9 @@ The event is co-located with [a briefing and industry opportunity meeting of the
 
 ### Agenda
 * 18h00 - 19h00: Welcome & networking
-* 19h00 - 19h10: **[OWASP Update](assets/2019-11-25/Owasp_be_update_20191125.pdf)** by Lieven Desmet (OWASP BE)
-* 19h10 - 20h00: **[Recent evolutions in the OAuth 2.0 and OpenID Connect landscape](assets/2019-11-25/Owasp-be-20191125-deryck-recentevolutionsoauth.pdf)** by Philippe De Ryck (Founder of Pragmatic Web Security and Google Developer Expert)
-* 20u00 - 20u50: **[Detection and Prevention of DNS abuse in .eu TLD](assets/2019-11-25/Owasp-be-2019-11-25-desmet.pdf)** by Lieven Desmet (DistriNet, KU Leuven)
+* 19h00 - 19h10: **[OWASP Update](assets/2019/2019-11-25/Owasp_be_update_20191125.pdf)** by Lieven Desmet (OWASP BE)
+* 19h10 - 20h00: **[Recent evolutions in the OAuth 2.0 and OpenID Connect landscape](assets/2019/2019-11-25/Owasp-be-20191125-deryck-recentevolutionsoauth.pdf)** by Philippe De Ryck (Founder of Pragmatic Web Security and Google Developer Expert)
+* 20u00 - 20u50: **[Detection and Prevention of DNS abuse in .eu TLD](assets/2019/2019-11-25/Owasp-be-2019-11-25-desmet.pdf)** by Lieven Desmet (DistriNet, KU Leuven)
 
 ### Registration
 Registration is free but mandatory (via EventBrite): <https://owasp-belgium-2019-11-25.eventbrite.com>
@@ -60,10 +60,10 @@ Celestijnenlaan 200 A<br/>
 
 ### Agenda
 * 18h15 - 19h00: Welcome & sandwiches
-* 19h00 - 19h10: **[OWASP Update](assets/2019-02-20/Owasp_Belgium_update_2019-02-20_v1.pdf)** by Sebastien Deleersnyder (OWASP)
-* 19h10 - 20h00: **[CSP in the age of Script Gadgets](assets/2019-02-20/CSP_Martin_Johns_OWASP_BE.pdf)** by Prof. Martin Johns (TU Braunschweig)
+* 19h00 - 19h10: **[OWASP Update](assets/2019/2019-02-20/Owasp_Belgium_update_2019-02-20_v1.pdf)** by Sebastien Deleersnyder (OWASP)
+* 19h10 - 20h00: **[CSP in the age of Script Gadgets](assets/2019/2019-02-20/CSP_Martin_Johns_OWASP_BE.pdf)** by Prof. Martin Johns (TU Braunschweig)
 * 20h00 - 20h10: Break
-* 20h10 - 21h00: **[Zero to DevSecOps - security in a DevOps world](assets/2019-02-20/Zero-to-DevSecOps-OWASP-Meetup-02-19-19.pdf)** by Jimmy Mesta (CTO, Manicode Security)
+* 20h10 - 21h00: **[Zero to DevSecOps - security in a DevOps world](assets/2019/2019-02-20/Zero-to-DevSecOps-OWASP-Meetup-02-19-19.pdf)** by Jimmy Mesta (CTO, Manicode Security)
 
 ### Registration
 Registration is free but mandatory (via EventBrite): <https://owasp-belgium-2019-02-20.eventbrite.com>
