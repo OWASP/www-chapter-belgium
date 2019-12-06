@@ -1,6 +1,6 @@
 ---
 title: archive
-displaytext: Archive
+displaytext: Archived meetings
 layout: null
 tab: true
 order: 3
@@ -14,6 +14,14 @@ tags: belgium
 * [2015 chapter meetings](#2015-chapter-meetings)
 * [2014 chapter meetings](#2014-chapter-meetings)
 * [2013 chapter meetings](#2013-chapter-meetings)
+* [2012 chapter meetings](#2012-chapter-meetings)
+* [2011 chapter meetings](#2011-chapter-meetings)
+* [2010 chapter meetings](#2010-chapter-meetings)
+* [2009 chapter meetings](#2009-chapter-meetings)
+* [2008 chapter meetings](#2008-chapter-meetings)
+* [2007 chapter meetings](#2007-chapter-meetings)
+* [2006 chapter meetings](#2006-chapter-meetings)
+* [2005 chapter meetings](#2005-chapter-meetings)
 
 ## 2018 chapter meetings
 
@@ -378,3 +386,267 @@ Co-organized with the [ISSA (Information Systems Security Association)](http://w
 19h00 - 20h00: **GreenSQL: an Open Source database firewall** (by Yuli Stremovsky, VP of Research and Development at GreenSQL)
 20h00 - 20h15: Break
 20h15 - 21h15: **MOBILE MALWARE NOW AND IN THE FUTURE** (by Mikko Hypponen, Chief Research Officer at F-Secure Corp)
+
+
+## 2009 chapter meetings
+
+### 15 September 2009 Meeting (Leuven)
+Hosted by [DistriNet Research Group (KU Leuven)](https://distrinet.cs.kuleuven.be/). Pizza's sponsored by [F5 Networks](http://www.f5.com/).
+
+#### Agenda
+* 18h30 - 19h00: Welcome & Refreshments
+* 19h00 - 19h15: **OWASP Update** (by Sebastien Deleersnyder, Telindus, OWASP Board)
+* 19h15 - 20h00: **CSRF: the nightmare becomes reality** (by Lieven Desmet, DistriNet Research Group (K.U. Leuven))
+* 20h00 - 21h15: **Hacking Web 2.0 Streams – Cross Domain Injection and Exploits** (by Shreeraj Shah, founder of Blueinfy)
+
+
+### 4 March 2009 Meeting (Brussels)
+Hosted by [Telindus, Belgacom-ICT](http://one.belgacom.be/one/en/?setlang=en)
+
+#### Agenda
+* 18h00 - 18h30: Welcome & Refreshments
+* 18h30 - 18h45: **OWASP Update** (by Sebastien Deleersnyder, Telindus, OWASP Board)
+* 18h45 - 20h45: **A Software Security Maturity Model** (by Gary McGraw, CTO of Cigital)
+
+
+### 4 February 2009 Meeting (Brussels)
+Hosted by [Ernst & Young](https://www.ey.com/)
+
+#### Agenda
+* 18h00 - 18h30: Welcome & Refreshments
+* 18h30 - 18h40: **OWASP Update** (by Sebastien Deleersnyder, Telindus, OWASP Board)
+* 18h40 - 19h30: **Best Practices Guide Web Application Firewalls** (by Alexander Meisel, CTO and founder of Art of Defence)
+* 19h30 - 20h00: **I thought you were my friend - Evil Markup, browser issues and other obscurities** (by Mario Heiderich)
+* 20h00 - 20h10: Break
+* 20h10 - 21h00: **Research on Belgian bank trojan attacks** (by Richard Bennett, software consultant)
+
+
+## 2008 chapter meetings
+
+### 17 November 2008 Meeting (Brussels)
+Hosted by [Isabel](https://www.isabel.eu/), the catering was sponsored by ISSA
+
+Co-organized with the [ISSA (Information Systems Security Association)](http://www.issa-be.org/)
+
+#### Agenda
+* 18h00 - 18h30: Welcome & Refreshments
+* 18h30 - 19h00: **OWASP / ISSA introduction** (by Philippe Bogaerts, OWASP Belgium and Bart Moerman, ISSA Brussels-European Chapter)
+* 19h00 - 20h00: **Risky PDF** (by Didier Stevens, Contraste Europe)
+* 20h00 - 21h00: **.NET Rootkits - Backdoors Inside Your Framework** (by Erez Metula, 2BSecure)
+
+
+### 23 October 2008 Meeting (Huizingen)
+Hosted by [RealDolmen](https://www.realdolmen.com/)
+
+#### Agenda
+* 18h00 - 18h30: Welcome & Refreshments
+* 18h30 - 19h00: **OWASP Update** (by Sebastien Deleersnyder, OWASP Belgium)
+* 19h00 - 20h00: **Building a tool for Security consultants: A story of a customized source code scanner** (by Dinis Cruz, OWASP)
+* 20h00 - 21h00: **Logging: not just a good idea** (by Eddy Vanlerberghe)
+
+
+
+### 21 April 2008 Meeting (Luxembourg, LU)
+Location: Centre de Recherche Public Henri Tudor
+
+#### Agenda
+* 16h00 - 16h30: Welcome & Sandwiches
+* 16h30 - 17h00: **OWASP Introduction** (by Sebastien Deleersnyder, OWASP BeLux)
+* 17h00 - 18h00: **How to break Web Applications** (by Philippe Bogaerts, NetAppSec)
+* 18h00 - 18h15: break
+* 18h15 - 19h15: **How to secure Web Applications (the OWASP Way)** (by Sebastien Deleersnyder, Telindus)
+
+
+### 9 April 2008 Meeting (Brussels)
+Hosted by [Deloitte](http://www.deloitte.com/view/en_BE/be/index.htm)
+
+#### Agenda
+* 18h00 - 18h30: Welcome & Sandwiches
+* 18h30 - 18h40: **OWASP Update** (by Sebastien Deleersnyder, OWASP BeLux)
+* 18h40 - 20h30: **Exploiting Oracle databases via the Web** (by Alexander Kornbrust, Red Database Security GmbH)
+
+
+### OWASP at infosecurity.be: 20 March 2008  (Brussels)
+OWASP will be present on Infosecurity.be 2008
+
+#### Agenda:
+* 15h00 - 16h00: **Web hacks of 2007 and how to protect your web applications in 2008 with OWASP** (by Sebastien Deleersnyder, Telindus)
+
+
+### 4 March 2008 Meeting (Leuven)
+Hosted by [DistriNet Research Group (KU Leuven)](https://distrinet.cs.kuleuven.be/)
+
+#### Agenda
+* 18h00 - 18h30: Welcome, Refreshments and drinks
+* 18h30 - 18h45: **OWASP Update** by Sebastien Deleersnyder (OWASP BeLux)
+* 18h45 - 19h00: **CAcert.org and Thawte** by Kenneth Van Wyck (KRvW Associates)
+* 19h00 - 20h00: **Development life cycle issues** by Kenneth Van Wyck (KRvW Associates)
+* 20h00 - 20h15: break
+* 20h15 - 21h15: **Structural improvements for SDLs** by Bart De Win (DistriNet, KU Leuven)
+
+
+## 2007 chapter meetings
+
+### 20 November 2007 Meeting (Leuven)
+Hosted by [DistriNet Research Group (KU Leuven)](https://distrinet.cs.kuleuven.be/). Pizza's and drinks sponsored by NetAppSec.
+
+Co-organized with the [ISSA (Information Systems Security Association)](http://www.issa-be.org/)
+
+#### Agenda
+* 18h00 - 18h30: Welcome, Pizza and drinks
+* 18h30 - 18h45: **OWASP Update** by Sebastien Deleersnyder (OWASP BeLux)       
+* 18h45 - 19h00: **ISSA Intro** by Tomas Vanhoof (ISSA)
+* 19h00 - 20h00: **Operational security impact on developing secure applications** by Patrick Debois
+* 20h00 - 20h15: break
+* 20h15 - 21h15: **Security awareness programs for development** by Herman Stevens & Swa Frantzen (NET2S)
+
+
+### OWASP Day 2007: 6 September 2007 (Brussels)
+On September 6th, OWASP organized OWASP Day conferences worldwide triggered by the Global Security Week idea. In Belgium we organized the mini-conference in Brussels.
+
+Hosted by [Telindus, Belgacom-ICT](http://one.belgacom.be/one/en/?setlang=en) at the SURF House
+
+#### Agenda
+* 12h30: pre-event: **Getting started with WebGoat & WebScarab** by Erwin Geirnaert (ZION Security)
+* 14h00 - 14h20: **Welcome** & pre-recorded video of OWASP board by Sebastien Deleersnyder (OWASP BeLux)
+* 14h20 - 15h10: **Key note:OWASP Evaluation and Certification Criteria Draft** by Mark Curphey (OWASP Founder)
+* 15h10 - 16h00: **Automated Web FOO or FUD?** by David Kierznowski (founder of blogsecurity.net and active member of the GNUCITIZEN group)
+* 16h00 - 16h40: **OWASP Pantera Unleashed** by Simon Roses Femerling (Security Technologist at ACE Team Microsoft)
+* 16h40 - 17h00: break
+* 17h00 - 17h25: **CLASP, SDL and Touchpoints Compared** by Bart De Win (DistriNet, KU Leuven)
+* 17h25 - 17h50: **Threats of e-insecurity in Belgium and the Belgian response** by Luc Beirens (FCCU)
+* 17h50 - 18h40: **For my next trick... hacking Web2.0** by Petko D. Petkov, a.k.a pdp (founder of the GNUCITIZEN group, co-author of the “XSS Attacks” book)
+* 18h40 - 19h30: **Panel Discussion: “Privacy in the 21st Century?”**, moderated by André Marien (Verizon Business - Cybertrust)
+* 19h30 - ...: Finish - Drinks !
+
+
+### 22 June 2007 Meeting (Diegem)
+Hosted by [Deloitte](http://www.deloitte.com/view/en_BE/be/index.htm)
+
+[F5 Networks](http://www.f5.com/) sponsored Ivan Ristic and Dinis Cruz to come to Brussels.
+
+#### Agenda
+* 18h00 - 18h20: Welcome, coffee & sandwiches
+* 18h20 - 18h40: **OWASP Update** by Sebastien Deleersnyder (OWASP BeLux)
+* 18h40 - 19h00: **Update on Internet Attack Statistics for Belgium in 2006** by Hillar Leoste (Zone-H)
+* 19h00 – 20h00: **Protecting Web Applications from Universal PDF XSS** by Ivan Ristic (Chief Evangelist, Breach Security)
+* 20h00 - 20h15: break
+* 20h15 - 21h15: **Buffer Overflows on .Net and Asp.Net** by Dinis Cruz (Chief Owasp Evangelist)
+
+
+### 10 May 2007 Meeting (Leuven)
+Hosted by [ps_testware](http://www.pstestware.com/)
+
+#### Agenda
+* 18h00 - 18h20: Welcome, coffee & sandwiches
+* 18h20 - 18h40: **OWASP Update and OWASP BeLux Board Presentation** by Sebastien Deleersnyder (OWASP BeLux)
+* 18h40 - 20h00: **Legal Aspects of (Web) Application Security** by Jos Dumortier (ICRI, KU Leuven)
+* 20h00 - 20h15: break
+* 20h15 - 21h15: **Formal absence of implementation bugs in web applications: a case study on indirect data sharing** by Lieven Desmet (DistriNet, KU Leuven)
+
+
+### OWASP at infosecurity.be: 21-22 March 2007  (Brussels)
+OWASP will be present on Infosecurity.be 2008
+
+#### Agenda
+* **OWASP Top 10 2007** (by Sebastien Deleersnyder, Telindus)
+
+
+### 23 January 2007 (Brussels)
+Hosted by [Ernst & Young](https://www.ey.com/)
+
+#### Agenda
+* 18h00 - 18h30: Welcome, get drink & sandwiches?
+* 18h20 - 18h40: **OWASP Update** by Sebastien Deleersnyder (OWASP BeLux)
+* 18h45 – 19h45: **WEBGOAT and the Pantera Web Assessment Studio Project** by Philippe Bogaerts
+* 19h45 - 20h00: break
+* 20h00 - 21h00: **Security implications of AOP for secure software** by Bart De Win (KU Leuven)
+
+
+
+## 2006 chapter meetings
+
+### JavaPolis 2006: 15/12/2006 (Antwerp)
+Stephen de Vries (project leader of the OWASP Java Project) did a talk at JavaPolis in Belgium.
+
+#### Agenda
+* Security Sins and their Solutions by Spehen de Vries (project lead of the [OWASP Java Project](https://www.owasp.org/index.php/Category:OWASP_Java_Project))
+
+
+
+### 14 September 2006 Meeting (Antwerp)
+Hosted by [ING Belgium](https://www.ing.be/)
+
+Co-organized with the [ISSA (Information Systems Security Association)](http://www.issa-be.org/)
+
+#### Agenda
+* 18h00 - 18h30: Welcome, get drink & sandwiches
+* 18h20 - 18h40: **OWASP 2.0 Update** by Sebastien Deleersnyder (Ascure)
+* 18h45 – 19h00: **ISSA Introduction** by Toon Mordijck (ISSA)      
+* 19h00 - 19h55: **Business Application Security through Information Risk Management** by Serge Moreno (ING)
+* 20h05 - 21h00: **Secure and Reliable Web Services** by Guy Crets (Apogado)
+        
+
+### 8 May 2006 Meeting (Brussels)
+Hosted by [Deloitte](http://www.deloitte.com/view/en_BE/be/index.htm)
+
+#### Agenda
+* 18h00 - 18h30: Welcome, get drink & snack
+* 18h20 - 18h40: **OWASP Update** by Sebastien Deleersnyder (Ascure)
+* 18h45 - 19h15: **Internet Attack Statistics for Belgium in 2005** by Hillar Leoste (Zone-H)
+* 19h15 - 20h30: **Can "Agile" Development Produce Secure Applications?** by Johan Peeters (Program Director secappdev.org)
+
+
+### 22 February 2006 (Leuven)
+Hosted by [DistriNet Research Group (KU Leuven)](https://distrinet.cs.kuleuven.be/). Pizza's and drinks sponsored by BeeWare.
+
+#### Agenda
+* 18h00 - 18h20: Welcome, get Pizza & Drink
+* 18h20 - 18h40: Sebastien Deleersnyder, Ascure
+        OWASP (Membership) and new OWASP Projects
+* 18h40 - 19h30: Philippe Bogaerts, BeeWare
+        WebScarab demonstration
+* 19h30 - 20h00: **Web Application Firewalls: WAF Primer** by Sebastien Deleersnyder
+* 20h00 - 20h45: **Web Application Firewalls: panel**
+  * Philippe Bogaerts, BeeWare
+  * Jaak Cuppens, F5 Networks
+  * David Van der Linden, ING Belgium
+  * Lieven Desmet, KU Leuven
+  
+
+### New years drink: 19 January 2006 (Leuven)
+On January 19th we had a New Years Drink. It was sponsored by Zion Security
+
+#### Agenda
+* **OWASP Update** by Sebastien Deleersnyder (Ascure)
+
+
+## 2005 chapter meetings
+
+### 28 September 2005 Meeting (Leuven)
+Hosted by Ubizen
+
+#### Agenda
+* 18h00 - 18h15: Welcome & get a drink
+* 18h15 - 18h45: **OWASP & OWASP Membership** by Sebastien Deleersnyder (Ascure)
+* 18h45 - 19h30: **Securing Web Applications with ModSecurity** by Emmanuel Bergmans (I-logs)   
+* 19h30 - 20h00: **OWASP Top 10 Vulnerabilities: Introduction to the Top 10** by Sebastien Deleersnyder (Ascure)   
+* 20h00 - 20h45: **OWASP Top 10 Vulnerabilities: Panel Discussion**
+  * Erwin Geirnaert, Security Innovation
+  * Dirk Dussart, Belgian Post
+  * Eric Devolder, Mastercard
+  * Herman Stevens, Ubizen
+  * Frank Piessens, KU Leuven
+  
+  
+### 26 May 2005 Meeting (Ghent)
+On 26th of May 2005 we held the **first OWASP Belgium Chapter meeting**!
+
+It was a big success: we had nearly 40 people attending, despite the Belgium-unlike hot weather.
+
+#### Agenda
+* 17h30 - 18h00: Welcome & get a drink
+* 18h00 - 18h45: **OWASP Introduction** by Sebastien Deleersnyder (Ascure)
+* 19h00 - 19h45: **How to Break Web Application Security** by Erwin Geirnaert (Security Innovation)
+* 20h00 - 20h45: **How to Build Secure Web Applications** by professor Frank Piessens (KU Leuven)
+        
