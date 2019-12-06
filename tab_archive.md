@@ -204,10 +204,10 @@ Both speakers are faculty of the [Secure Application Development](https://www.se
 
 #### Agenda
 * 18h15 - 19h00: Welcome & sandwiches
-* 19h00 - 19h15: **OWASP Update** (by Sebastien Deleersnyder, OWASP Belgium Board)
-* 19h15 - 20h15: **[Why Code Reviews and Pen-Tests Are Not Enough](assets/2015-02-24/2015-02-24-Jim_DelGrosso-OWASP_Belgium,_Why_Code_Reviews_and_Pen-Tests_Are_Not_Enough.pdf)** (by Jim DelGrosso, Cigital)
+* 19h00 - 19h15: **OWASP Update** by Sebastien Deleersnyder (OWASP Belgium Board)
+* 19h15 - 20h15: **[Why Code Reviews and Pen-Tests Are Not Enough](assets/2015-02-24/2015-02-24-Jim_DelGrosso-OWASP_Belgium,_Why_Code_Reviews_and_Pen-Tests_Are_Not_Enough.pdf)** by Jim DelGrosso (Cigital)
 * 20h15 - 20h30: Break
-* 20h30 - 21h30: **[An analysis of exploitation behaviors on the web and the role of web hosting providers in detecting them](assets/2015-02-24/2015_02_24-Aurelien-Francillon-Owasp_leuven.pdf)** (by prof. Aurélien Francillon, EURECOM)
+* 20h30 - 21h30: **[An analysis of exploitation behaviors on the web and the role of web hosting providers in detecting them](assets/2015-02-24/2015_02_24-Aurelien-Francillon-Owasp_leuven.pdf)** by prof. Aurélien Francillon (EURECOM)
 
 
 
@@ -227,21 +227,21 @@ Hosted by [is4u](http://www.is4u.be/) at Moonbeat (Mechelen)
 
 #### Agenda
 * 18h00 - 18h45: Welcome & sandwiches
-* 18h45 - 19h00: **OWASP Update** (by Sebastien Deleersnyder, OWASP Belgium Board)
-* 19h00 - 20h00: **OWASP Top 10 Mobile Risks / demos** (by Erwin Geirnaert)
+* 18h45 - 19h00: **OWASP Update** by Sebastien Deleersnyder (OWASP Belgium Board)
+* 19h00 - 20h00: **OWASP Top 10 Mobile Risks / demos** by Erwin Geirnaert
 * 20h00 - 20h15: Break
-* 20h15 - 20h30: **[Investigating software security practices](assets/2014-12-17/Investigating_software_security_practices-2014-12-17-OWASP-BE.pdf)** (by Koen Yskout and Laurens Sion, iMinds-DistriNet)
-* 20h30 - 21h30: **OpenSAMM Best Practices: Lessons from the Trenches** (by Sebastien Deleersnyder and Bart De Win)
+* 20h15 - 20h30: **[Investigating software security practices](assets/2014-12-17/Investigating_software_security_practices-2014-12-17-OWASP-BE.pdf)** by Koen Yskout and Laurens Sion (DistriNet, KU Leuven)
+* 20h30 - 21h30: **OpenSAMM Best Practices: Lessons from the Trenches** by Sebastien Deleersnyder and Bart De Win
 
 ### 20 May 2014 Meeting (Brussels)
 Hosted by [NVISO](https://www.nviso.be/)
 
 #### Agenda
 * 18h00 - 18h45: Welcome & sandwiches
-* 18h45 - 19h00: **OWASP Update** (by Bart De Win, OWASP Belgium Board)
-* 19h00 - 20h00: **[Securing Password Storage – Increasing Resistance to Brute Force Attacks](assets/2014-05-20/Secure Password Storage AUS (w Notes).pdf)** (by Tiago Teles)
+* 18h45 - 19h00: **OWASP Update** by Bart De Win (OWASP Belgium Board)
+* 19h00 - 20h00: **[Securing Password Storage – Increasing Resistance to Brute Force Attacks](assets/2014-05-20/Secure Password Storage AUS (w Notes).pdf)** by Tiago Teles
 * 20h00 - 20h15: Break
-* 20h15 - 21h15: **[A history of ATM violence - From blowing up safes over jackpotting to all-round malware](assets/2014-05-20/A_history_of_ATM_violence_-_OWASP_Chapter_Night.pdf)** (by Daan Raman and Erik Van Buggenhout)
+* 20h15 - 21h15: **[A history of ATM violence - From blowing up safes over jackpotting to all-round malware](assets/2014-05-20/A_history_of_ATM_violence_-_OWASP_Chapter_Night.pdf)** by Daan Raman and Erik Van Buggenhout (Nviso)
 
 
 ### 12 February 2014 Meeting (Leuven)
@@ -251,10 +251,10 @@ Both speakers are faculty of the [Secure Application Development](https://www.se
 
 #### Agenda
 * 18h00 - 18h45: Welcome & sandwiches
-* 18h45 - 19h00: **[OWASP Update](assets/2014-02-12/Owasp_Belgium_update_2013-12-17_v1.pdf)** (by Sebastien Deleersnyder, OWASP Belgium Board)
-* 19h00 - 20h00: **[Smart metering privacy](assets/2014-02-12/Danezis-owasp14.pdf)** (by George Danezis)
+* 18h45 - 19h00: **[OWASP Update](assets/2014-02-12/Owasp_Belgium_update_2013-12-17_v1.pdf)** by Sebastien Deleersnyder (OWASP Belgium Board)
+* 19h00 - 20h00: **[Smart metering privacy](assets/2014-02-12/Danezis-owasp14.pdf)** by George Danezis
 * 20h00 - 20h15: Break
-* 20h15 - 21h15: **[Securing Complex Forms](assets/2014-02-12/HTML_Forms_and_Workflows_v3.pdf)** (by Jim Manico)
+* 20h15 - 21h15: **[Securing Complex Forms](assets/2014-02-12/HTML_Forms_and_Workflows_v3.pdf)** by Jim Manico
 
 
 
@@ -273,10 +273,10 @@ Hosted by [DistriNet Research Group (KU Leuven)](https://distrinet.cs.kuleuven.b
 
 #### Agenda
 * 18h00 - 18h45: Welcome drink and Pizza (sponsored by F5 Networks)
-* 18h45 - 19h00: **OWASP / ISC2 Update** (by Sebastien Deleersnyder, OWASP Belgium Board & Lode Vanstechelman, ISC2 Belgium Board)
-* 19h00 - 20h00: **Augmented reality in your Web Proxy** (by Roberto Suggi Liverani)
+* 18h45 - 19h00: **[OWASP / ISC2 Update](assets/2013-12-17/Owasp_Belgium_update_2013-12-17_v1.pdf)** by Sebastien Deleersnyder (OWASP Belgium Board) & Lode Vanstechelman (ISC2 Belgium Board)
+* 19h00 - 20h00: **[Augmented reality in your Web Proxy](assets/2013-12-17/Augmented_reality_in_your_web_proxy-ISC2-OWASP_Belgium_2013.pdf)** by Roberto Suggi Liverani
 * 20h00 - 20h15: Break
-* 20h15 - 21h15: **If You Tolerate This, Your Child Processes Will Be Next** (by Bart Leppens)
+* 20h15 - 21h15: **[If You Tolerate This, Your Child Processes Will Be Next](assets/2013-12-17/Ifyoutoleratethisyourchildprocesseswillbenext.pdf)** by Bart Leppens
 
 
 ### 8 October 2013 Meeting (Diegem)
@@ -284,20 +284,20 @@ Hosted by [Ernst & Young](https://www.ey.com/)
 
 #### Agenda
 * 17h30 - 18h15: Welcome & sandwiches
-* 18h15 - 18h30: **OWASP Update** (by Sebastien Deleersnyder, OWASP Belgium Board)
-* 18h30 - 19h30: **NoScript for Developers** (by Giorgio Maone)
+* 18h15 - 18h30: **OWASP Update** by Sebastien Deleersnyder (OWASP Belgium Board)
+* 18h30 - 19h30: **[NoScript for Developers](assets/2013-10-08/NoScript_vs_for_Web_Developers_Maone.pdf)** by Giorgio Maone
 * 19h30 - 19h45: Break
-* 19h45 - 20h45: **JSMVCOMFG - To sternly look at JavaScript MVC and Templating Frameworks** (by Mario Heiderich)
+* 19h45 - 20h45: **[JSMVCOMFG - To sternly look at JavaScript MVC and Templating Frameworks](https://www.slideshare.net/x00mario/jsmvcomfg-to-sternly-look-at-javascript-mvc-and-templating-frameworks)** by Mario Heiderich
 
 ### 6 June 2013 Meeting (Leuven)
 Hosted by [DistriNet Research Group (KU Leuven)](https://distrinet.cs.kuleuven.be/)
 
 #### Agenda
 * 17h30 - 18h15: Welcome & sandwiches
-* 18h15 - 18h30: **OWASP Update** (by Sebastien Deleersnyder, OWASP Belgium Board)
-* 18h30 - 19h30: Needles in haystacks, we we are not solving the appsec problem & html hacking the browser, CSP is dead. (by Eoin Keary, CTO and founder of BCC Risk Advisory Ltd.)
-* 19h30 - 20h30: **Teaching an Old Dog New Tricks: Securing Development with PMD** (by Justin Clarke, Director and Co-Founder of Gotham Digital Science)
-* 20h30 - 21h30: **Vulnerability Prediction in Android Applications** (by Aram Hovsepyan)
+* 18h15 - 18h30: **[OWASP Update](assets/2013-06-06/Owasp_Belgium_update_2013-06-06_v2.pdf)** by Sebastien Deleersnyder (OWASP Belgium Board)
+* 18h30 - 19h30: **[Needles in haystacks, we we are not solving the appsec problem & html hacking the browser, CSP is dead](assets/2013-06-06/OWASP_EU_-_Tour_2103-abridged-Ned.pdf)**. by Eoin Keary (CTO and founder of BCC Risk Advisory Ltd.)
+* 19h30 - 20h30: **[Teaching an Old Dog New Tricks: Securing Development with PMD](assets/2013-06-06/Securing_Development_with_PMD_-_Teaching_an_Old_Dog_New_Tricks_-_OWASP.pdf)** by Justin Clarke (Director and Co-Founder of Gotham Digital Science)
+* 20h30 - 21h30: **[Vulnerability Prediction in Android Applications](assets/2013-06-06/Owasp_be_Vulnerability_Prediction_in_Android_Apps.pdf)** by Aram Hovsepyan (DistriNet, KU Leuven)
 
 ### Previous Meeting (5th of March 2013) in Leuven
 Hosted by [DistriNet Research Group (KU Leuven)](https://distrinet.cs.kuleuven.be/)
@@ -306,10 +306,10 @@ Both speakers are faculty of the [Secure Application Development](https://www.se
 
 #### Agenda
 * 18h00 - 18h30: Welcome & sandwiches
-* 18h30 - 18h45: **OWASP Update** (by Lieven Desmet, OWASP Belgium Board)
-* 18h45 - 19h45: **25 Years of Vulnerabilities** (by Yves Younan, Senior Research Engineer at Sourcefire)
+* 18h30 - 18h45: **[OWASP Update](assets/2013-03-05/Owasp_Belgium_update_2013-03-05.pdf)** by Lieven Desmet (OWASP Belgium Board)
+* 18h45 - 19h45: **[25 Years of Vulnerabilities](assets/2013-03-05/OWASP_Belgium_Yves_Younan_2013.pdf)** by Yves Younan (Senior Research Engineer at Sourcefire)
 * 19h45 - 20h00: Break
-* 20h00 - 21h00: **Banking Security: Attacks and Defences** (by Steven Murdoch, Senior Researcher at University of Cambridge)
+* 20h00 - 21h00: **[Banking Security: Attacks and Defences](assets/2013-03-05/Owasp13bankingsecurity.pdf)** by Steven Murdoch (Senior Researcher at University of Cambridge)
 
 
 
@@ -325,12 +325,14 @@ Hosted by [PWC](http://www.pwc.be/)
 Co-organized with the [ISSA (Information Systems Security Association)](http://www.issa-be.org/)
 
 #### Address
-* 18h00 - 18h30: Welcome
-* 18h30 - 19h30: **Introducing the Smartphone Penetration Testing Framework** (by Georgia Weidman, Bulb Security LLC)
+* 18h00 - 18h20: Welcome
+* 18h20 - 18h30: **[OWASP Update](assets/2012-09-26/Owasp_Belgium_update_2012-09-26.pdf)** by David Mathy (OWASP BE)
+* 18h30 - 19h30: **[Introducing the Smartphone Penetration Testing Framework](assets/2012-09-26/Georgiawpreso.pdf)** by Georgia Weidman (Bulb Security LLC)
 * 19h30 - 19h45: Break
-* 19h45 - 20h45: **Why your security products suck...** (by Joe McCray, StrategicSec)
-* 20h45 - 21h15: **Discussion: pentesting, legal aspects** (by Steven Wierckx , pstestware)
+* 19h45 - 20h45: **Why your security products suck...** [PDF](assets/2012-09-26/JoeMcRay.zip) by Joe McCray (StrategicSec)
+* 20h45 - 21h15: **[Discussion: pentesting, legal aspects](assets/2012-09-26/PenTesting_-_legal_aspects_-_restyled.pdf)** by Steven Wierckx (ps_testware)
 * 21h15 - 21h45: Closing Drink
+
 
 ### 12 September 2012 Meeting (Leuven)
 Hosted by [DistriNet Research Group (KU Leuven)](https://distrinet.cs.kuleuven.be/)
@@ -338,11 +340,12 @@ Hosted by [DistriNet Research Group (KU Leuven)](https://distrinet.cs.kuleuven.b
 Co-organized with the IWT-project SPION (security and privacy in online social networks)
 
 #### Agenda
+* 14h00 - 18h00: [First SPION Technical Workshop](http://people.cs.kuleuven.be/~frank.piessens/TechnicalWorkshop.html)
 * 18h00 - 19h00: Pizza buffet with SPION demos on the side
-* 19h00 - 19h15: **OWASP Update** (by Sebastien Deleersnyder, SAIT Zenitel, OWASP Board)
-* 19h15 - 20h00: **You Are What You Include: Remote JavaScript Inclusions** (by Steven Van Acker, DistriNet, KU Leuven)
+* 19h00 - 19h15: **[OWASP Update](assets/2012-09-12/Owasp_Belgium_update_2012-09-12.pdf)** by Sebastien Deleersnyder (SAIT Zenitel, OWASP Board)
+* 19h15 - 20h00: **[You Are What You Include: Remote JavaScript Inclusions](assets/2012-09-12/OWASPBE_20120912_YouAreWhatYouInclude.pdf)** by Steven Van Acker (DistriNet, KU Leuven)
 * 20h00 - 20h15: Break
-* 20h15 - 21h00: **Modern Information Gathering** (by Dave van Stein, KZA bv)
+* 20h15 - 21h00: **[Modern Information Gathering](assets/2012-09-12/OWASP-Modern_Information_Gathering.pdf)** by Dave van Stein (KZA bv)
 
 
 ### 6 March 2012 Meeting (Leuven)
@@ -352,10 +355,10 @@ Both speakers are faculty of the [Secure Application Development](https://www.se
 
 #### Agenda
 * 18h00 - 18h45: Welcome & Pizzas
-* 18h45 - 19h00: **OWASP Update** (by Sebastien Deleersnyder, SAIT Zenitel, OWASP Board)
-* 19h00 - 20h00: **Common iOS Pitfalls vs. OWASP's iGoat** (by Ken van Wyk, KRvW Associates)
+* 18h45 - 19h00: **[OWASP Update](assets/2012-03-06/Owasp_Belgium_update_2012-03-06.pdf)** by Sebastien Deleersnyder (SAIT Zenitel, OWASP Board)
+* 19h00 - 20h00: **[Common iOS Pitfalls vs. OWASP's iGoat](assets/2012-03-06/Appsecusa2011-bechapterbyKen-owasptop10mobilerisks.pdf)** by Ken van Wyk (KRvW Associates)
 * 20h00 - 20h15: Break
-* 20h15 - 21h15: **Access Control Design Best Practices** (by Jim Manico, WhiteHat Security)
+* 20h15 - 21h15: **[Access Control Design Best Practices](assets/2012-03-06/Be_chapter_presentation_by_jim_manico_Access_Control_Pitfalls_v1.1.pdf)** by Jim Manico (WhiteHat Security)
 
 
 ### 25 January 2012 Meeting (Brussels)
@@ -363,10 +366,10 @@ Hosted by [Cisco Belgium](https://www.cisco.com/c/en_be/index.html)
 
 #### Agenda
 * 18h00 - 18h30: Welcome & Sandwiches
-* 18h30 - 18h45: **OWASP Update** (by Sebastien Deleersnyder, SAIT Zenitel, OWASP Board)
-* 18h45 - 19h45: **devops, secops, devsec or *ops ? A gentle introduction to Devops** (by Kris Buytaert, Inuits)
+* 18h30 - 18h45: **[OWASP Update](assets/2012-01-25/Owasp_Belgium_update_2012-01-25.pdf)** by Sebastien Deleersnyder (SAIT Zenitel, OWASP Board)
+* 18h45 - 19h45: **[devops, secops, devsec or *ops ? A gentle introduction to Devops](assets/2012-01-25/Owasp_belgium_chapter_2012-01-25_devops-secops-kris-buytaert.pdf)** by Kris Buytaert (Inuits)
 * 19h45 - 20h00: Break
-* 20h00 - 21h00: **Hardening web applications against malware attacks** (by Erwin Geirnaert, Zion Security)
+* 20h00 - 21h00: **[Hardening web applications against malware attacks](assets/2012-01-25/OWASP_Presentation_January2012_Erwin_Geirnaert.pdf)** by Erwin Geirnaert (ZION Security)
 
 
 
@@ -381,7 +384,7 @@ Hosted by [Deloitte](http://www.deloitte.com/view/en_BE/be/index.htm)
 #### Agenda
 * 18h00 - 18h30: Welcome & Sandwiches
 * 18h30 - 18h45: **OWASP Update** (by Sebastien Deleersnyder, SAIT Zenitel, OWASP Board)
-* 18h45 - 19h45: **The OWASP AppSensor Project** (by Colin Watson, Watson Hall Ltd)
+* 18h45 - 19h45: **[The OWASP AppSensor Project](https://www.owasp.org/index.php/OWASP_AppSensor_Project)** (by Colin Watson, Watson Hall Ltd)
 * 19h45 - 20h00: Break
 * 20h00 - 21h00: **How to become Twitter's admin: An introduction to Modern Web Service Attacks** (by Andreas Falkenberg, RUB)
 
@@ -394,8 +397,8 @@ Co-organized with the [ISSA (Information Systems Security Association)](http://w
 * 18h00 - 18h30: Welcome & Sandwiches
 * 18h30 - 18h45: **OWASP Update** (by Sebastien Deleersnyder, SAIT Zenitel, OWASP Board)
 * 18h45 - 19h00: **ISSA Update** (by Clement Herssens)
-* 19h00 - 19h45: **Non-convential Attacks: Things your security scanners won't find** (by Tom Van Der Mussele, Verizon)
-* 19h45 - 20h30: **The Ghost of XSS Past, Present and Future – A Defensive Tale** (by Jim Manico, Infrared Security)
+* 19h00 - 19h45: **[Non-convential Attacks: Things your security scanners won't find](assets/2011-05-23/Non-convential_Attacks_Things_your_security_scanners_wont_find.pdf)** (by Tom Van Der Mussele, Verizon)
+* 19h45 - 20h30: **[The Ghost of XSS Past, Present and Future – A Defensive Tale](assets/2011-05-23/Future_of_XSS_v4.pdf)** (by Jim Manico, Infrared Security)
 * 20h30 - 21h00: **Discussion: How CERT.be & OWASP can improve web application security in Belgium** (by Christian Van Heurck, CERT.be)
 
 
@@ -411,10 +414,10 @@ Hosted by [DistriNet Research Group (KU Leuven)](https://distrinet.cs.kuleuven.b
 
 #### Agenda
 * 18h00 - 18h30: Welcome & Pizza's
-* 18h30 - 18h45: **OWASP Update** (by Sebastien Deleersnyder, SAIT Zenitel, OWASP Board)
-* 18h45 - 19h45: **Attacking and Defending the Grid** (by Justin Searle)
+* 18h30 - 18h45: **[OWASP Update](assets/2010-09-21/Owasp_update_2010-09-21.pdf)** (by Sebastien Deleersnyder, SAIT Zenitel, OWASP Board)
+* 18h45 - 19h45: **[Attacking and Defending the Grid](assets/2010-09-21/Attacking_and_Defending_the_Grid-BeOWASP.pdf)** (by Justin Searle)
 * 19h45 - 20h00: Break
-* 20h00 - 21h00: **How I Met Your Girlfriend** (by Samy Kamkar)
+* 20h00 - 21h00: **[How I Met Your Girlfriend](assets/2010-09-21/BlackHat-USA-2010-Kamkar-How-I-Met-Your-Girlfriend-wp.pdf)** (by Samy Kamkar)
 
 
 ### 16 June 2010 Meeting (Brussels)
@@ -423,7 +426,7 @@ Hoste by [Zenitel Belgium](http://www.zenitelbelgium.com/).
 #### Agenda
 * 18h00 - 18h30: Welcome & Refreshments
 * 18h30 - 18h45: **OWASP Update** (by Sebastien Deleersnyder, Zenitel, OWASP Board)
-* 18h45 - 20h00: **Advanced SQL Injection** (by Joe McCray, Learn Security Online)
+* 18h45 - 20h00: **[Advanced SQL Injection](assets/2010-06-16/Advanced_SQL_InjectionV2.pdf)** (by Joe McCray, Learn Security Online)
 
 
 ### 1 June 2010 Meeting (Brussels)
@@ -432,7 +435,7 @@ Hosted by [Cisco Belgium](https://www.cisco.com/c/en_be/index.html)
 #### Agenda
 * 18h00 - 18h30: Welcome & Refreshments
 * 18h30 - 18h45: **OWASP Update** (by Sebastien Deleersnyder, Zenitel, OWASP Board)
-* 19h00 - 20h00: **The Belgian e-ID: hacker vs developer** (by Erwin Geirnaert and Frank Cornelis)
+* 19h00 - 20h00: **[The Belgian e-ID: hacker vs developer](assets/2010-06-01/The_Belgian_e-ID_hacker_vs_developer.pdf)** (by Erwin Geirnaert and Frank Cornelis)
 * 20h00 - 20h15: Break
 * 20h15 - 21h15: **Analyzing the Accuracy Of Web Application Scanners** (by Larry Suto)
 
@@ -443,12 +446,12 @@ Hosted by [Ernst & Young](https://www.ey.com/)
 Co-organized with the [ISSA (Information Systems Security Association)](http://www.issa-be.org/)
 
 #### Agenda
-18h00 - 18h30: Welcome & Refreshments
-18h30 - 18h45: **OWASP Update** (by Sebastien Deleersnyder, Zenitel, OWASP Board)
-18h45 - 19h00: **ISSA Update** (by Bart Moerman, ISSA)
-19h00 - 20h00: **GreenSQL: an Open Source database firewall** (by Yuli Stremovsky, VP of Research and Development at GreenSQL)
-20h00 - 20h15: Break
-20h15 - 21h15: **MOBILE MALWARE NOW AND IN THE FUTURE** (by Mikko Hypponen, Chief Research Officer at F-Secure Corp)
+* 18h00 - 18h30: Welcome & Refreshments
+* 18h30 - 18h45: **[OWASP Update](assets/2010-02-01/Owasp_update_2010-02-01_v2.pdf)** (by Sebastien Deleersnyder, Zenitel, OWASP Board)
+* 18h45 - 19h00: **[ISSA Update](assets/2010-02-01/ISSA_Presentation_Bart_20100201.pdf)** (by Bart Moerman, ISSA)
+* 19h00 - 20h00: **[GreenSQL: an Open Source database firewall](assets/2010-02-01/GreenSQL_-_an_Open_Source_database_firewall_-_Yuli_Stremovsky.pdf)** (by Yuli Stremovsky, VP of Research and Development at GreenSQL)
+* 20h00 - 20h15: Break
+* 20h15 - 21h15: **[MOBILE MALWARE NOW AND IN THE FUTURE](assets/2010-02-01/BE09_MOBILE_MALWARE_NOW_AND_IN_THE_FUTURE_by_Mikko_Hypponen.pdf)** (by Mikko Hypponen, Chief Research Officer at F-Secure Corp)
 
 
 
