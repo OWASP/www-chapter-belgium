@@ -89,8 +89,8 @@ Hosted by [NVISO](https://www.nviso.be/)
 #### Agenda
 * 18h00 - 18h50: Welcome & sandwiches
 * 18h50 - 19h00: **OWASP Update** (by Sebastien Deleersnyder, OWASP)
-* 19h00 - 19h45: **OWASP Summit Debrief** (by Sebastien Deleersnyder, OWASP)
-* 19h45 - 20h30: **Threat modeling lessons from Star Wars (BruCON Video)** (by Adam Shostack, freelance security consultant)
+* 19h00 - 19h45: **[OWASP Summit Debrief](assets/2017-06-19/Belgium_Chapter_Summit_Debrief_v20170619.pdf)** (by Sebastien Deleersnyder, OWASP)
+* 19h45 - 20h30: **[Threat modeling lessons from Star Wars (BruCON Video)](https://www.youtube.com/watch?v=-2zvfevLnp4){:target="_blank"}** (by Adam Shostack, freelance security consultant)
 * 20h30 - ... : Reception
 
 
@@ -99,8 +99,8 @@ Hosted by [Ernst & Young](https://www.ey.com/)
 
 #### Agenda
 * 18h00 - 18h50: Welcome & sandwiches
-* 18h50 - 19h00: **OWASP Update** (by Lieven Desmet)
-* 19h00 - 19h45: **HTTP for the Good or the Bad** (by Xavier Mertens, freelance security consultant)
+* 18h50 - 19h00: **[OWASP Update](assets/2017-05-29/Owasp_Belgium_update_2017-05-29.pdf)** (by Lieven Desmet, OWASP BE)
+* 19h00 - 19h45: **[HTTP for the Good or the Bad](assets/2017-05-29/2017-05-29_OWASP-BE_HTTPForTheGoodOrTheBad.pdf)** (by Xavier Mertens, freelance security consultant)
 * 19h45 - 20h30: **Reverse engineering with Panopticon: a Libre Cross-Platform Disassembler** (by Kai Michaelis)
 * 20h30 - ... : Reception
 
@@ -111,10 +111,10 @@ Both speakers are faculty of the [Secure Application Development](https://www.se
 
 #### Address
 * 18h15 - 19h00: Welcome & sandwiches
-* 19h00 - 19h10: **OWASP Update** (by Lieven Desmet)
-* 19h10 - 20h00: **XSS defense strategies** (by Jim Manico, Manicode Security)
+* 19h00 - 19h10: **[OWASP Update](assets/2017-02-28/Owasp_Belgium_update_2017-02-28.pdf)** (by Lieven Desmet, OWASP BE)
+* 19h10 - 20h00: **[XSS defense strategies](assets/2017-02-28/Manico_XSS_Defense_Summary_2017-02-28.pdf)** (by Jim Manico, Manicode Security)
 * 20h00 - 20h10: Break
-* 20h10 - 21h00: **Why traditional Web security technologies no longer suffice** (by Philippe De Ryck, KU Leuven)
+* 20h10 - 21h00: **[Why traditional Web security technologies no longer suffice](assets/2017-02-28/DeRyck_OWASP_WebSecurityOverview_2017-02-28.pdf)** (by Philippe De Ryck, KU Leuven)
 
 
 ## 2016 chapter meetings
