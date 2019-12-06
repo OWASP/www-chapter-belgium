@@ -34,10 +34,10 @@ Hosted by [Secure Code Warrior](https://securecodewarrior.com/)
 
 #### Agenda
 * 18h00 - 18h50: Welcome & pizzas
-* 18h50 - 19h00: **OWASP Update** by Sebastien Deleersnyder (OWASP BE)
-* 19h00 - 19h30: **Effectively Distribute Software Security Knowledge** by Pieter De Cremer and Nathan Desmet (Secure Code Warrior)
+* 18h50 - 19h00: **[OWASP Update](assets/2018-10-23/OWASP_Belgium_update_2018-10-23_v1.pdf)** by Sebastien Deleersnyder (OWASP BE)
+* 19h00 - 19h30: **[Effectively Distribute Software Security Knowledge](assets/2018-10-23/OWASP_20181023_EffectivelyDistributeSoftwareSecurityKnowledge.pdf)** by Pieter De Cremer and Nathan Desmet (Secure Code Warrior)
 * 19h30 - 19h45: Beers from Bruges break
-* 19h45 - 20h25: **Common API Security Pitfalls** by Philippe De Ryck (Pragmatic Web Security)
+* 19h45 - 20h25: **[Common API Security Pitfalls](assets/2018-10-23/OWASP_20181023_CommonAPISecurityPitfalls.pdf)** by Philippe De Ryck (Pragmatic Web Security)
 * 20h25 - 22h00: Networking and more beers from Bruges
 
 
@@ -47,11 +47,11 @@ Hosted by the [European Commission](https://ec.europa.eu/)
 
 #### Agenda
 * 18h00 - 18h50: Welcome & sandwiches
-* 18h50 - 19h00: **OWASP Update** by Sebastien Deleersnyder (OWASP BE)
+* 18h50 - 19h00: **[OWASP Update](assets/2018-09-07/Owasp_Belgium_update_2018-09-17_v1.pdf)** by Sebastien Deleersnyder (OWASP BE)
 * 19h00 - 19h10: Intro by the EC by Miguel Soria Machado (Head of Sector CSIRC, DIGIT IT Security Directorate, European Commission)
-* 19h10 - 20h00: **Docker Threat Modeling and Top 10** by Dirk Wetter
+* 19h10 - 20h00: **[Docker Threat Modeling and Top 10](assets/2018-09-07/Dirk_Wetter_-_Docker_Security_Brussels.pdf)** by Dirk Wetter
 * 20h00 - 20h10: Break
-* 20h10 - 21h00: **Securing Containers on the High Seas** by Jack Mannino (nVisium)
+* 20h10 - 21h00: **[Securing Containers on the High Seas](assets/2018-09-07/Securing_Containers_on_the_High_Seas_(OWASP_Belgium_September_17-09-2018).pdf)** by Jack Mannino (nVisium)
 * 21h00 - 21h30: Networking drink
 
 
@@ -75,10 +75,10 @@ Both speakers are faculty of the [Secure Application Development](https://www.se
 
 #### Agenda
 * 18h15 - 19h00: Welcome & sandwiches
-* 19h00 - 19h10: **OWASP Update** by Sebastien Deleersnyder (OWASP BE)
-* 19h10 - 20h00: **Developers are not the enemy -- Usable Security for Experts** by Prof. Matthew Smith (University of Bonn)
+* 19h00 - 19h10: **[OWASP Update](assets/2018-02-20/Owasp_Belgium_update_2018-02-20_v1.pdf)** by Sebastien Deleersnyder (OWASP BE)
+* 19h10 - 20h00: **[Developers are not the enemy -- Usable Security for Experts](assets/2018-02-20/Developer are not the enemy SecAppDev web.pdf)** by Prof. Matthew Smith (University of Bonn)
 * 20h00 - 20h10: Break
-* 20h10 - 21h00: **The Code Behind The Vulnerability** by Barry Dorrans (Microsoft)
+* 20h10 - 21h00: **[The Code Behind The Vulnerability](assets/2018-02-20/The code behind the vulnerability.pdf)** by Barry Dorrans (Microsoft)
 
 
 ## 2017 chapter meetings
