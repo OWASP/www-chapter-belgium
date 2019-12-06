@@ -62,7 +62,7 @@ Hosted by [ING Belgium](https://www.ing.be/)
 #### Agenda
 * 18h15 - 19h00: Welcome & sandwiches
 * 19h00 - 19h10: **OWASP Update** by Sebastien Deleersnyder (OWASP BE)
-* 19h10 - 20h00: **KRACKing WPA2 in Practice Using Key Reinstallation Attacks** by Mathy Vanhoef (imec-DistriNet-KU Leuven)
+* 19h10 - 20h00: **KRACKing WPA2 in Practice Using Key Reinstallation Attacks** by Mathy Vanhoef (DistriNet, KU Leuven)
 * 20h00 - 20h10: Break
 * 20h10 - 21h00: **Making the web secure by design** by Glenn Ten Cate (ING Belgium) and Riccardo Ten Cate (Xebia)
 * 21h00 - 21h30: Networking drink
@@ -81,6 +81,16 @@ Both speakers are faculty of the [Secure Application Development](https://www.se
 * 20h10 - 21h00: **[The Code Behind The Vulnerability](assets/2018-02-20/The code behind the vulnerability.pdf)** by Barry Dorrans (Microsoft)
 
 
+
+
+
+
+
+
+
+
+
+
 ## 2017 chapter meetings
 
 ### 19 June 2017 Meeting (Brussels)
@@ -88,9 +98,9 @@ Hosted by [NVISO](https://www.nviso.be/)
 
 #### Agenda
 * 18h00 - 18h50: Welcome & sandwiches
-* 18h50 - 19h00: **OWASP Update** (by Sebastien Deleersnyder, OWASP)
-* 19h00 - 19h45: **[OWASP Summit Debrief](assets/2017-06-19/Belgium_Chapter_Summit_Debrief_v20170619.pdf)** (by Sebastien Deleersnyder, OWASP)
-* 19h45 - 20h30: **[Threat modeling lessons from Star Wars (BruCON Video)](https://www.youtube.com/watch?v=-2zvfevLnp4){:target="_blank"}** (by Adam Shostack, freelance security consultant)
+* 18h50 - 19h00: **OWASP Update** by Sebastien Deleersnyder (OWASP BE)
+* 19h00 - 19h45: **[OWASP Summit Debrief](assets/2017-06-19/Belgium_Chapter_Summit_Debrief_v20170619.pdf)** by Sebastien Deleersnyder (OWASP BE)
+* 19h45 - 20h30: **[Threat modeling lessons from Star Wars (BruCON Video)](https://www.youtube.com/watch?v=-2zvfevLnp4){:target="_blank"}** by Adam Shostack (freelance security consultant)
 * 20h30 - ... : Reception
 
 
@@ -99,9 +109,9 @@ Hosted by [Ernst & Young](https://www.ey.com/)
 
 #### Agenda
 * 18h00 - 18h50: Welcome & sandwiches
-* 18h50 - 19h00: **[OWASP Update](assets/2017-05-29/Owasp_Belgium_update_2017-05-29.pdf)** (by Lieven Desmet, OWASP BE)
-* 19h00 - 19h45: **[HTTP for the Good or the Bad](assets/2017-05-29/2017-05-29_OWASP-BE_HTTPForTheGoodOrTheBad.pdf)** (by Xavier Mertens, freelance security consultant)
-* 19h45 - 20h30: **Reverse engineering with Panopticon: a Libre Cross-Platform Disassembler** (by Kai Michaelis)
+* 18h50 - 19h00: **[OWASP Update](assets/2017-05-29/Owasp_Belgium_update_2017-05-29.pdf)** by Lieven Desmet (OWASP BE)
+* 19h00 - 19h45: **[HTTP for the Good or the Bad](assets/2017-05-29/2017-05-29_OWASP-BE_HTTPForTheGoodOrTheBad.pdf)** by Xavier Mertens (freelance security consultant)
+* 19h45 - 20h30: **Reverse engineering with Panopticon: a Libre Cross-Platform Disassembler** by Kai Michaelis
 * 20h30 - ... : Reception
 
 ### 28 February 2017 Meeting (Leuven)
@@ -111,10 +121,20 @@ Both speakers are faculty of the [Secure Application Development](https://www.se
 
 #### Address
 * 18h15 - 19h00: Welcome & sandwiches
-* 19h00 - 19h10: **[OWASP Update](assets/2017-02-28/Owasp_Belgium_update_2017-02-28.pdf)** (by Lieven Desmet, OWASP BE)
-* 19h10 - 20h00: **[XSS defense strategies](assets/2017-02-28/Manico_XSS_Defense_Summary_2017-02-28.pdf)** (by Jim Manico, Manicode Security)
+* 19h00 - 19h10: **[OWASP Update](assets/2017-02-28/Owasp_Belgium_update_2017-02-28.pdf)** by Lieven Desmet (OWASP BE)
+* 19h10 - 20h00: **[XSS defense strategies](assets/2017-02-28/Manico_XSS_Defense_Summary_2017-02-28.pdf)** by Jim Manico (Manicode Security)
 * 20h00 - 20h10: Break
-* 20h10 - 21h00: **[Why traditional Web security technologies no longer suffice](assets/2017-02-28/DeRyck_OWASP_WebSecurityOverview_2017-02-28.pdf)** (by Philippe De Ryck, KU Leuven)
+* 20h10 - 21h00: **[Why traditional Web security technologies no longer suffice](assets/2017-02-28/DeRyck_OWASP_WebSecurityOverview_2017-02-28.pdf)** by Philippe De Ryck (DistriNet, KU Leuven)
+
+
+
+
+
+
+
+
+
+
 
 
 ## 2016 chapter meetings
@@ -123,12 +143,12 @@ Hosted by [UGent](http://www.ugent.be/)
 
 #### Agenda
 * 18h15 - 19h00: Welcome & sandwiches
-* 19h00 - 19h10: **OWASP Update**
-* 19h15 - 19h45: **Find and fix software security problems… wait, do not make security mistakes in the first place!** (by Matias Madou)
+* 19h00 - 19h10: **[OWASP Update](assets/2016-10-18/Owasp_Belgium_update_2016-10-18_v1.pdf)**
+* 19h15 - 19h45: **[Find and fix software security problems… wait, do not make security mistakes in the first place!](assets/2016-10-18/Presentation_Sensei_Security_v17_for_distribution.pdf)** by Matias Madou (Sensei)
 * 19h45 - 19h55: Break
-* 19h55 - 20h30: **Exploit mitigation using Multi-Variant Execution** (by Stijn Volckaert)
+* 19h55 - 20h30: **[Exploit mitigation using Multi-Variant Execution](assets/2016-10-18/OWASP_MVEE.pdf)** by Stijn Volckaert (University of California, Irvine)
 * 20h30 - 20h40: Break
-* 20h40 - 21h15: **ASPIRE: Advanced Software Protection: Integration, Research, and Exploitation** (by Bjorn De Sutter)
+* 20h40 - 21h15: **[ASPIRE: Advanced Software Protection: Integration, Research, and Exploitation](assets/2016-10-18/OWASP-ASPIRE.pdf)** by Bjorn De Sutter (University of Ghent))
 * 21h15 - ...: drink and networking event
 
 
@@ -138,9 +158,9 @@ Hosted by [PwC](http://www.pwc.be/)
 #### Agenda
 * 18h15 - 19h00: Welcome & sandwiches
 * 19h00 - 19h15: **OWASP Update**
-* 19h15 - 20h00: **CloudPiercer: Bypassing Cloud-based Security Providers** (by Thomas Vissers, iMinds-DistriNet-KU Leuven)
+* 19h15 - 20h00: **[CloudPiercer: Bypassing Cloud-based Security Providers](assets/2016-09-08/CloudPiercerOwasp_20160908.pdf)** by Thomas Vissers (DistriNet, KU Leuven)
 * 20h00 - 20h15: Break
-* 20h15 - 21h15: **Hackers! Do we shoot or do we hug?** (by Edwin van Andel, Zerocopter)
+* 20h15 - 21h15: **[Hackers! Do we shoot or do we hug?](assets/2016-09-08/Owasp_Hackers_Do_we_shoot_or_do_we_hug.pdf)** by Edwin van Andel (Zerocopter)
 
 
 ### 23 May 2016 Meeting (Mechelen)
@@ -149,9 +169,9 @@ Hosted by [is4u](http://www.is4u.be/) at Moonbeat (Mechelen)
 #### Agenda
 * 18h00 - 19h00: Welcome & sandwiches
 * 19h00 - 19h10: **OWASP Update**
-* 19h10 - 20h00: **All Your Biases Belong to Us: Breaking RC4 in WPA-TKIP and TLS** (by Mathy Vanhoef, iMinds-DistriNet-KU Leuven)
+* 19h10 - 20h00: **All Your Biases Belong to Us: Breaking RC4 in WPA-TKIP and TLS** by Mathy Vanhoef (DistriNet, KU Leuven)
 * 20h00 - 20h10: Break
-* 20h10 - 21h00: **Docker Security** (by Nils De Moor, CTO at WooRank)
+* 20h10 - 21h00: **Docker Security** by Nils De Moor (CTO at WooRank)
 * 21h00 - ... : Networking drink
 
 
@@ -163,9 +183,16 @@ Both speakers are faculty of the [Secure Application Development](https://www.se
 #### Agenda
 * 18h15 - 19h00: Welcome & sandwiches
 * 19h00 - 19h15: **OWASP Update**
-* 19h15 - 20h15: **Writing robust client-side code using Modern JavaScript** (by Tom Van Cutsem, Bell Labs, Nokia)
+* 19h15 - 20h15: **[Writing robust client-side code using Modern JavaScript](assets/2016-03-08/JS_RobustModern_VanCutsem_OWASP2016.pdf)** by Tom Van Cutsem (Bell Labs, Nokia)
 * 20h15 - 20h30: Break
-* 20h30 - 21h30: **Internet Censorship: Studies from China and Turkey** (by prof. Dan Wallach, Rice University)
+* 20h30 - 21h30: **[Internet Censorship: Studies from China and Turkey](assets/2016-03-08/Dan-Wallach-internet-censorship.pdf)** by prof. Dan Wallach (Rice University)
+
+
+
+
+
+
+
 
 
 ## 2015 chapter meetings
@@ -178,9 +205,20 @@ Both speakers are faculty of the [Secure Application Development](https://www.se
 #### Agenda
 * 18h15 - 19h00: Welcome & sandwiches
 * 19h00 - 19h15: **OWASP Update** (by Sebastien Deleersnyder, OWASP Belgium Board)
-* 19h15 - 20h15: **Why Code Reviews and Pen-Tests Are Not Enough** (by Jim DelGrosso, Cigital)
+* 19h15 - 20h15: **[Why Code Reviews and Pen-Tests Are Not Enough](assets/2015-02-24/2015-02-24-Jim_DelGrosso-OWASP_Belgium,_Why_Code_Reviews_and_Pen-Tests_Are_Not_Enough.pdf)** (by Jim DelGrosso, Cigital)
 * 20h15 - 20h30: Break
-* 20h30 - 21h30: **An analysis of exploitation behaviors on the web and the role of web hosting providers in detecting them** (by prof. Aurélien Francillon, EURECOM)
+* 20h30 - 21h30: **[An analysis of exploitation behaviors on the web and the role of web hosting providers in detecting them](assets/2015-02-24/2015_02_24-Aurelien-Francillon-Owasp_leuven.pdf)** (by prof. Aurélien Francillon, EURECOM)
+
+
+
+
+
+
+
+
+
+
+
 
 ## 2014 chapter meetings
 
@@ -192,7 +230,7 @@ Hosted by [is4u](http://www.is4u.be/) at Moonbeat (Mechelen)
 * 18h45 - 19h00: **OWASP Update** (by Sebastien Deleersnyder, OWASP Belgium Board)
 * 19h00 - 20h00: **OWASP Top 10 Mobile Risks / demos** (by Erwin Geirnaert)
 * 20h00 - 20h15: Break
-* 20h15 - 20h30: **Investigating software security practices** (by Koen Yskout and Laurens Sion, iMinds-DistriNet)
+* 20h15 - 20h30: **[Investigating software security practices](assets/2014-12-17/Investigating_software_security_practices-2014-12-17-OWASP-BE.pdf)** (by Koen Yskout and Laurens Sion, iMinds-DistriNet)
 * 20h30 - 21h30: **OpenSAMM Best Practices: Lessons from the Trenches** (by Sebastien Deleersnyder and Bart De Win)
 
 ### 20 May 2014 Meeting (Brussels)
@@ -201,9 +239,9 @@ Hosted by [NVISO](https://www.nviso.be/)
 #### Agenda
 * 18h00 - 18h45: Welcome & sandwiches
 * 18h45 - 19h00: **OWASP Update** (by Bart De Win, OWASP Belgium Board)
-* 19h00 - 20h00: **Securing Password Storage – Increasing Resistance to Brute Force Attacks** (by Tiago Teles)
+* 19h00 - 20h00: **[Securing Password Storage – Increasing Resistance to Brute Force Attacks](assets/2014-05-20/Secure Password Storage AUS (w Notes).pdf)** (by Tiago Teles)
 * 20h00 - 20h15: Break
-* 20h15 - 21h15: **A history of ATM violence - From blowing up safes over jackpotting to all-round malware** (by Daan Raman and Erik Van Buggenhout)
+* 20h15 - 21h15: **[A history of ATM violence - From blowing up safes over jackpotting to all-round malware](assets/2014-05-20/A_history_of_ATM_violence_-_OWASP_Chapter_Night.pdf)** (by Daan Raman and Erik Van Buggenhout)
 
 
 ### 12 February 2014 Meeting (Leuven)
@@ -213,10 +251,19 @@ Both speakers are faculty of the [Secure Application Development](https://www.se
 
 #### Agenda
 * 18h00 - 18h45: Welcome & sandwiches
-* 18h45 - 19h00: **OWASP Update** (by Sebastien Deleersnyder, OWASP Belgium Board)
-* 19h00 - 20h00: **Smart metering privacy** (by George Danezis)
+* 18h45 - 19h00: **[OWASP Update](assets/2014-02-12/Owasp_Belgium_update_2013-12-17_v1.pdf)** (by Sebastien Deleersnyder, OWASP Belgium Board)
+* 19h00 - 20h00: **[Smart metering privacy](assets/2014-02-12/Danezis-owasp14.pdf)** (by George Danezis)
 * 20h00 - 20h15: Break
-* 20h15 - 21h15: **Securing Complex Forms** (by Jim Manico)
+* 20h15 - 21h15: **[Securing Complex Forms](assets/2014-02-12/HTML_Forms_and_Workflows_v3.pdf)** (by Jim Manico)
+
+
+
+
+
+
+
+
+
 
 ## 2013 chapter meetings
 ### 17 December 2013 Meeting (Leuven)
@@ -263,6 +310,11 @@ Both speakers are faculty of the [Secure Application Development](https://www.se
 * 18h45 - 19h45: **25 Years of Vulnerabilities** (by Yves Younan, Senior Research Engineer at Sourcefire)
 * 19h45 - 20h00: Break
 * 20h00 - 21h00: **Banking Security: Attacks and Defences** (by Steven Murdoch, Senior Researcher at University of Cambridge)
+
+
+
+
+
 
 
 ## 2012 chapter meetings
@@ -317,6 +369,11 @@ Hosted by [Cisco Belgium](https://www.cisco.com/c/en_be/index.html)
 * 20h00 - 21h00: **Hardening web applications against malware attacks** (by Erwin Geirnaert, Zion Security)
 
 
+
+
+
+
+
 ## 2011 chapter meetings
 ### 16 June 2011 Meeting (Brussels)
 Hosted by [Deloitte](http://www.deloitte.com/view/en_BE/be/index.htm)
@@ -340,6 +397,12 @@ Co-organized with the [ISSA (Information Systems Security Association)](http://w
 * 19h00 - 19h45: **Non-convential Attacks: Things your security scanners won't find** (by Tom Van Der Mussele, Verizon)
 * 19h45 - 20h30: **The Ghost of XSS Past, Present and Future – A Defensive Tale** (by Jim Manico, Infrared Security)
 * 20h30 - 21h00: **Discussion: How CERT.be & OWASP can improve web application security in Belgium** (by Christian Van Heurck, CERT.be)
+
+
+
+
+
+
 
 
 ## 2010 chapter meetings
@@ -388,6 +451,13 @@ Co-organized with the [ISSA (Information Systems Security Association)](http://w
 20h15 - 21h15: **MOBILE MALWARE NOW AND IN THE FUTURE** (by Mikko Hypponen, Chief Research Officer at F-Secure Corp)
 
 
+
+
+
+
+
+
+
 ## 2009 chapter meetings
 
 ### 15 September 2009 Meeting (Leuven)
@@ -419,6 +489,13 @@ Hosted by [Ernst & Young](https://www.ey.com/)
 * 19h30 - 20h00: **I thought you were my friend - Evil Markup, browser issues and other obscurities** (by Mario Heiderich)
 * 20h00 - 20h10: Break
 * 20h10 - 21h00: **Research on Belgian bank trojan attacks** (by Richard Bennett, software consultant)
+
+
+
+
+
+
+
 
 
 ## 2008 chapter meetings
@@ -483,6 +560,12 @@ Hosted by [DistriNet Research Group (KU Leuven)](https://distrinet.cs.kuleuven.b
 * 19h00 - 20h00: **Development life cycle issues** by Kenneth Van Wyck (KRvW Associates)
 * 20h00 - 20h15: break
 * 20h15 - 21h15: **Structural improvements for SDLs** by Bart De Win (DistriNet, KU Leuven)
+
+
+
+
+
+
 
 
 ## 2007 chapter meetings
@@ -564,6 +647,10 @@ Hosted by [Ernst & Young](https://www.ey.com/)
 
 
 
+
+
+
+
 ## 2006 chapter meetings
 
 ### JavaPolis 2006: 15/12/2006 (Antwerp)
@@ -619,6 +706,10 @@ On January 19th we had a New Years Drink. It was sponsored by Zion Security
 
 #### Agenda
 * **OWASP Update** by Sebastien Deleersnyder (Ascure)
+
+
+
+
 
 
 ## 2005 chapter meetings
