@@ -7,6 +7,47 @@ order: 2
 tags: belgium
 ---
 
+## 11 March 2020 meeting (Leuven)
+### Venue
+Hosted by [DistriNet Research Group (KU Leuven)](https://distrinet.cs.kuleuven.be/)
+
+Both speakers are faculty of the [Secure Application Development](https://www.secappdev.org/), a unique AppSec course held in Leuven from 2020-03-09 to 2020-03-13.
+
+#### Address
+<address>
+  DistriNet Research Group - KU Leuven <br/>
+  Department of Computer Science (foyer at ground floor)<br/>
+  Celestijnenlaan 200A <br/>
+  3001 Heverlee
+</address>
+
+* [map](http://googlemapsinterface.kuleuven.be/index.cgi?lang=N&nbol=(50.864186697481145,%204.678754210472107)&zoomlevel=17&plaatsnaam=Department+of+Computer+Science&maptype=roadmap)
+* [directions](https://distrinet.cs.kuleuven.be/about/route/)
+
+
+
+### Agenda
+* 18h00 - 18h50: Welcome & sandwiches
+* 18h50 - 19h00: **OWASP Update** 
+* 19h00 - 20h00: **The hitchhikers guide to secrets for cloud environments** by Abhay Bhargav (CEO we45)
+* 20h00 - 20h10: Break
+* 20h10 - 21h10: **Blueprint for secure JavaScript development** by Marcin Hoppe (Senior Manager, Product Security, Auth0)
+
+
+#### The hitchhikers guide to secrets for cloud environments
+From API Keys to encryption keys, the number of secrets an average app requires is increasing. The talk will focus on secrets management for Kubernetes, AWS and Azure environments with some gotchas and implementation nuances
+
+_Speaker:_ Abhay Bhargav is the Founder of we45, a focused Application Security Company. He is the Chief Architect of “Orchestron", a leading Application Vulnerability Correlation and Orchestration Framework. Abhay is a speaker and trainer at major industry events including DEF CON, BlackHat, OWASP AppSecUSA, EU and AppSecCali. His trainings have been sold-out events at conferences like AppSecUSA, EU, AppSecDay Melbourne, CodeBlue (Japan), BlackHat USA 2019, SHACK and so on.
+
+#### Blueprint for secure JavaScript development
+The Web runs on JavaScript. This session introduces patterns, tools, and processes for building secure applications in this important but often misunderstood and abused programming language.
+
+_Speaker:_ Marcin Hoppe leads the Product Security team at Auth0, an identity platform for application builders. He is passionate about building secure applications using JavaScript and promoting security best practices and responsible disclosure in this ecosystem. Marcin is also a member of the Node.js Ecosystem Security Working Group under the OpenJS Foundation where his work is focused on running the bug bounty program for third-party Node.js packages.
+
+### Registration
+Registration is free but mandatory (via EventBrite): <https://owasp-belgium-2020-03-11.eventbrite.com>
+
+
 ## 25 November 2019 meeting (Leuven)
 ### Venue
 Hosted by [DistriNet Research Group (KU Leuven)](https://distrinet.cs.kuleuven.be/)
@@ -47,7 +88,7 @@ Registration is free but mandatory (via EventBrite): <https://www.eventbrite.com
 ### Venue
 Hosted by [DistriNet Research Group (KU Leuven)](https://distrinet.cs.kuleuven.be/)
 
-Both speakers are faculty of the [Secure Application Development](https://www.secappdev.org/) course held in Leuven from 2019-02-18 to 2018-02-22.
+Both speakers are faculty of the [Secure Application Development](https://www.secappdev.org/) course held in Leuven from 2019-02-18 to 2019-02-22.
 
 #### Address
 <address>
