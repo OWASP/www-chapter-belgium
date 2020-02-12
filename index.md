@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP belgium
+title: OWASP Belgium
 tags: belgium
 level: 3
 region: Europe
