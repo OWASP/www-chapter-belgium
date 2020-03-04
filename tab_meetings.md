@@ -7,7 +7,40 @@ order: 2
 tags: belgium
 ---
 
-## 11 March 2020 meeting (Leuven)
+## 29 April 2020: OWASP - ING Open security conference (Brussels)
+
+ING Belgium is proud to organize an open security conference in collaboration with OWASP.
+
+### Venue
+The event will take place @ at ING Brussels on 29th of April 2020
+* A couple of workshops will be hosted during the day
+* The event will be for 300 people max
+* No marketing pitches 
+
+### Call for papers
+**Malware/Ransomware/Botnets/Worms/Spyware** are the main themes of this Conference.
+
+Those are active topics in the IT industry and this is the reason why we want to share more information about the attacking and defending point of view for these type of attacks.
+
+Please respond to this Call For Paper when you think you have a great presentation that you want to share.
+
+We would love to see some “fighting” stories about this topic and don’t be reluctant to include technical information in it as well.
+
+ 
+Each accepted paper is entitled to the following:
+* One hotel night
+* Flight ticket
+* A speaker slot of 45 - 60 minutes
+
+Please send your proposals till the 30th of March to <glenn.ten.cate@owasp.org>
+
+
+
+## <s>11 March 2020 meeting (Leuven)</s> 
+
+<span>CANCELLED</span>{: style="color: red"} Due to the CORVID-19 related cancellation of the [Secure Application Development](https://www.secappdev.org/) course, the chapter meeting will be cancelled as well. 
+
+{::comment}
 ### Venue
 Hosted by [DistriNet Research Group (KU Leuven)](https://distrinet.cs.kuleuven.be/)
 
@@ -25,7 +58,7 @@ Both speakers are faculty of the [Secure Application Development](https://www.se
 * [directions](https://distrinet.cs.kuleuven.be/about/route/)
 
 
-
+{:/comment}
 ### Agenda
 * 18h00 - 18h50: Welcome & sandwiches
 * 18h50 - 19h00: **OWASP Update** 
@@ -33,7 +66,7 @@ Both speakers are faculty of the [Secure Application Development](https://www.se
 * 20h00 - 20h10: Break
 * 20h10 - 21h10: **Blueprint for secure JavaScript development** by Marcin Hoppe (Senior Manager, Product Security, Auth0)
 
-
+{::comment}
 #### The hitchhikers guide to secrets for cloud environments
 From API Keys to encryption keys, the number of secrets an average app requires is increasing. The talk will focus on secrets management for Kubernetes, AWS and Azure environments with some gotchas and implementation nuances
 
@@ -47,6 +80,7 @@ _Speaker:_ Marcin Hoppe leads the Product Security team at Auth0, an identity pl
 ### Registration
 Registration is free but mandatory (via EventBrite): <https://owasp-belgium-2020-03-11.eventbrite.com>
 
+{:/comment}
 
 ## 25 November 2019 meeting (Leuven)
 ### Venue
