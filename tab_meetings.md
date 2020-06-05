@@ -6,8 +6,27 @@ tab: true
 order: 2
 tags: belgium
 ---
+## 6-7 June 2020: OWASP Chapters All Day (24 conference)
+Leaders from OWASP Chapters throughout the world invite you to join us for 24 hours of non-stop AppSec!
 
-## 29 April 2020: OWASP - ING Open security conference (Brussels)
+This **OWASP Chapters All Day** conference is scheduled for **June 6-7**, and features among others 2 local speakers: chapter lead **Seba Deleersnyder** (on OPEN SAMM v2) and PhD researcher **Victor Le Pochat** (on the Avalanche botnet takedown).
+
+The festivities will kick off with Welcoming Remarks and a Keynote presentation at 2pm local time (12:00 noon UTC) on Saturday, 6 June. Then, each hour, the (virtual) floor will be handed over to a leader from another OWASP Chapter, who will introduce speakers from their chapter/region. At 2pm local time (12:00 noon UTC) on Sunday, 7 June,  a brief recap and closing remarks will wrap up the Chapters All Day conference.
+
+The entire event will be live-streamed on the **[OWASP Chapters All Day](https://www.youtube.com/channel/UCJNkJT42qFOBdnD8pCpelrw/videos?view=2&flow=grid&live_view=502)** YouTube Channel. Each presentation segment (usually one hour in length) is hosted by a different Chapter Leader and will be streamed separately. Live viewers will need to select a new stream to view each host change, while those viewing the recordings later will find 25 videos, listed by hour and host chapter (e.g., “OWASP Chapters All Day - Hour 01 - Opening Session” or “OWASP Chapters All Day - Hour 13 - New Zealand”).
+
+**The OWASP Belgium time slot (with Sebastian and Victor) is scheduled at 3pm local time on Saturday!!**
+
+Ready to join?
+
+* Full schedule and details: <https://owasp.org/www-community/social/chapters_all_day/>
+* Livestream: <https://www.youtube.com/channel/UCJNkJT42qFOBdnD8pCpelrw>
+* Chat: channel #owasp-chapters-all-day on <https://owasp.slack.com/>. If you don't have an account, create one at <https://owasp-slack.herokuapp.com/>.
+
+
+
+## <s>29 April 2020: OWASP - ING Open security conference (Brussels)</s>
+<span>POSTPONED</span>{: style="color: red"} Due to the COVID-19 related restrictions, the chapter meeting will be postponed. 
 
 ING Belgium is proud to organize an open security conference in collaboration with OWASP.
 
@@ -38,7 +57,7 @@ Please send your proposals till the 30th of March to <glenn.ten.cate@owasp.org>
 
 ## <s>11 March 2020 meeting (Leuven)</s> 
 
-<span>CANCELLED</span>{: style="color: red"} Due to the CORVID-19 related cancellation of the [Secure Application Development](https://www.secappdev.org/) course, the chapter meeting will be cancelled as well. 
+<span>CANCELLED</span>{: style="color: red"} Due to the COVID-19 related cancellation of the [Secure Application Development](https://www.secappdev.org/) course, the chapter meeting will be cancelled as well. 
 
 {::comment}
 ### Venue
