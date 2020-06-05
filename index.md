@@ -16,7 +16,7 @@ With the Belgium chapter, we aim to organize 4 local chapter meetings per year a
 
 ## Upcoming events
 * **OWASP Chapters All Day (6-7 June 2020)**
-* **CANCELLED**{: style="color: red"}: **<s>OWASP - ING Open security conference (29/04/2020, Brussels)</s>**
+* **POSTPONED**{: style="color: red"}: **<s>OWASP - ING Open security conference (29/04/2020, Brussels)</s>**
 * **CANCELLED**{: style="color: red"}: **<s>OWASP BE chapter meeting (11/03/2020, Leuven)</s>**
 * **OWASP BeNeLux Days 2020 (26-27/11/2020, The Netherlands)**
 
