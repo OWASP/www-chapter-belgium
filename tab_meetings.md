@@ -6,6 +6,35 @@ tab: true
 order: 2
 tags: belgium
 ---
+## 23-27 November 2020: OWASP BeNeLux Days
+Block your agenda for 4 online evening sessions - more info will follow soon!!
+
+## 28 October 2020: OWASP BE Local virtual security day
+This virtual security day / conference is free to join for everybody and we have an amazing line up of interesting speakers and topics. Also we have multiple workshops you can attend for free.
+
+There are limited spots available so please register your interest quickly as possible.
+
+### Agenda Talks
+* 9h - 9h15: **OWASP Kickoff** (by Sebastien Deleersnyder & Glenn ten Cate)
+* 9h15 - 10h: **OWASP SAMM** (by Sebastien Deleersnyder)
+* 10h - 11h: **Making the web secure by design** (by Riccado ten Cate)
+* 11h - 11h45: **Zerologon - taking over an AD domain in three seconds** (by Tom Tervoort)
+* 11h45 - 12h45 break
+* 12h45 - 13h30: **Phoenix - Proactively detect and fight phishing attacks** (by Davide Cioccia and Stefan Petrushevski)
+* 13h30 - 14h15: **Using oldschool techniques to turn software to malware** (by Hidde Westerhof)
+* 14h15 - 15h **State of the internet** (by Peter Massini)
+* 15h - 15h05: **OWASP Closing word**
+
+### Agenda Workshops
+* **Workshop Malware general** (by Zsombor Kovacs)
+* **Workshop OWASP-SKF** (by Riccardo ten Cate)
+* **Workshop OWASP-SAMM** (by Sebastien Deleersnyder)
+* **Workshop Malware** / Red Teaming (by Tom Kallo)
+
+### Registration
+Registration for this virtual event is organised by Glenn, and required for attendance. More information can be found at <https://www.eventbrite.co.uk/e/owasp-be-virtual-security-conference-registration-125304706751> .
+
+
 ## 6-7 June 2020: OWASP Chapters All Day (24 conference)
 Leaders from OWASP Chapters throughout the world invite you to join us for 24 hours of non-stop AppSec!
 
