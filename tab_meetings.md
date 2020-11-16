@@ -9,6 +9,10 @@ tags: belgium
 ## 23-27 November 2020: OWASP BeNeLux Days
 **Block your agenda** for **4 online evening sessions** - more info will follow soon (see <https://www.owaspbenelux.eu/>)!!
 
+### Registration
+Registration for this virtual event series is  required for attendance. 
+[Registration via EventBrite](https://owasp-appsec-benelux-days-2020.eventbrite.com)
+
 ## 28 October 2020: OWASP BE Local virtual security day
 This virtual security day / conference is free to join for everybody and we have an amazing line up of interesting speakers and topics. Also we have multiple workshops you can attend for free.
 

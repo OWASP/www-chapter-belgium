@@ -17,7 +17,7 @@ With the Belgium chapter, we aim to organize 4 local chapter meetings per year a
 ## Upcoming events
 
 * **OWASP BE Local virtual security day, 28 OCT 2020, online, [register on EventBrite](https://www.eventbrite.co.uk/e/owasp-be-virtual-security-conference-registration-125304706751)**
-* **OWASP Virtual BeNeLux Days 2020, 23-27 NOV 2020, Online, details on <https://www.owaspbenelux.eu/>**
+* **OWASP Virtual BeNeLux Days 2020, 23-26 NOV 2020, Online, [register on EventBrite](https://owasp-appsec-benelux-days-2020.eventbrite.com) - details on <https://www.owaspbenelux.eu/>**
 
 ## Chapter sponsors
 {% include sponsors.md %}
