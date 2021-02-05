@@ -8,6 +8,8 @@ tags: belgium
 ---
 ## 18 February 2021: OWASP Belgium Virtual Chapter Meeting Series
 This virtual chapter meeting will host **Jim Manico**!
+When? From 17:00 until 18:00 CET.
+Where? Stay tuned for more information!
 
 Jim Manico is the founder of Manicode Security where he trains software developers on secure coding and security engineering. He is also the co-founder of the LocoMoco Security Conference and is an investor/advisor for BitDiscovery and Signal Sciences. Jim is a frequent speaker on secure software practices and is a member of the JavaOne rockstar speaker community. He is the author of Iron-Clad Java: Building Secure Web Applications from McGraw-Hill. For more information, visit <http://www.linkedin.com/in/jmanico>.
 
