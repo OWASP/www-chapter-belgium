@@ -17,7 +17,8 @@ With the Belgium chapter, we aim to organize 4 local chapter meetings per year a
 ## Upcoming events
 
 * A series of virtual chapter meetings will takes place in the coming weeks.
-Join us every 3rd Thursday from 17:00 until 18:00 CET.
+
+Join us **every 3rd Thursday of the month, from 17:00 until 18:00 CET**.
 [The next one will take place on 18/02/2021](https://owasp.org/www-chapter-belgium#div-meetings).
 
 ## Chapter sponsors
