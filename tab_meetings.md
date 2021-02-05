@@ -6,11 +6,17 @@ tab: true
 order: 2
 tags: belgium
 ---
+## 18 February 2021: OWASP Belgium Virtual Chapter Meeting Series
+This virtual chapter meeting will host **Jim Manico**!
+
+Jim Manico is the founder of Manicode Security where he trains software developers on secure coding and security engineering. He is also the co-founder of the LocoMoco Security Conference and is an investor/advisor for BitDiscovery and Signal Sciences. Jim is a frequent speaker on secure software practices and is a member of the JavaOne rockstar speaker community. He is the author of Iron-Clad Java: Building Secure Web Applications from McGraw-Hill. For more information, visit <http://www.linkedin.com/in/jmanico>.
+
+
 ## 23-27 November 2020: OWASP BeNeLux Days
 **Block your agenda** for **4 online evening sessions** - more info will follow soon (see <https://www.owaspbenelux.eu/>)!!
 
 ### Registration
-Registration for this virtual event series is  required for attendance. 
+Registration for this virtual event series is  required for attendance.
 [Registration via EventBrite](https://owasp-appsec-benelux-days-2020.eventbrite.com)
 
 ## 28 October 2020: OWASP BE Local virtual security day
@@ -59,7 +65,7 @@ Ready to join?
 
 
 ## <s>29 April 2020: OWASP - ING Open security conference (Brussels)</s>
-<span>POSTPONED</span>{: style="color: red"} Due to the COVID-19 related restrictions, the chapter meeting will be postponed. 
+<span>POSTPONED</span>{: style="color: red"} Due to the COVID-19 related restrictions, the chapter meeting will be postponed.
 
 ING Belgium is proud to organize an open security conference in collaboration with OWASP.
 
@@ -67,7 +73,7 @@ ING Belgium is proud to organize an open security conference in collaboration wi
 The event will take place @ at ING Brussels on 29th of April 2020
 * A couple of workshops will be hosted during the day
 * The event will be for 300 people max
-* No marketing pitches 
+* No marketing pitches
 
 ### Call for papers
 **Malware/Ransomware/Botnets/Worms/Spyware** are the main themes of this Conference.
@@ -78,7 +84,7 @@ Please respond to this Call For Paper when you think you have a great presentati
 
 We would love to see some “fighting” stories about this topic and don’t be reluctant to include technical information in it as well.
 
- 
+
 Each accepted paper is entitled to the following:
 * One hotel night
 * Flight ticket
@@ -88,9 +94,9 @@ Please send your proposals till the 30th of March to <glenn.ten.cate@owasp.org>
 
 
 
-## <s>11 March 2020 meeting (Leuven)</s> 
+## <s>11 March 2020 meeting (Leuven)</s>
 
-<span>CANCELLED</span>{: style="color: red"} Due to the COVID-19 related cancellation of the [Secure Application Development](https://www.secappdev.org/) course, the chapter meeting will be cancelled as well. 
+<span>CANCELLED</span>{: style="color: red"} Due to the COVID-19 related cancellation of the [Secure Application Development](https://www.secappdev.org/) course, the chapter meeting will be cancelled as well.
 
 {::comment}
 ### Venue
@@ -113,7 +119,7 @@ Both speakers are faculty of the [Secure Application Development](https://www.se
 {:/comment}
 ### Agenda
 * 18h00 - 18h50: Welcome & sandwiches
-* 18h50 - 19h00: **OWASP Update** 
+* 18h50 - 19h00: **OWASP Update**
 * 19h00 - 20h00: **The hitchhikers guide to secrets for cloud environments** by Abhay Bhargav (CEO we45)
 * 20h00 - 20h10: Break
 * 20h10 - 21h10: **Blueprint for secure JavaScript development** by Marcin Hoppe (Senior Manager, Product Security, Auth0)
