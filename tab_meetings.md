@@ -11,6 +11,12 @@ This virtual chapter meeting will host **Jim Manico**!
 * **When?** From 17:00 until 18:00 CET.
 * **Where?** Stay tuned for more information!
 
+# JWT's
+
+"sign em like it's hot"
+
+When needing to overtake an existing form of government (ie: cookie based traditional session management) one must carefully plan how to raid that traditional institution and bring about a new regime (ie: JWT based session management). Often, radical shifts in governance require new leadership institutions (key management, more challenging logout functionality, managing the increase in complexity, access control considerations, etc). Ahem.
+
 Jim Manico is the founder of Manicode Security where he trains software developers on secure coding and security engineering. He is also the co-founder of the LocoMoco Security Conference and is an investor/advisor for BitDiscovery and Signal Sciences. Jim is a frequent speaker on secure software practices and is a member of the JavaOne rockstar speaker community. He is the author of Iron-Clad Java: Building Secure Web Applications from McGraw-Hill. For more information, visit <http://www.linkedin.com/in/jmanico>.
 
 
