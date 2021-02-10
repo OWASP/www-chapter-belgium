@@ -11,9 +11,8 @@ This virtual chapter meeting will host **Jim Manico**!
 * **When?** From 17:00 until 18:00 CET.
 * **Where?** Stay tuned for more information!
 
-# JWT's
-
-"sign em like it's hot"
+### JWT's
+*"sign em like it's hot"*
 
 When needing to overtake an existing form of government (ie: cookie based traditional session management) one must carefully plan how to raid that traditional institution and bring about a new regime (ie: JWT based session management). Often, radical shifts in governance require new leadership institutions (key management, more challenging logout functionality, managing the increase in complexity, access control considerations, etc). Ahem.
 
