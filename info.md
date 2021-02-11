@@ -5,5 +5,6 @@
 * [Become a chapter sponsor](https://www.owasp.org/index.php/Local_Chapter_Supporter)
 * [OWASP BE on Twitter](https://twitter.com/owasp_be)
 * [OWASP BE Youtube Channel](https://www.youtube.com/channel/UCse6RTiGd7oxJW4i_-TkZgA)
+* [OWASP BE Group on LinkedIn](https://www.linkedin.com/groups/37865/)
 
 * [Meetup](https://www.meetup.com/brussels-owasp-meetup-group/)
