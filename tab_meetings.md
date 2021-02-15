@@ -9,6 +9,7 @@ tags: belgium
 ## 18 February 2021: OWASP Belgium Virtual Chapter Meeting Series
 This virtual chapter meeting will host **Jim Manico**!
 * **When?** From 17:00 until 18:00 CET.
+* **Registration?** via <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/> (attendence **free of charge**)
 * **Where?** Stay tuned for more information!
 
 ### JWT's
