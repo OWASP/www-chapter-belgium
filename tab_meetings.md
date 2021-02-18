@@ -10,7 +10,7 @@ tags: belgium
 To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thursday of the month, we invite a renowned, international speaker to join us in a focused evening session.
 
 For now, the calendar looks as follows:
-* February 18th: **Jim Manicode** and **Philippe De Ryck** with ***JWT's  - sign em like it's hot***
+* February 18th: [**Jim Manicode** and **Philippe De Ryck** with ***JWT's  - sign em like it's hot***](#18-february-2021-jwts-sign-em-like-its-hot-by-jim-manico-and-philippe-de-ryck)
 * March 18th: **Steven Springett** with ***Component Analysis vs SCA - How SBOMs are the driving force for change***
 * April 15th: **Marc Curphey**
 * May 20th: **Jeremiah Grossman** with ***Why Attack Surface Management is Hard***
