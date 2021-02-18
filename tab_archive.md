@@ -8,6 +8,7 @@ tags: belgium
 ---
 
 ## Meeting archive
+* [2020 chapter meetings](#2020-chapter-meetings)
 * [2019 chapter meetings](#2019-chapter-meetings)
 * [2018 chapter meetings](#2018-chapter-meetings)
 * [2017 chapter meetings](#2017-chapter-meetings)
@@ -23,6 +24,74 @@ tags: belgium
 * [2007 chapter meetings](#2007-chapter-meetings)
 * [2006 chapter meetings](#2006-chapter-meetings)
 * [2005 chapter meetings](#2005-chapter-meetings)
+
+## 2020 chapter meetings
+
+### 23-27 November 2020: OWASP BeNeLux Days
+**Block your agenda** for **4 online evening sessions** - more info will follow soon (see <https://www.owaspbenelux.eu/>)!!
+
+
+### 28 October 2020: OWASP BE Local virtual security day
+This virtual security day / conference is free to join for everybody and we have an amazing line up of interesting speakers and topics. Also we have multiple workshops you can attend for free.
+
+#### Agenda Talks
+* 9h - 9h15: **OWASP Kickoff** (by Sebastien Deleersnyder & Glenn ten Cate)
+* 9h15 - 10h: **OWASP SAMM** (by Sebastien Deleersnyder)
+* 10h - 11h: **Making the web secure by design** (by Riccado ten Cate)
+* 11h - 11h45: **Zerologon - taking over an AD domain in three seconds** (by Tom Tervoort)
+* 11h45 - 12h45 break
+* 12h45 - 13h30: **Phoenix - Proactively detect and fight phishing attacks** (by Davide Cioccia and Stefan Petrushevski)
+* 13h30 - 14h15: **Using oldschool techniques to turn software to malware** (by Hidde Westerhof)
+* 14h15 - 15h **State of the internet** (by Peter Massini)
+* 15h - 15h05: **OWASP Closing word**
+
+#### Agenda Workshops
+* **Workshop Malware general** (by Zsombor Kovacs)
+* **Workshop OWASP-SKF** (by Riccardo ten Cate)
+* **Workshop OWASP-SAMM** (by Sebastien Deleersnyder)
+* **Workshop Malware** / Red Teaming (by Tom Kallo)
+
+
+### 6-7 June 2020: OWASP Chapters All Day (24 conference)
+Leaders from OWASP Chapters throughout the world invite you to join us for 24 hours of non-stop AppSec!
+
+This **OWASP Chapters All Day** conference is scheduled for **June 6-7**, and features among others 2 local speakers: chapter lead **Seba Deleersnyder** (on OPEN SAMM v2) and PhD researcher **Victor Le Pochat** (on the Avalanche botnet takedown).
+
+The festivities will kick off with Welcoming Remarks and a Keynote presentation at 2pm local time (12:00 noon UTC) on Saturday, 6 June. Then, each hour, the (virtual) floor will be handed over to a leader from another OWASP Chapter, who will introduce speakers from their chapter/region. At 2pm local time (12:00 noon UTC) on Sunday, 7 June,  a brief recap and closing remarks will wrap up the Chapters All Day conference.
+
+**The OWASP Belgium time slot (with Sebastian and Victor) is scheduled at 3pm local time on Saturday!!**
+
+The full schedule and details are available at <https://owasp.org/www-community/social/chapters_all_day/> .
+
+
+### <s>29 April 2020: OWASP - ING Open security conference (Brussels)</s>
+<span>POSTPONED</span>{: style="color: red"} Due to the COVID-19 related restrictions, the chapter meeting will be postponed.
+
+ING Belgium is proud to organize an open security conference in collaboration with OWASP.
+
+#### Venue
+The event will take place @ at ING Brussels on 29th of April 2020
+* A couple of workshops will be hosted during the day
+* The event will be for 300 people max
+* No marketing pitches
+
+
+### <s>11 March 2020 meeting (Leuven)</s>
+
+<span>CANCELLED</span>{: style="color: red"} Due to the COVID-19 related cancellation of the [Secure Application Development](https://www.secappdev.org/) course, the chapter meeting will be cancelled as well.
+
+#### Venue
+Hosted by [DistriNet Research Group (KU Leuven)](https://distrinet.cs.kuleuven.be/)
+
+Both speakers are faculty of the [Secure Application Development](https://www.secappdev.org/), a unique AppSec course held in Leuven from 2020-03-09 to 2020-03-13.
+
+#### Agenda
+* 18h00 - 18h50: Welcome & sandwiches
+* 18h50 - 19h00: **OWASP Update**
+* 19h00 - 20h00: **The hitchhikers guide to secrets for cloud environments** by Abhay Bhargav (CEO we45)
+* 20h00 - 20h10: Break
+* 20h10 - 21h10: **Blueprint for secure JavaScript development** by Marcin Hoppe (Senior Manager, Product Security, Auth0)
+
 
 ## 2019 chapter meetings
 
