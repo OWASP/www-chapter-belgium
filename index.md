@@ -16,7 +16,7 @@ With the Belgium chapter, we aim to organize 4 local chapter meetings per year a
 
 ## Upcoming events
 
-* A series of virtual chapter meetings will takes place in the coming weeks.
+To kickstart 2021, we plan a **series of virtual chapter meetings** with renowned, international speakers!
 
 Join us **every 3rd Thursday of the month, from 17:00 until 18:00 CET**.
 
@@ -28,9 +28,9 @@ For now, the calendar looks as follows:
 * June 17th: **Simon Bennets** with ***ZAP Intro and Latest Features***
 * ...
 
-Registration: <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/>
+**Registration**: <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/>
 
-[More info on the 'Chapter Meetings' tab](https://owasp.org/www-chapter-belgium/#div-meetings).
+**More info**: [on the 'Chapter Meetings' tab](https://owasp.org/www-chapter-belgium/#div-meetings).
 
 ## Chapter sponsors
 {% include sponsors.md %}
