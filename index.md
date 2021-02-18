@@ -26,7 +26,7 @@ For now, the calendar looks as follows:
 * April 15th: **Marc Curphey** wuth ***Upcoming open-source AWS Discovery tool***
 * May 20th: **Jeremiah Grossman** with ***Why Attack Surface Management is Hard***
 * June 17th: **Simon Bennets** with ***ZAP Intro and Latest Features***
-* September 16th: TBD
+* September 16th: **Andrew van der Stock** with ***The OWASP Top 10 2021***
 * October 21st: **Christian Folini** with ***The adventurous tale of online voting in Switzerland***
 
 **Registration**: <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/>
