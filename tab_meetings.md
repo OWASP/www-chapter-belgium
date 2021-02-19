@@ -10,7 +10,7 @@ tags: belgium
 To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thursday of the month, we invite a renowned, international speaker to join us in a focused evening session.
 
 For now, the calendar looks as follows:
-* February 18th: [**Jim Manicode** and **Philippe De Ryck** with ***JWT's  - sign em like it's hot***](#18-february-2021-jwts-sign-em-like-its-hot-by-jim-manico-and-philippe-de-ryck)
+* February 18th: [**Jim Manicode** and **Philippe De Ryck** with ***JWT's  - sign em like it's hot***](https://www.youtube.com/watch?v=yZoF2wNG78c) [Slides](assets/2021/2021-02-18/JWT-Security.pdf)
 * March 18th: **Steven Springett** with ***Component Analysis vs SCA - How SBOMs are the driving force for change***
 * April 15th: **Marc Curphey** wuth ***Upcoming open-source AWS Discovery tool***
 * May 20th: **Jeremiah Grossman** with ***Why Attack Surface Management is Hard***
@@ -35,6 +35,10 @@ This virtual chapter meeting will host **Jim Manico** and **Philippe De Ryck**!
 #### JWT's *"sign em like it's hot"*
 
 When needing to overtake an existing form of government (ie: cookie based traditional session management) one must carefully plan how to raid that traditional institution and bring about a new regime (ie: JWT based session management). Often, radical shifts in governance require new leadership institutions (key management, more challenging logout functionality, managing the increase in complexity, access control considerations, etc). Ahem.
+
+#### Presentation
+* Slides: [JWT Security](assets/2021/2021-02-18/JWT-Security.pdf)
+* [YouTube recording](https://www.youtube.com/watch?v=yZoF2wNG78c)
 
 #### Jim Manico (Founder, Mancode Security)
 Jim Manico is the founder of Manicode Security where he trains software developers on secure coding and security engineering. He is also the co-founder of the LocoMoco Security Conference and is an investor/advisor for BitDiscovery and Signal Sciences. Jim is a frequent speaker on secure software practices and is a member of the JavaOne rockstar speaker community. He is the author of Iron-Clad Java: Building Secure Web Applications from McGraw-Hill. For more information, visit <http://www.linkedin.com/in/jmanico>.
