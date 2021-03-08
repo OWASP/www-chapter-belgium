@@ -12,7 +12,7 @@ To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thurs
 For now, the calendar looks as follows:
 * February 18th: **Jim Manicode** and **Philippe De Ryck** with ***JWT's  - sign em like it's hot*** [[Video]](https://www.youtube.com/watch?v=yZoF2wNG78c) [[Slides]](assets/2021/2021-02-18/JWT-Security.pdf)
 * March 18th: **Marc Curphey** wuth ***Upcoming open-source AWS Discovery tool***
-* Aoril 15th: **Steven Springett** with [***Component Analysis vs SCA - How SBOMs are the driving force for change***](#15-april-2021-component-analysis-vs-sca---how-sboms-are-the-driving-force-for-change-by-steven-springett)
+* April 15th: **Steven Springett** with [***Component Analysis vs SCA - How SBOMs are the driving force for change***](#15-april-2021-component-analysis-vs-sca---how-sboms-are-the-driving-force-for-change-by-steven-springett)
 * May 20th: **Jeremiah Grossman** with ***Why Attack Surface Management is Hard***
 * June 17th: **Simon Bennets** with ***ZAP Intro and Latest Features***
 * September 16th: **Andrew van der Stock** with ***The OWASP Top 10 2021***
