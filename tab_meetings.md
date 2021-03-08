@@ -11,7 +11,7 @@ To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thurs
 
 For now, the calendar looks as follows:
 * February 18th: **Jim Manicode** and **Philippe De Ryck** with ***JWT's  - sign em like it's hot*** [[Video]](https://www.youtube.com/watch?v=yZoF2wNG78c) [[Slides]](assets/2021/2021-02-18/JWT-Security.pdf)
-* March 18th: **Steven Springett** with ***Component Analysis vs SCA - How SBOMs are the driving force for change***
+* March 18th: **Steven Springett** with [***Component Analysis vs SCA - How SBOMs are the driving force for change***](#18-march-2021-component-analysis-vs-sca---how-sboms-are-the-driving-force-for-change-by-steven-springett)
 * April 15th: **Marc Curphey** wuth ***Upcoming open-source AWS Discovery tool***
 * May 20th: **Jeremiah Grossman** with ***Why Attack Surface Management is Hard***
 * June 17th: **Simon Bennets** with ***ZAP Intro and Latest Features***
@@ -23,9 +23,25 @@ Our chapter meetings are open for everyone, and attendance is free of charge. We
 **Practicalities**:
 * **When?** From 17:00 until 18:00 CET.
 * **Registration?** via <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/> (attendence **free of charge**)
-* **Where?** Online! [YouTube Livestream](https://www.youtube.com/watch?v=yZoF2wNG78c) - Zoom session via Eventbrite
+* **Where?** Online! [YouTube Livestream](https://www.youtube.com/channel/UCse6RTiGd7oxJW4i_-TkZgA) - Zoom session via Eventbrite
 * **Price?** Free of charge!
 
+### 18 March 2021: Component Analysis vs SCA - How SBOMs are the driving force for change (by Steven Springett)
+This virtual chapter meeting will host **Steven Springett**!
+* **When?** From 17:00 until 18:00 CET.
+* **Registration?** via <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/> (attendence **free of charge**)
+* **Where?** Online! [YouTube Livestream](https://www.youtube.com/channel/UCse6RTiGd7oxJW4i_-TkZgA) - Zoom session via Eventbrite
+
+#### Component Analysis vs SCA - How SBOMs are the driving force for change
+This walk would dive into the CycloneDX Software Bill of Materials specification and world-wide efforts to identify and reduce risk in the global software supply chain.
+
+#### Steven Springett
+Steve educates teams on the strategy and specifics of developing secure software.
+He practices security at every stage of the development lifecycle by leading sessions on threat modeling, secure architecture and design, static/dynamic/component analysis, offensive research, and defensive programming techniques.
+Steve's passionate about helping organizations identify and reduce risk from the use of third-party and open source components. He is an open source advocate and leads the OWASP Dependency-Track project, OWASP Software Component Verification Standard (SCVS) project, CycloneDX software bill of materials standard, and participates in several related projects and working groups.
+
+
+{::comment}
 ### 18 February 2021: JWT's *"sign em like it's hot"* (by Jim Manico and Philippe De Ryck)
 This virtual chapter meeting will host **Jim Manico** and **Philippe De Ryck**!
 * **When?** From 17:00 until 18:00 CET.
@@ -45,3 +61,4 @@ Jim Manico is the founder of Manicode Security where he trains software develope
 
 #### Dr. Philippe De Ryck (Web Security Expert, Founder of Pragmatic Web Security)
 Philippe De Ryck helps developers protect companies through better web security. His Ph.D. in web security from KU Leuven lies at the basis of his exceptional knowledge of the security landscape. As the founder of Pragmatic Web Security, Philippe delivers security training and security consulting to companies worldwide. His online course platform allows anyone to learn complex security topics at their own pace. Philippe is a Google Developer Expert and an Auth0 Ambassador/Expert for his community contributions on the security of web applications and APIs. For more information, check [Twitter](https://twitter.com/PhilippeDeRyck), [LinkedIn](https://www.linkedin.com/in/PhilippeDeRyck/) or [Github](https://github.com/philippederyck/).
+{:/comment}
