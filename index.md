@@ -22,10 +22,10 @@ Join us **every 3rd Thursday of the month, from 17:00 until 18:00 CET**.
 
 For now, the calendar looks as follows:
 * February 18th: **Jim Manicode** and **Philippe De Ryck** with ***JWT's  - sign em like it's hot***
-* March 18th: **Marc Curphey** wuth ***Upcoming open-source AWS Discovery tool***
-* April 15th: **Steven Springett** with ***Component Analysis vs SCA - How SBOMs are the driving force for change***
+* March 18th: **Steven Springett** with ***Component Analysis vs SCA - How SBOMs are the driving force for change***
+* April 15th: **Simon Bennets** with ***ZAP Intro and Latest Features***
 * May 20th: **Jeremiah Grossman** with ***Why Attack Surface Management is Hard***
-* June 17th: **Simon Bennets** with ***ZAP Intro and Latest Features***
+* June 17th: **Marc Curphey** wuth ***Upcoming open-source AWS Discovery tool***
 * September 16th: **Andrew van der Stock** with ***The OWASP Top 10 2021***
 * October 21st: **Christian Folini** with ***The adventurous tale of online voting in Switzerland***
 
