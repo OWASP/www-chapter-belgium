@@ -25,7 +25,7 @@ For now, the calendar looks as follows:
 * March 18th: **Steven Springett** with ***Component Analysis vs SCA - How SBOMs are the driving force for change***
 * April 15th: **Simon Bennets** with ***ZAP Intro and Latest Features***
 * May 20th: **Jeremiah Grossman** with ***Why Attack Surface Management is Hard***
-* June 17th: **Marc Curphey** wuth ***Upcoming open-source AWS Discovery tool***
+* June 17th: **Marc Curphey** with ***Upcoming open-source AWS Discovery tool***
 * September 16th: **Andrew van der Stock** with ***The OWASP Top 10 2021***
 * October 21st: **Christian Folini** with ***The adventurous tale of online voting in Switzerland***
 
