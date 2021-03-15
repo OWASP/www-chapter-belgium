@@ -30,7 +30,7 @@ Our chapter meetings are open for everyone, and attendance is free of charge. We
 This virtual chapter meeting will host **Steven Springett**!
 * **When?** From 17:00 until 18:00 CET.
 * **Registration?** via <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/> (attendence **free of charge**)
-* **Where?** Online! [YouTube Livestream](https://www.youtube.com/channel/UCse6RTiGd7oxJW4i_-TkZgA) - Zoom session via Eventbrite
+* **Where?** Online! [YouTube Livestream](https://www.youtube.com/watch?v=65-R52Z9wL8) - Zoom session via Eventbrite
 
 #### Component Analysis vs SCA - How SBOMs are the driving force for change
 This walk would dive into the CycloneDX Software Bill of Materials specification and world-wide efforts to identify and reduce risk in the global software supply chain.
