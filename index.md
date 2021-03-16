@@ -22,13 +22,12 @@ Join us **every 3rd Thursday of the month, from 17:00 until 18:00 CET**.
 
 For now, the calendar looks as follows:
 * February 18th: **Jim Manicode** and **Philippe De Ryck** with ***JWT's  - sign em like it's hot***
-* March 18th: **Steven Springett** with ***Component Analysis vs SCA - How SBOMs are the driving force for change***
-* April 15th: **Simon Bennets** with ***ZAP Intro and Latest Features***
+* March 18th: **Christian Folini** with ***The adventurous tale of online voting in Switzerland*** <span><small>CHANGE IN PROGRAM</small></span>{: .small style="color: red"}
+* April 15th: **Simon Bennets** with ***ZAP Intro and Latest Features*** <span><small>CHANGE IN PROGRAM</small></span>{: .small style="color: red"}
 * May 20th: **Jeremiah Grossman** with ***Why Attack Surface Management is Hard***
 * June 17th: **Marc Curphey** with ***Upcoming open-source AWS Discovery tool***
 * September 16th: **Andrew van der Stock** with ***The OWASP Top 10 2021***
-* October 21st: **Christian Folini** with ***The adventurous tale of online voting in Switzerland***
-
+* October 21st: **Steven Springett** with ***Component Analysis vs SCA - How SBOMs are the driving force for change***
 **Registration**: <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/>
 
 **More info**: [on the 'Chapter Meetings' tab](https://owasp.org/www-chapter-belgium/#div-meetings).

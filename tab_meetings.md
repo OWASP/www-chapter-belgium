@@ -11,12 +11,16 @@ To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thurs
 
 For now, the calendar looks as follows:
 * February 18th: **Jim Manicode** and **Philippe De Ryck** with ***JWT's  - sign em like it's hot*** [[Video]](https://www.youtube.com/watch?v=yZoF2wNG78c) [[Slides]](assets/2021/2021-02-18/JWT-Security.pdf)
-* March 18th: **Steven Springett** with [***Component Analysis vs SCA - How SBOMs are the driving force for change***](#18-march-2021-component-analysis-vs-sca---how-sboms-are-the-driving-force-for-change-by-steven-springett)
-* April 15th: **Simon Bennets** with ***ZAP Intro and Latest Features***
+* March 18th: **Christian Folini** with [***The adventurous tale of online voting in Switzerland***](#18-march-2021-the-adventurous-tale-of-online-voting-in-switzerland) <span><small>CHANGE IN PROGRAM</small></span>{: .small style="color: red"}
+* April 15th: **Simon Bennets** with ***ZAP Intro and Latest Features*** <span><small>CHANGE IN PROGRAM</small></span>{: .small style="color: red"}
 * May 20th: **Jeremiah Grossman** with ***Why Attack Surface Management is Hard***
 * June 17th: **Marc Curphey** with ***Upcoming open-source AWS Discovery tool***
 * September 16th: **Andrew van der Stock** with ***The OWASP Top 10 2021***
-* October 21st: **Christian Folini** with ***The adventurous tale of online voting in Switzerland***
+* October 21st: **Steven Springett** with ***Component Analysis vs SCA - How SBOMs are the driving force for change***
+
+{::comment}
+* October 21st: **Steven Springett** with [***Component Analysis vs SCA - How SBOMs are the driving force for change***](#18-march-2021-component-analysis-vs-sca---how-sboms-are-the-driving-force-for-change-by-steven-springett)
+{:/comment}
 
 Our chapter meetings are open for everyone, and attendance is free of charge. We ask you to [register on Eventbrite](https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/) in order to provide you with last-minute updates, if needed.
 
@@ -26,6 +30,32 @@ Our chapter meetings are open for everyone, and attendance is free of charge. We
 * **Where?** Online! [YouTube Livestream](https://www.youtube.com/channel/UCse6RTiGd7oxJW4i_-TkZgA) - Zoom session via Eventbrite
 * **Price?** Free of charge!
 
+### 18 March 2021: The adventurous tale of online voting in Switzerland
+This virtual chapter meeting will host **Christian Folini**!
+* **When?** From 17:00 until 18:00 CET.
+* **Registration?** via <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/> (attendence **free of charge**)
+* **Where?** Online! [YouTube Livestream](https://www.youtube.com/watch?v=65-R52Z9wL8) - Zoom session via Eventbrite
+
+#### The adventurous tale of online voting in Switzerland
+The Swiss tale with online voting serves as a typical example of the iterative development of highly critical IT systems and the growing involvement of scientists as a necessary step for a government that is willing to learn from past mistakes.
+
+Switzerland has been experimenting with online voting for over 15 years. Several generations of electronic voting systems have been implemented and almost all of them died along the way because of their profound security problems or when the money ran out.
+In 2019, Swiss Post published the source code of its online voting system, the last system that was still in the race. Several highly critical findings were discovered in a matter of weeks and the system was stopped right before the national elections.
+
+In 2020, the government rebooted the process and invited two dozen international researchers into an intense dialogue that lasted several months. The resulting report is at the base for the renewed regulation that will pave the way forward in 2021.
+
+
+#### Christian Folini
+Christian Folini is a security engineer and open source enthusiast. He holds a Ph.D. in medieval history and enjoys defending castles across Europe. Unfortunately, defending medieval castles is not a big business anymore and he turned to defending web servers, which he finds equally challenging. He brings more than ten years of experience with ModSecurity configuration in high-security environments, DDoS defense, and threat modeling.
+
+Christian Folini is the author of the second edition of the ModSecurity Handbook and the best-known teacher on the subject. He co-leads the OWASP ModSecurity Core Rule Set project and serves as the program chair of the "Swiss Cyber Storm" conference, the prime security conference in Switzerland.
+
+He stood in the first line of the defenders when the Swiss Post Online Voting system was put up for a public intrusion test in 2019. The following year, he moderated a dialogue between the Swiss government and a group of two dozens researchers on online voting. This dialogue resulted in a report with several hundred pages.
+
+Christian Folini is a frequent speaker at conferences. When speaking, he tries to use his background in the humanities to explain hardcore technical topics to audiences of different backgrounds. [Twitter](https://twitter.com/ChrFolini)
+
+
+{::comment}
 ### 18 March 2021: Component Analysis vs SCA - How SBOMs are the driving force for change (by Steven Springett)
 This virtual chapter meeting will host **Steven Springett**!
 * **When?** From 17:00 until 18:00 CET.
@@ -41,7 +71,7 @@ He practices security at every stage of the development lifecycle by leading ses
 Steve's passionate about helping organizations identify and reduce risk from the use of third-party and open source components. He is an open source advocate and leads the OWASP Dependency-Track project, OWASP Software Component Verification Standard (SCVS) project, CycloneDX software bill of materials standard, and participates in several related projects and working groups.
 
 
-{::comment}
+
 ### 18 February 2021: JWT's *"sign em like it's hot"* (by Jim Manico and Philippe De Ryck)
 This virtual chapter meeting will host **Jim Manico** and **Philippe De Ryck**!
 * **When?** From 17:00 until 18:00 CET.
