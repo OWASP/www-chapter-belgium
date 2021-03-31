@@ -28,6 +28,7 @@ For now, the calendar looks as follows:
 * June 17th: **Marc Curphey** with ***Upcoming open-source AWS Discovery tool***
 * September 16th: **Andrew van der Stock** with ***The OWASP Top 10 2021***
 * October 21st: **Steven Springett** with ***Component Analysis vs SCA - How SBOMs are the driving force for change***
+
 **Registration**: <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/>
 
 **More info**: [on the 'Chapter Meetings' tab](https://owasp.org/www-chapter-belgium/#div-meetings).

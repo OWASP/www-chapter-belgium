@@ -9,9 +9,14 @@ tags: belgium
 ## OWASP Belgium Virtual Chapter Meeting Series 20201
 To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thursday of the month, we invite a renowned, international speaker to join us in a focused evening session.
 
-For now, the calendar looks as follows:
+### Previous events of 2021:
 * February 18th: **Jim Manicode** and **Philippe De Ryck** with ***JWT's  - sign em like it's hot*** [[Video]](https://www.youtube.com/watch?v=yZoF2wNG78c) [[Slides]](assets/2021/2021-02-18/JWT-Security.pdf)
+
+
+### Next event:
 * March 18th: **Christian Folini** with [***The adventurous tale of online voting in Switzerland***](#18-march-2021-the-adventurous-tale-of-online-voting-in-switzerland) <span><small>CHANGE IN PROGRAM</small></span>{: .small style="color: red"}
+
+### Future events (agenda can change):
 * April 15th: **Simon Bennets** with ***ZAP Intro and Latest Features*** <span><small>CHANGE IN PROGRAM</small></span>{: .small style="color: red"}
 * May 20th: **Jeremiah Grossman** with ***Why Attack Surface Management is Hard***
 * June 17th: **Marc Curphey** with ***Upcoming open-source AWS Discovery tool***
