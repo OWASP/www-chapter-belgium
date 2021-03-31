@@ -12,12 +12,9 @@ To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thurs
 ### Previous events of 2021:
 * February 18th: **Jim Manicode** and **Philippe De Ryck** with ***JWT's  - sign em like it's hot*** [[Video]](https://www.youtube.com/watch?v=yZoF2wNG78c) [[Slides]](assets/2021/2021-02-18/JWT-Security.pdf)
 
-
-### Incoming event:
+### Next confirmed events:
 * March 18th: **Christian Folini** with [***The adventurous tale of online voting in Switzerland***](#18-march-2021-the-adventurous-tale-of-online-voting-in-switzerland)
-
-### Next event:
-* April 15th: **Simon Bennetts** with [***ZAP Intro and Latest Features***](#15-april-2021-zap-intro-and-latest-features-by-Simon-Bennetts)
+* April 15th: **Simon Bennetts** with [***ZAP Intro and Latest Features***](#15-april-2021-zap-intro-and-latest-features-by-simon-bennetts)
 
 ### Future agenda (subject to change):
 * May 20th: **Jeremiah Grossman** with ***Why Attack Surface Management is Hard***
