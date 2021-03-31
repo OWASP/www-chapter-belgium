@@ -16,7 +16,7 @@ To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thurs
 ### Next event:
 * March 18th: **Christian Folini** with [***The adventurous tale of online voting in Switzerland***](#18-march-2021-the-adventurous-tale-of-online-voting-in-switzerland) <span><small>CHANGE IN PROGRAM</small></span>{: .small style="color: red"}
 
-### Future events (agenda can change):
+### Future events (agenda is subject to change):
 * April 15th: **Simon Bennets** with ***ZAP Intro and Latest Features*** <span><small>CHANGE IN PROGRAM</small></span>{: .small style="color: red"}
 * May 20th: **Jeremiah Grossman** with ***Why Attack Surface Management is Hard***
 * June 17th: **Marc Curphey** with ***Upcoming open-source AWS Discovery tool***
