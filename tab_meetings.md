@@ -13,11 +13,13 @@ To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thurs
 * February 18th: **Jim Manicode** and **Philippe De Ryck** with ***JWT's  - sign em like it's hot*** [[Video]](https://www.youtube.com/watch?v=yZoF2wNG78c) [[Slides]](assets/2021/2021-02-18/JWT-Security.pdf)
 
 
-### Next event:
-* March 18th: **Christian Folini** with [***The adventurous tale of online voting in Switzerland***](#18-march-2021-the-adventurous-tale-of-online-voting-in-switzerland) <span><small>CHANGE IN PROGRAM</small></span>{: .small style="color: red"}
+### Incoming event:
+* March 18th: **Christian Folini** with [***The adventurous tale of online voting in Switzerland***](#18-march-2021-the-adventurous-tale-of-online-voting-in-switzerland)
 
-### Future events (agenda is subject to change):
-* April 15th: **Simon Bennets** with ***ZAP Intro and Latest Features*** <span><small>CHANGE IN PROGRAM</small></span>{: .small style="color: red"}
+### Next event:
+* April 15th: **Simon Bennetts** with [***ZAP Intro and Latest Features***](#15-april-2021-zap-intro-and-latest-features-by-Simon-Bennetts)
+
+### Future agenda (subject to change):
 * May 20th: **Jeremiah Grossman** with ***Why Attack Surface Management is Hard***
 * June 17th: **Marc Curphey** with ***Upcoming open-source AWS Discovery tool***
 * September 16th: **Andrew van der Stock** with ***The OWASP Top 10 2021***
@@ -58,6 +60,24 @@ Christian Folini is the author of the second edition of the ModSecurity Handbook
 He stood in the first line of the defenders when the Swiss Post Online Voting system was put up for a public intrusion test in 2019. The following year, he moderated a dialogue between the Swiss government and a group of two dozens researchers on online voting. This dialogue resulted in a report with several hundred pages.
 
 Christian Folini is a frequent speaker at conferences. When speaking, he tries to use his background in the humanities to explain hardcore technical topics to audiences of different backgrounds. [Twitter](https://twitter.com/ChrFolini)
+
+
+### 15 April 2021: ZAP Intro and Latest Features (by Simon Bennetts)
+This virtual chapter meeting will host **Simon Bennetts**!
+* **When?** From 17:00 until 18:00 CET.
+* **Registration?** via <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/> (attendence **free of charge**)
+* **Where?** Online! [YouTube Livestream](https://www.youtube.com/watch?v=65-R52Z9wL8) - Zoom session via Eventbrite
+
+
+#### ZAP Intro and Latest Features
+Abstract will be available soon...
+
+#### Simon Bennetts
+Simon Bennetts is the OWASP Zed Attack Proxy (ZAP) Project Leader and a Distinguished Engineer at StackHawk, a company that uses ZAP to help users fix application security bugs before they hit production.
+
+He has talked about and demonstrated ZAP at conferences all over the world, including Blackhat, JavaOne, FOSDEM and OWASP AppSec EU, USA & AsiaPac.
+
+Prior to making the move into security he was a developer for 25 years and strongly believes that you cannot build secure web applications without knowing how to attack them.
 
 
 {::comment}
