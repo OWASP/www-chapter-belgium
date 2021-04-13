@@ -21,7 +21,6 @@ To kickstart 2021, we plan a **series of virtual chapter meetings** with renowne
 Join us **every 3rd Thursday of the month, from 17:00 until 18:00 CET**.
 
 ### Next confirmed events:
-* March 18th: **Christian Folini** with ***The adventurous tale of online voting in Switzerland***
 * April 15th: **Simon Bennetts** with ***ZAP Intro and Latest Features***
 
 ### Future events (subject to change):
