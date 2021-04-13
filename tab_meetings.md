@@ -11,9 +11,9 @@ To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thurs
 
 ### Previous events of 2021:
 * February 18th: **Jim Manicode** and **Philippe De Ryck** with ***JWT's  - sign em like it's hot*** [[Video]](https://www.youtube.com/watch?v=yZoF2wNG78c) [[Slides]](assets/2021/2021-02-18/JWT-Security.pdf)
+* March 18th: **Christian Folini** with ***The adventurous tale of online voting in Switzerland*** [[Video]](https://www.youtube.com/watch?v=65-R52Z9wL8)
 
 ### Next confirmed events:
-* March 18th: **Christian Folini** with [***The adventurous tale of online voting in Switzerland***](#18-march-2021-the-adventurous-tale-of-online-voting-in-switzerland)
 * April 15th: **Simon Bennetts** with [***ZAP Intro and Latest Features***](#15-april-2021-zap-intro-and-latest-features-by-simon-bennetts)
 
 ### Future agenda (subject to change):
@@ -34,6 +34,7 @@ Our chapter meetings are open for everyone, and attendance is free of charge. We
 * **Where?** Online! [YouTube Livestream](https://www.youtube.com/channel/UCse6RTiGd7oxJW4i_-TkZgA) - Zoom session via Eventbrite
 * **Price?** Free of charge!
 
+{::comment}
 ### 18 March 2021: The adventurous tale of online voting in Switzerland
 This virtual chapter meeting will host **Christian Folini**!
 * **When?** From 17:00 until 18:00 CET.
@@ -57,6 +58,8 @@ Christian Folini is the author of the second edition of the ModSecurity Handbook
 He stood in the first line of the defenders when the Swiss Post Online Voting system was put up for a public intrusion test in 2019. The following year, he moderated a dialogue between the Swiss government and a group of two dozens researchers on online voting. This dialogue resulted in a report with several hundred pages.
 
 Christian Folini is a frequent speaker at conferences. When speaking, he tries to use his background in the humanities to explain hardcore technical topics to audiences of different backgrounds. [Twitter](https://twitter.com/ChrFolini)
+
+{:/comment}
 
 
 ### 15 April 2021: ZAP Intro and Latest Features (by Simon Bennetts)
