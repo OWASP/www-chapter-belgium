@@ -67,7 +67,10 @@ This virtual chapter meeting will host **Simon Bennetts**!
 
 
 #### ZAP Intro and Latest Features
-Abstract will be available soon...
+In this session Simon will give an introduction to OWASP ZAP before going into more details of 2 brand new features:
+* The Automation Framework, which is expected to become the way most people will automate ZAP
+* A new Reporting add-on which will replace the old ZAP reports and provides much more flexibility
+
 
 #### Simon Bennetts
 Simon Bennetts is the OWASP Zed Attack Proxy (ZAP) Project Leader and a Distinguished Engineer at StackHawk, a company that uses ZAP to help users fix application security bugs before they hit production.
