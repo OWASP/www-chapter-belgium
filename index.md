@@ -31,6 +31,7 @@ Join us **every 3rd Thursday of the month, from 17:00 until 18:00 CET**.
 
 ### Past events of 2021:
 * February 18th: **Jim Manicode** and **Philippe De Ryck** with ***JWT's  - sign em like it's hot***
+* March 18th: **Christian Folini** with ***The adventurous tale of online voting in Switzerland***
 
 **Registration**: <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/>
 
