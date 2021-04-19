@@ -11,13 +11,11 @@ To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thurs
 
 ### Previous events of 2021:
 * February 18th: **Jim Manicode** and **Philippe De Ryck** with ***JWT's  - sign em like it's hot*** [[Video]](https://www.youtube.com/watch?v=yZoF2wNG78c) [[Slides]](assets/2021/2021-02-18/JWT-Security.pdf)
-* March 18th: **Christian Folini** with ***The adventurous tale of online voting in Switzerland*** [[Video]](https://www.youtube.com/watch?v=65-R52Z9wL8)
+* March 18th: **Christian Folini** with ***The adventurous tale of online voting in Switzerland*** [[Video]](https://www.youtube.com/watch?v=65-R52Z9wL8) [[Slides]](assets/2021/2021-03-18/presentation-folini-owasp-BE.pdf)
+* April 15th: **Simon Bennetts** with ***ZAP Intro and Latest Features*** [[Video]](https://www.youtube.com/watch?v=D5I2PmawmG4) [[Slides]](assets/2021/2021-04-15/ZAP-Intro-and-latest.pdf)
 
-### Next confirmed events:
-* April 15th: **Simon Bennetts** with [***ZAP Intro and Latest Features***](#15-april-2021-zap-intro-and-latest-features-by-simon-bennetts)
-
-### Future agenda (subject to change):
-* May 20th: **Jeremiah Grossman** with ***Why Attack Surface Management is Hard***
+### Upcoming events:
+* May 20th: **Jeremiah Grossman** with [***Why Attack Surface Management is Hard***](#20-may-2021-why-attack-surface-management-is-hard-by-jeremiah-grossman)
 * June 17th: **Marc Curphey** with ***Upcoming open-source AWS Discovery tool***
 * September 16th: **Andrew van der Stock** with ***The OWASP Top 10 2021***
 * October 21st: **Steven Springett** with ***Component Analysis vs SCA - How SBOMs are the driving force for change***
@@ -28,13 +26,14 @@ To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thurs
 
 Our chapter meetings are open for everyone, and attendance is free of charge. We ask you to [register on Eventbrite](https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/) in order to provide you with last-minute updates, if needed.
 
+{::comment}
 **Practicalities**:
-* **When?** From 17:00 until 18:00 CET.
+* **When?** From 17:00 until 18:00 CEST.
 * **Registration?** via <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/> (attendence **free of charge**)
 * **Where?** Online! [YouTube Livestream](https://www.youtube.com/channel/UCse6RTiGd7oxJW4i_-TkZgA) - Zoom session via Eventbrite
 * **Price?** Free of charge!
 
-{::comment}
+
 ### 18 March 2021: The adventurous tale of online voting in Switzerland
 This virtual chapter meeting will host **Christian Folini**!
 * **When?** From 17:00 until 18:00 CET.
@@ -59,12 +58,12 @@ He stood in the first line of the defenders when the Swiss Post Online Voting sy
 
 Christian Folini is a frequent speaker at conferences. When speaking, he tries to use his background in the humanities to explain hardcore technical topics to audiences of different backgrounds. [Twitter](https://twitter.com/ChrFolini)
 
-{:/comment}
+
 
 
 ### 15 April 2021: ZAP Intro and Latest Features (by Simon Bennetts)
 This virtual chapter meeting will host **Simon Bennetts**!
-* **When?** From 17:00 until 18:00 CET.
+* **When?** From 17:00 until 18:00 CEST.
 * **Registration?** via <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/> (attendence **free of charge**)
 * **Where?** Online! [YouTube Livestream](https://www.youtube.com/watch?v=65-R52Z9wL8) - Zoom session via Eventbrite
 
@@ -81,6 +80,26 @@ Simon Bennetts is the OWASP Zed Attack Proxy (ZAP) Project Leader and a Distingu
 He has talked about and demonstrated ZAP at conferences all over the world, including Blackhat, JavaOne, FOSDEM and OWASP AppSec EU, USA & AsiaPac.
 
 Prior to making the move into security he was a developer for 25 years and strongly believes that you cannot build secure web applications without knowing how to attack them.
+{:/comment}
+
+### 20 May 2021: Why Attack Surface Management is Hard (by Jeremiah Grossman)
+This virtual chapter meeting will host **Jeremiah Grossman**!
+* **When?** From 17:00 until 18:00 CEST.
+* **Registration?** via <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/> (attendence **free of charge**)
+* **Where?** Online! [YouTube Livestream](https://www.youtube.com/watch?v=65-R52Z9wL8) - Zoom session via Eventbrite
+* **Price?** Free of charge!
+
+#### Why Attack Surface Management is Hard
+Everyone agrees that attack surface management is critically important, as it is the very first step of any information security program. While enterprise interest and market traction for attack surface management is building, it’s curious why every organization doesn’t already have an up-to-date attack surface map. They should! It may sound strange, but I believe it’s because attack surface management is technologically a hard problem to solve – extremely hard. This is harder to solve than most any another other problem across the entire IT and IT security industry, and harder than any other problem I’ve personally worked on. Let’s dive into the technical details of the many challenges and explore statistics of attack surface maps across the industries.
+
+
+#### Jeremiah Grossman
+Jeremiah Grossman's career spans nearly 20 years and has lived a literal lifetime in computer security to become one of the industry's biggest names. And since Jeremiah earned a Brazilian Jiu-Jitsu black belt, the media has described him as "the embodiment of converged IT and physical security.” Preventing attacks from the scariest cyber-criminals is all in a day's work for Jeremiah, but staying a keystroke ahead of the bad guys isn't easy. In 2001, Jeremiah founded WhiteHat Security, which today has one of the largest professional hacking armies on the planet. Let it sink in. Professional. Hacker. Army.
+
+Jeremiah has received a number of industry awards, been publicly thanked by Microsoft, Mozilla, Google, Facebook, and many others for privately informing them of weaknesses in their systems -- a polite way of saying, ‘hacking them'. His research included ways to surreptitiously turn on anyone's computer video camera and microphone from anywhere across the Internet, sidestep firewalls, abuse online advertising networks to take any website offline, hijack the email and bank accounts of millions, silently rip out saved passwords and surfing history from web browsers, and many other cyber-attack techniques – some so insidious and fundamental that many still have not been fixed to this day.
+
+Collectively, it's no surprise Jeremiah has been featured in the Wall Street Journal, Forbes, NY Times and hundreds of other media outlets around the world who rely upon his expertise. Just type “Jeremiah Grossman” into your favorite search engine, you'll see. He also serves on the advisory board of several hot start-ups including Kenna Security, BugCrowd, SentinelOn, Arkose Labs, and LifeDNA. Of course, all of this was after Mr. Grossman served as information security officer at Yahoo!
+
 
 
 {::comment}
