@@ -86,7 +86,7 @@ Prior to making the move into security he was a developer for 25 years and stron
 This virtual chapter meeting will host **Jeremiah Grossman**!
 * **When?** From 17:00 until 18:00 CEST.
 * **Registration?** via <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/> (attendence **free of charge**)
-* **Where?** Online! [YouTube Livestream](https://www.youtube.com/watch?v=65-R52Z9wL8) - Zoom session via Eventbrite
+* **Where?** Online! [YouTube Livestream](https://www.youtube.com/channel/UCse6RTiGd7oxJW4i_-TkZgA) - Zoom session via Eventbrite
 * **Price?** Free of charge!
 
 #### Why Attack Surface Management is Hard
