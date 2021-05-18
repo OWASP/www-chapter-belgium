@@ -6,7 +6,7 @@ tab: true
 order: 2
 tags: belgium
 ---
-## OWASP Belgium Virtual Chapter Meeting Series 20201
+## OWASP Belgium Virtual Chapter Meeting Series 2021
 To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thursday of the month, we invite a renowned, international speaker to join us in a focused evening session.
 
 ### Previous events of 2021:
