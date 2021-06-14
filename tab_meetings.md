@@ -13,10 +13,10 @@ To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thurs
 * February 18th: **Jim Manicode** and **Philippe De Ryck** with ***JWT's  - sign em like it's hot*** [[Video]](https://www.youtube.com/watch?v=yZoF2wNG78c) [[Slides]](assets/2021/2021-02-18/JWT-Security.pdf)
 * March 18th: **Christian Folini** with ***The adventurous tale of online voting in Switzerland*** [[Video]](https://www.youtube.com/watch?v=65-R52Z9wL8) [[Slides]](assets/2021/2021-03-18/presentation-folini-owasp-BE.pdf)
 * April 15th: **Simon Bennetts** with ***ZAP Intro and Latest Features*** [[Video]](https://www.youtube.com/watch?v=D5I2PmawmG4) [[Slides]](assets/2021/2021-04-15/ZAP-Intro-and-latest.pdf)
+* May 20th: **Jeremiah Grossman** and **Jason Nichols** with ***Why Attack Surface Management is Hard*** [[Video]](https://www.youtube.com/watch?v=klJp0ds45hQ) {::comment}[[Slides]](assets/2021/2021-03-18/presentation-folini-owasp-BE.pdf){:/comment}
 
 ### Upcoming events:
-* May 20th: **Jeremiah Grossman** with [***Why Attack Surface Management is Hard***](#20-may-2021-why-attack-surface-management-is-hard-by-jeremiah-grossman)
-* June 17th: **Marc Curphey** with ***Upcoming open-source AWS Discovery tool***
+* June 17th: **Marc Curphey** with [***Upcoming open-source AWS Discovery tool***](#17-june-2021-upcoming-open-source-aws-discovery-tool-by-mark-curphey-and-jason-nichols)
 * September 16th: **Andrew van der Stock** with ***The OWASP Top 10 2021***
 * October 21st: **Steven Springett** with ***Component Analysis vs SCA - How SBOMs are the driving force for change***
 
@@ -82,6 +82,24 @@ He has talked about and demonstrated ZAP at conferences all over the world, incl
 Prior to making the move into security he was a developer for 25 years and strongly believes that you cannot build secure web applications without knowing how to attack them.
 {:/comment}
 
+### 17 June 2021: Upcoming open-source AWS discovery tool (by Mark Curphey and Jason Nichols)
+This virtual chapter meeting will host **Jeremiah Grossman**!
+* **When?** From 17:00 until 18:00 CEST.
+* **Registration?** via <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/> (attendence **free of charge**)
+* **Where?** Online! [YouTube Livestream](https://www.youtube.com/channel/UCse6RTiGd7oxJW4i_-TkZgA) - Zoom session via Eventbrite
+* **Price?** Free of charge!
+
+#### Upcoming open-source AWS discovery tool
+As we have moved to the cloud and to a data economy, more and more security decisions have moved from code to cloud infrastructure and data engineering. Mark Curphey thinks we are at the same junction in time with cloud and data as we were in 2001 when he founded OWASP. This presentation is a deep dive into a free open-source Cloud Security Posture Manager (CSPM) that he and his team at Open Raven have been building. The Crow platform discovers resources in multi-cloud environments and then checks the security configurations against best practices and known exploit conditions. It's built on a modern data stack itself and designed to scale. In this talk Mark and Jason Nichols the lead engineer will cover how Crow works, core modules such as Magpie and Rook and dive deep into writing your own security rules and reports. 
+
+#### Mark Curphey (Chief Technology Officer, Open Raven)
+Former cryptographer that started OWASP, SourceClear and now [OpenRaven](http://www.openraven.com). Early at Foundstone (sold to McAfee) and late to Microsoft (ran MSDN). British expat that has been living in San Francisco for 20 years. Rides bikes and builds software.
+
+#### Jason Nichols (Senior Software Engineer, Open Raven)
+A 20 year veteran of software development, Jason was co-founder of SourceClear and has written code ranging from embedded systems to large-scale cloud deployments across a variety of industries.  He spends his free time flying an ancient airplane around his home in Pennsylvania.
+
+
+{::comment}
 ### 20 May 2021: Why Attack Surface Management is Hard (by Jeremiah Grossman)
 This virtual chapter meeting will host **Jeremiah Grossman**!
 * **When?** From 17:00 until 18:00 CEST.
