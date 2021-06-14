@@ -5,6 +5,7 @@ title: OWASP Belgium
 tags: belgium
 level: 3
 region: Europe
+meetup-group: brussels-owasp-meetup-group
 
 ---
 Welcome to the Belgium chapter homepage. The chapter leaders are
@@ -24,6 +25,12 @@ Join us **every 3rd Thursday of the month, from 17:00 until 18:00 CET**.
 * June 17th: **Marc Curphey** and **Jason Nichols** with ***Upcoming open-source AWS Discovery tool***
 * September 16th: **Andrew van der Stock** with ***The OWASP Top 10 2021***
 * October 21st: **Steven Springett** with ***Component Analysis vs SCA - How SBOMs are the driving force for change***
+
+See all our meetings at our Meetup page:
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ### Past events of 2021:
 * February 18th: **Jim Manicode** and **Philippe De Ryck** with ***JWT's  - sign em like it's hot***
