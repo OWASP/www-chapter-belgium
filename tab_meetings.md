@@ -83,7 +83,7 @@ Prior to making the move into security he was a developer for 25 years and stron
 {:/comment}
 
 ### 17 June 2021: Upcoming open-source AWS discovery tool (by Mark Curphey and Jason Nichols)
-This virtual chapter meeting will host **Jeremiah Grossman**!
+This virtual chapter meeting will host **Mark Curphey and Jason Nichols**!
 * **When?** From 17:00 until 18:00 CEST.
 * **Registration?** via <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/> (attendence **free of charge**)
 * **Where?** Online! [YouTube Livestream](https://www.youtube.com/channel/UCse6RTiGd7oxJW4i_-TkZgA) - Zoom session via Eventbrite
