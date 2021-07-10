@@ -22,7 +22,6 @@ To kickstart 2021, we plan a **series of virtual chapter meetings** with renowne
 Join us **every 3rd Thursday of the month, from 17:00 until 18:00 CET**.
 
 ### Next confirmed events:
-* June 17th: **Marc Curphey** and **Jason Nichols** with ***Upcoming open-source AWS Discovery tool***
 * September 16th: **Andrew van der Stock** with ***The OWASP Top 10 2021***
 * October 21st: **Steven Springett** with ***Component Analysis vs SCA - How SBOMs are the driving force for change***
 
@@ -44,3 +43,6 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ## Chapter sponsors
 {% include sponsors.md %}
+
+## OWASP Belgium is proudly celebrating OWASP's 20th Anniversary!
+[![OWASP 20th Anniversary Image](assets/images/OWASP%2020th%20Anniversary.jpeg)](https://20thanniversary.owasp.org/)
