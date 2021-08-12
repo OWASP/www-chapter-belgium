@@ -7,5 +7,5 @@
 * [OWASP BE Youtube Channel](https://www.youtube.com/channel/UCse6RTiGd7oxJW4i_-TkZgA)
 * [OWASP BE Group on LinkedIn](https://www.linkedin.com/groups/37865/)
 
-* [Meetup](https://www.meetup.com/belgium-owasp-meetup-group/)
+* [OWASP BE Meetup group](https://www.meetup.com/belgium-owasp-meetup-group/)
 
