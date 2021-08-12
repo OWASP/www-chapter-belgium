@@ -24,16 +24,16 @@ To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thurs
 * October 21st: **Steven Springett** with [***Component Analysis vs SCA - How SBOMs are the driving force for change***](#18-march-2021-component-analysis-vs-sca---how-sboms-are-the-driving-force-for-change-by-steven-springett)
 {:/comment}
 
-Our chapter meetings are open for everyone, and attendance is free of charge. We ask you to [register on Eventbrite](https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/) in order to provide you with last-minute updates, if needed.
+Our chapter meetings are open for everyone, and attendance is free of charge. We ask you to [Register via the OWASP Belgium Meetup group](https://www.meetup.com/belgium-owasp-meetup-group/) in order to provide you with last-minute updates, if needed.
 
-{::comment}
 **Practicalities**:
 * **When?** From 17:00 until 18:00 CEST.
-* **Registration?** via <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/> (attendence **free of charge**)
-* **Where?** Online! [YouTube Livestream](https://www.youtube.com/channel/UCse6RTiGd7oxJW4i_-TkZgA) - Zoom session via Eventbrite
+* **Registration?** via [OWASP Belgium Meetup group](https://www.meetup.com/belgium-owasp-meetup-group/) (attendence **free of charge**)
+* **Where?** Online! [YouTube Livestream](https://www.youtube.com/channel/UCse6RTiGd7oxJW4i_-TkZgA) - Zoom session available after RSVP
 * **Price?** Free of charge!
 
 
+{::comment}
 ### 18 March 2021: The adventurous tale of online voting in Switzerland
 This virtual chapter meeting will host **Christian Folini**!
 * **When?** From 17:00 until 18:00 CET.
@@ -80,7 +80,6 @@ Simon Bennetts is the OWASP Zed Attack Proxy (ZAP) Project Leader and a Distingu
 He has talked about and demonstrated ZAP at conferences all over the world, including Blackhat, JavaOne, FOSDEM and OWASP AppSec EU, USA & AsiaPac.
 
 Prior to making the move into security he was a developer for 25 years and strongly believes that you cannot build secure web applications without knowing how to attack them.
-{:/comment}
 
 ### 17 June 2021: Upcoming open-source AWS discovery tool (by Mark Curphey and Jason Nichols)
 This virtual chapter meeting will host **Mark Curphey and Jason Nichols**!
@@ -99,7 +98,6 @@ Former cryptographer that started OWASP, SourceClear and now [OpenRaven](http://
 A 20 year veteran of software development, Jason was co-founder of SourceClear and has written code ranging from embedded systems to large-scale cloud deployments across a variety of industries.  He spends his free time flying an ancient airplane around his home in Pennsylvania.
 
 
-{::comment}
 ### 20 May 2021: Why Attack Surface Management is Hard (by Jeremiah Grossman)
 This virtual chapter meeting will host **Jeremiah Grossman**!
 * **When?** From 17:00 until 18:00 CEST.

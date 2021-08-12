@@ -36,8 +36,7 @@ Our meetings are open to the public, and you do not need to be a member to atten
 * March 18th: **Christian Folini** with ***The adventurous tale of online voting in Switzerland***
 * April 15th: **Simon Bennetts** with ***ZAP Intro and Latest Features***
 * May 20th: **Jeremiah Grossman** with ***Why Attack Surface Management is Hard***!
-
-**Registration**: <https://owasp-belgium-virtual-chapter-meetings-2021.eventbrite.com/>
+* June 17th: **Mark Curphey** and **Jason Nichols** with **Upcoming open-source AWS discovery tool** 
 
 **More info**: [on the 'Chapter Meetings' tab](https://owasp.org/www-chapter-belgium/#div-meetings).
 
