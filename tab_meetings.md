@@ -14,10 +14,11 @@ To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thurs
 * March 18th: **Christian Folini** with ***The adventurous tale of online voting in Switzerland*** [[Video]](https://www.youtube.com/watch?v=65-R52Z9wL8) [[Slides]](assets/2021/2021-03-18/presentation-folini-owasp-BE.pdf)
 * April 15th: **Simon Bennetts** with ***ZAP Intro and Latest Features*** [[Video]](https://www.youtube.com/watch?v=D5I2PmawmG4) [[Slides]](assets/2021/2021-04-15/ZAP-Intro-and-latest.pdf)
 * May 20th: **Jeremiah Grossman** and **Jason Nichols** with ***Why Attack Surface Management is Hard*** [[Video]](https://www.youtube.com/watch?v=klJp0ds45hQ) {::comment}[[Slides]](assets/2021/2021-03-18/presentation-folini-owasp-BE.pdf){:/comment}
+* June 17th: **Marc Curphey** with ***Upcoming open-source AWS Discovery tool***
 
 ### Upcoming events:
-* June 17th: **Marc Curphey** with [***Upcoming open-source AWS Discovery tool***](#17-june-2021-upcoming-open-source-aws-discovery-tool-by-mark-curphey-and-jason-nichols)
-* September 16th: **Andrew van der Stock** with ***The OWASP Top 10 2021***
+
+* September 16th: **Andrew van der Stock** with [***The OWASP Top 10 2021***](#16-september-2021-the-owasp-top-10-2021-by-andrew-van-der-stock)
 * October 21st: **Steven Springett** with ***Component Analysis vs SCA - How SBOMs are the driving force for change***
 
 {::comment}
@@ -26,11 +27,28 @@ To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thurs
 
 Our chapter meetings are open for everyone, and attendance is free of charge. We ask you to [Register via the OWASP Belgium Meetup group](https://www.meetup.com/belgium-owasp-meetup-group/) in order to provide you with last-minute updates, if needed.
 
+{::comment}
 **Practicalities**:
 * **When?** From 17:00 until 18:00 CEST.
 * **Registration?** via [OWASP Belgium Meetup group](https://www.meetup.com/belgium-owasp-meetup-group/) (attendence **free of charge**)
 * **Where?** Online! [YouTube Livestream](https://www.youtube.com/channel/UCse6RTiGd7oxJW4i_-TkZgA) - Zoom session available after RSVP
 * **Price?** Free of charge!
+
+{:/comment}
+
+### 16 September 2021: The OWASP Top 10 2021 (by Andrew van der Stock)
+This virtual chapter meeting will host **Andrew van der Stock**!
+* **When?** From 17:00 until 18:00 CEST.
+* **Registration?** via <https://www.meetup.com/belgium-owasp-meetup-group/events/> (attendence **free of charge**)
+* **Where?** Online! [YouTube Livestream](https://www.youtube.com/channel/UCse6RTiGd7oxJW4i_-TkZgA) - Zoom session available after RSVP
+* **Price?** Free of charge!
+
+#### The OWASP Top 10 2021
+The OWASP Top 10 2021 is the latest version of the venerable project. During this session, Andrew will take you through how we designed and improved the data collection, the results of the data analysis, the Top 10 2021 itself - with a brief description of each item, along with how you can best adopt and promote this awareness piece. Also, a brief introduction to the work Andrew is doing on the ASVS 5.0, due in 2022.
+
+#### Andrew van der Stock
+Andrew is a seasoned web application security specialist and enterprise security architect. He is the Executive Director at OWASP, taking the Foundation through organizational change and taking our mission to the next level. Andrew has worked in the IT industry for over 25 years. Andrew has researched and developed the web application security and architecture fields since 1998. He is a Lifetime member of OWASP, former Director, and co-leads the OWASP Application Security Verification Standard and OWASP Top 10 projects. An Australian ex-pat of Melbourne and Sydney, he currently lives in the USA with his family.
+
 
 
 {::comment}
