@@ -13,8 +13,8 @@ To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thurs
 * February 18th: **Jim Manicode** and **Philippe De Ryck** with ***JWT's  - sign em like it's hot*** [[Video]](https://www.youtube.com/watch?v=yZoF2wNG78c) [[Slides]](assets/2021/2021-02-18/JWT-Security.pdf)
 * March 18th: **Christian Folini** with ***The adventurous tale of online voting in Switzerland*** [[Video]](https://www.youtube.com/watch?v=65-R52Z9wL8) [[Slides]](assets/2021/2021-03-18/presentation-folini-owasp-BE.pdf)
 * April 15th: **Simon Bennetts** with ***ZAP Intro and Latest Features*** [[Video]](https://www.youtube.com/watch?v=D5I2PmawmG4) [[Slides]](assets/2021/2021-04-15/ZAP-Intro-and-latest.pdf)
-* May 20th: **Jeremiah Grossman** and **Jason Nichols** with ***Why Attack Surface Management is Hard*** [[Video]](https://www.youtube.com/watch?v=klJp0ds45hQ) {::comment}[[Slides]](assets/2021/2021-03-18/presentation-folini-owasp-BE.pdf){:/comment}
-* June 17th: **Marc Curphey** with ***Upcoming open-source AWS Discovery tool***
+* May 20th: **Jeremiah Grossman** and **Jason Nichols** with ***Why Attack Surface Management is Hard*** [[Video]](https://www.youtube.com/watch?v=klJp0ds45hQ) 
+* June 17th: **Marc Curphey** with ***Upcoming open-source AWS Discovery tool*** [[Video]](https://www.youtube.com/watch?v=Pb6y9pWDCAY) [[Slides]](assets/2021/2021-06-17/Magpie.pdf)
 
 ### Upcoming events:
 
