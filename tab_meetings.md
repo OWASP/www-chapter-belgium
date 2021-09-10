@@ -19,7 +19,7 @@ To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thurs
 ### Upcoming events:
 
 * September 16th: **Andrew van der Stock** with [***The OWASP Top 10 2021***](#16-september-2021-the-owasp-top-10-2021-by-andrew-van-der-stock)
-* October 21st: **Steven Springett** with ***Component Analysis vs SCA - How SBOMs are the driving force for change***
+* October 21st: **Steven Springett** with [***Component Analysis vs SCA - How SBOMs are the driving force for change***](#21-october-2021-component-analysis-vs-sca---how-sboms-are-the-driving-force-for-change-by-steve-springett)
 
 {::comment}
 * October 21st: **Steven Springett** with [***Component Analysis vs SCA - How SBOMs are the driving force for change***](#18-march-2021-component-analysis-vs-sca---how-sboms-are-the-driving-force-for-change-by-steven-springett)
@@ -48,6 +48,27 @@ The OWASP Top 10 2021 is the latest version of the venerable project. During thi
 
 #### Andrew van der Stock
 Andrew is a seasoned web application security specialist and enterprise security architect. He is the Executive Director at OWASP, taking the Foundation through organizational change and taking our mission to the next level. Andrew has worked in the IT industry for over 25 years. Andrew has researched and developed the web application security and architecture fields since 1998. He is a Lifetime member of OWASP, former Director, and co-leads the OWASP Application Security Verification Standard and OWASP Top 10 projects. An Australian ex-pat of Melbourne and Sydney, he currently lives in the USA with his family.
+
+
+
+
+### 21 October 2021: Component Analysis vs SCA - How SBOMs are the driving force for change (by Steve Springett)
+This virtual chapter meeting will host **Steve Springett**!
+* **When?** From 17:00 until 18:00 CEST.
+* **Registration?** via <https://www.meetup.com/belgium-owasp-meetup-group/events/> (attendence **free of charge**)
+* **Where?** Online! [YouTube Livestream](https://www.youtube.com/channel/UCse6RTiGd7oxJW4i_-TkZgA) - Zoom session available after RSVP
+* **Price?** Free of charge!
+
+
+#### Component Analysis vs SCA - How SBOMs are the driving force for change
+This walk would dive into the CycloneDX Software Bill of Materials specification and world-wide efforts to identify and reduce risk in the global software supply chain.
+
+#### Steve Springett
+Steve educates teams on the strategy and specifics of developing secure software.
+He practices security at every stage of the development lifecycle by leading sessions on threat modeling, secure architecture and design, static/dynamic/component analysis, offensive research, and defensive programming techniques.
+Steve's passionate about helping organizations identify and reduce risk from the use of third-party and open source components. He is an open source advocate and leads the OWASP Dependency-Track project, OWASP Software Component Verification Standard (SCVS) project, CycloneDX software bill of materials standard, and participates in several related projects and working groups.
+
+
 
 
 
