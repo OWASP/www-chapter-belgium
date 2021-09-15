@@ -9,3 +9,4 @@
 * Thomas Herlea
 * David Mathy
 * Adolfo Solero
+* Maxim Baele
