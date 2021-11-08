@@ -9,3 +9,11 @@
 
 * [OWASP BE Meetup group](https://www.meetup.com/belgium-owasp-meetup-group/)
 
+### Board members
+* Stella Dineva
+* Erwin Geirnaert
+* Thomas Herlea
+* David Mathy
+* Adolfo Solero
+* Maxim Baele
+
