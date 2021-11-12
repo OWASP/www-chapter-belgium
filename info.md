@@ -10,6 +10,9 @@
 * [OWASP BE Meetup group](https://www.meetup.com/belgium-owasp-meetup-group/)
 
 ### Board members
+* Sebastien Deleersnyder
+* Lieven Desmet
+* Bart De Win
 * Stella Dineva
 * Erwin Geirnaert
 * Thomas Herlea
