@@ -26,6 +26,3 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ## Chapter sponsors
 {% include sponsors.md %}
-
-## OWASP Belgium is proudly celebrating OWASP's 20th Anniversary!
-[![OWASP 20th Anniversary Image](assets/images/OWASP%2020th%20Anniversary.jpeg)](https://20thanniversary.owasp.org/)
