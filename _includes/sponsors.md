@@ -1,4 +1,4 @@
-OWASP Belgium thanks its structural chapter supporters for 2019 and the OWASP BeNeLux Days 2018
+OWASP Belgium thanks its structural chapter supporters for 2022 and the OWASP BeNeLux Days 2021
 {:sponsorimage: style="margin: 10px; max-width: 250px; max-height: 250px;"}
 
 [![Vest](assets/images/sponsors/vest.jpg){:sponsorimage}](http://www.vest.nl/){:target="_blank"}
