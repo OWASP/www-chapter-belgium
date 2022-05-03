@@ -17,7 +17,9 @@ Welcome to the Belgium chapter homepage. The chapter leaders are
 With the Belgium chapter, we aim to organize 4 local chapter meetings per year and co-organize the yearly BeNeLux Day. Any suggestions for speakers or venue? Feel free to reach out to us!
 
 ## Upcoming events
-**May 17th**: **Securing a World of Physically Capable Computers** by ***Bruce Schneier*** 
+
+## May 17th: 
+**Securing a World of Physically Capable Computers** by ***Bruce Schneier***
 
 ### Agenda:
 
