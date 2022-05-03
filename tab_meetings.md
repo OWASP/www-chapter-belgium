@@ -13,17 +13,10 @@ To kickstart 2021, we plan a series of virtual chapter meetings. Every 3rd Thurs
 * February 18th: **Jim Manicode** and **Philippe De Ryck** with ***JWT's  - sign em like it's hot*** [[Video]](https://www.youtube.com/watch?v=yZoF2wNG78c) [[Slides]](assets/2021/2021-02-18/JWT-Security.pdf)
 * March 18th: **Christian Folini** with ***The adventurous tale of online voting in Switzerland*** [[Video]](https://www.youtube.com/watch?v=65-R52Z9wL8) [[Slides]](assets/2021/2021-03-18/presentation-folini-owasp-BE.pdf)
 * April 15th: **Simon Bennetts** with ***ZAP Intro and Latest Features*** [[Video]](https://www.youtube.com/watch?v=D5I2PmawmG4) [[Slides]](assets/2021/2021-04-15/ZAP-Intro-and-latest.pdf)
-* May 20th: **Jeremiah Grossman** and **Jason Nichols** with ***Why Attack Surface Management is Hard*** [[Video]](https://www.youtube.com/watch?v=klJp0ds45hQ) 
+* May 20th: **Jeremiah Grossman** and **Jason Nichols** with ***Why Attack Surface Management is Hard*** [[Video]](https://www.youtube.com/watch?v=klJp0ds45hQ)
 * June 17th: **Marc Curphey** with ***Upcoming open-source AWS Discovery tool*** [[Video]](https://www.youtube.com/watch?v=Pb6y9pWDCAY) [[Slides]](assets/2021/2021-06-17/Magpie.pdf)
-
-### Upcoming events:
-
 * September 16th: **Andrew van der Stock** with [***The OWASP Top 10 2021***](#16-september-2021-the-owasp-top-10-2021-by-andrew-van-der-stock)
 * October 21st: **Steven Springett** with [***Component Analysis vs SCA - How SBOMs are the driving force for change***](#21-october-2021-component-analysis-vs-sca---how-sboms-are-the-driving-force-for-change-by-steve-springett)
-
-{::comment}
-* October 21st: **Steven Springett** with [***Component Analysis vs SCA - How SBOMs are the driving force for change***](#18-march-2021-component-analysis-vs-sca---how-sboms-are-the-driving-force-for-change-by-steven-springett)
-{:/comment}
 
 Our chapter meetings are open for everyone, and attendance is free of charge. We ask you to [Register via the OWASP Belgium Meetup group](https://www.meetup.com/belgium-owasp-meetup-group/) in order to provide you with last-minute updates, if needed.
 
@@ -128,7 +121,7 @@ This virtual chapter meeting will host **Mark Curphey and Jason Nichols**!
 * **Price?** Free of charge!
 
 #### Upcoming open-source AWS discovery tool
-As we have moved to the cloud and to a data economy, more and more security decisions have moved from code to cloud infrastructure and data engineering. Mark Curphey thinks we are at the same junction in time with cloud and data as we were in 2001 when he founded OWASP. This presentation is a deep dive into a free open-source Cloud Security Posture Manager (CSPM) that he and his team at Open Raven have been building. The Crow platform discovers resources in multi-cloud environments and then checks the security configurations against best practices and known exploit conditions. It's built on a modern data stack itself and designed to scale. In this talk Mark and Jason Nichols the lead engineer will cover how Crow works, core modules such as Magpie and Rook and dive deep into writing your own security rules and reports. 
+As we have moved to the cloud and to a data economy, more and more security decisions have moved from code to cloud infrastructure and data engineering. Mark Curphey thinks we are at the same junction in time with cloud and data as we were in 2001 when he founded OWASP. This presentation is a deep dive into a free open-source Cloud Security Posture Manager (CSPM) that he and his team at Open Raven have been building. The Crow platform discovers resources in multi-cloud environments and then checks the security configurations against best practices and known exploit conditions. It's built on a modern data stack itself and designed to scale. In this talk Mark and Jason Nichols the lead engineer will cover how Crow works, core modules such as Magpie and Rook and dive deep into writing your own security rules and reports.
 
 #### Mark Curphey (Chief Technology Officer, Open Raven)
 Former cryptographer that started OWASP, SourceClear and now [OpenRaven](http://www.openraven.com). Early at Foundstone (sold to McAfee) and late to Microsoft (ran MSDN). British expat that has been living in San Francisco for 20 years. Rides bikes and builds software.
