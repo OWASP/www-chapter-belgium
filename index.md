@@ -17,12 +17,12 @@ Welcome to the Belgium chapter homepage. The chapter leaders are
 With the Belgium chapter, we aim to organize 4 local chapter meetings per year and co-organize the yearly BeNeLux Day. Any suggestions for speakers or venue? Feel free to reach out to us!
 
 ## Upcoming events
-* May 17th: **Bruce Schneier** with ***Securing a World of Physically Capable Computers***
+**May 17th**: **Securing a World of Physically Capable Computers** by ***Bruce Schneier*** 
 
 ### Agenda:
 
--17h-18h: Welcome and refreshments
--18h-19h: Securing a World of Physically Capable Computers (by Bruce Schneier)
+* 17h-18h: Welcome and refreshments
+* 18h-19h: Securing a World of Physically Capable Computers (by Bruce Schneier)
 #### Securing a World of Physically Capable Computers:
 Computer security is no longer about data; it's about life and property. This change
 makes an enormous difference, and will shake up our industry in many
