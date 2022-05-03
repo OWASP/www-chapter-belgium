@@ -5,7 +5,7 @@ title: OWASP Belgium
 tags: belgium
 level: 3
 region: Europe
-meetup-group: brussels-owasp-meetup-group
+meetup-group: belgium-owasp-meetup-group
 
 ---
 Welcome to the Belgium chapter homepage. The chapter leaders are
