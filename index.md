@@ -27,12 +27,12 @@ Both speakers are faculty of the [Secure Application Development (SecAppDev 2022
 
 * 18h15-19h00: Welcome and refreshments
 * 19h00-19h10: **OWASP Update**
-* 19h10-20h00: [TBD by Isabelle Mauny](# TBD by Isabelle Mauny)
+* 19h10-20h00: [TBD by Isabelle Mauny](#TBD-by-Isabelle-Mauny)
 * 20h00-20h10: ***Break***
-* 20h10-21h00: [The Call is coming from inside: Post-exploitation Scenarios with Kubernetes Webhooks by Abhay Bhargav](# The Call is coming from inside: Post-Exploitation Scenarios with Kubernetes Webhooks)
+* 20h10-21h00: [The Call is coming from inside: Post-exploitation Scenarios with Kubernetes Webhooks by Abhay Bhargav](#The-Call-is-coming-from-inside:-Post-Exploitation-Scenarios-with-Kubernetes-Webhooks)
 
 #### TBD by Isabelle Mauny
-<coming soon>
+Coming soon
 
 #### Isabelle Mauny's bio (Field CTO, 42Crunch)
  I have been spending the last 15 years helping people integrate their applications internally and externally. I introduced IBM DataPower in Europe in 2005 and worked with numerous enterprises customers deploying what were the first API Gateways. I have stayed in that field since then, with a stronger focus on security in the past 5 years with 42Crunch.
