@@ -48,7 +48,7 @@ Everything from security context to memory limits can be enforced through the us
 Abhay Bhargav is the Founder of we45 and AppSecEngineer. He has created some pioneering works in the area of DevSecOps and AppSec Automation, including the world’s first hands-on training program on DevSecOps. In addition to this, Abhay is active in his research of new technologies and their impact on Application Security.\
 Abhay is a speaker and trainer at major industry events including DEF CON, BlackHat, OWASP AppSecUSA, EU and AppSecCali. His trainings have been sold-out events at conferences like AppSecUSA, AppSecDay Melbourne, CodeBlue, BlackHat and so on.
 
-### [Register NOW](https://www.meetup.com/en-US/belgium-owasp-meetup-group/events/285668798/) on Meetup.com to attend this event.
+### [Register NOW](https://www.meetup.com/belgium-owasp-meetup-group/events/286239648) on Meetup.com to attend this event.
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
