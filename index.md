@@ -31,7 +31,7 @@ Both speakers are faculty of the [Secure Application Development (SecAppDev 2022
 * 20h00-20h10: ***Break***
 * 20h10-21h00: [The Call is coming from inside: Post-exploitation Scenarios with Kubernetes Webhooks by Abhay Bhargav](#the-call-is-coming-from-inside-post-exploitation-scenarios-with-kubernetes-webhooks)
 
-#### Top 5 of recent API Breaches - What can we learn from them?
+### Top 5 of recent API Breaches - What can we learn from them?
 We will outline the root causes of some recent API vulnerabilities making the news.
 * A detailed look at the underlying OWASP API security Top 10 flaws.
 * Explain of how the vulnerability occurred and what we could have done to prevent it.
@@ -39,7 +39,7 @@ We will outline the root causes of some recent API vulnerabilities making the ne
 #### Isabelle Mauny's bio (Field CTO, 42Crunch)
  I have been spending the last 15 years helping people integrate their applications internally and externally. I introduced IBM DataPower in Europe in 2005 and worked with numerous enterprises customers deploying what were the first API Gateways. I have stayed in that field since then, with a stronger focus on security in the past 5 years with 42Crunch.
 
-#### The Call is coming from inside: Post-Exploitation Scenarios with Kubernetes Webhooks
+### The Call is coming from inside: Post-Exploitation Scenarios with Kubernetes Webhooks
 Admission Controllers are an integral part of Kubernetes Security. Specifically, Access Control. These take the form of mutating and validating web-hooks. Kubernetes clusters use these webhooks to enforce/mutate security policy checks.\
 Everything from security context to memory limits can be enforced through the use of these webhooks. However, attackers can leverage custom-built webhooks as a way of maintaining persistence in an exploited Kubernetes cluster.\
  In this talk, I will detail the admission controller implementation in Kubernetes. I will build and deploy both mutating and validating, malicious webhooks to a cluster to demonstrate a bevy of post-exploit persistence approaches that one can leverage, entirely using Kubernetes webhooks.
