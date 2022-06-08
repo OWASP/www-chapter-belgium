@@ -1,4 +1,7 @@
-jekyll:
+version : "3.8"
+
+services:
+  jekyll:
     image: jekyll/jekyll:latest
     command: jekyll serve --watch --incremental
     ports:
