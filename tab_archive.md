@@ -8,6 +8,8 @@ tags: belgium
 ---
 
 ## Meeting archive
+* [2022 chapter meetings](#2022-chapter-meetings)
+* [2021 chapter meetings](#2021-chapter-meetings)
 * [2020 chapter meetings](#2020-chapter-meetings)
 * [2019 chapter meetings](#2019-chapter-meetings)
 * [2018 chapter meetings](#2018-chapter-meetings)
@@ -24,6 +26,19 @@ tags: belgium
 * [2007 chapter meetings](#2007-chapter-meetings)
 * [2006 chapter meetings](#2006-chapter-meetings)
 * [2005 chapter meetings](#2005-chapter-meetings)
+
+## 2022 chapter meetings
+
+### 17 May 2022 meeting (Antwerpen)
+
+#### Agenda:
+* 17h-18h: Welcome and refreshments
+* 18h-18h10: **OWASP Update**
+* 18h10-19h: Securing a World of Physically Capable Computers (by Bruce Schneier)
+
+#### Venue: Hosted by Karel de Grote University of Applied Sciences and Arts
+
+## 2021 chapter meetings
 
 ## 2020 chapter meetings
 
@@ -789,7 +804,7 @@ Co-organized with the [ISSA (Information Systems Security Association)](http://w
 * 18h45 – 19h00: **[ISSA Introduction](assets/2006/2006-09-14/OWASP_Belgium_Chapter_Meeting_-_Antwerp_-_14_Sep_2006_-_2_ISSA-BE_Presentation.pdf)** by Toon Mordijck (ISSA)      
 * 19h00 - 19h55: **[Business Application Security through Information Risk Management](assets/2006/2006-09-14/OWASP_Belgium_Chapter_Meeting_-_Antwerp_-_14_Sep_2006_-_3_Business_Application_security_through_Information_Risk_Management_-_OWASPv1.2.pdf)** by Serge Moreno (ING)
 * 20h05 - 21h00: **[Secure and Reliable Web Services](assets/2006/2006-09-14/OWASP_Belgium_Chapter_Meeting_-_Antwerp_-_14_Sep_2006_-_4_Secure_and_Reliable_WS_Guy_Crets.pdf)** by Guy Crets (Apogado)
-        
+
 
 ### 8 May 2006 Meeting (Brussels)
 Hosted by [Deloitte](http://www.deloitte.com/view/en_BE/be/index.htm)
@@ -814,7 +829,7 @@ Hosted by [DistriNet Research Group (KU Leuven)](https://distrinet.cs.kuleuven.b
   * Jaak Cuppens, F5 Networks
   * David Van der Linden, ING Belgium
   * Lieven Desmet, KU Leuven
-  
+
 
 ### New years drink: 19 January 2006 (Leuven)
 On January 19th we had a New Years Drink. It was sponsored by Zion Security
@@ -843,8 +858,8 @@ Hosted by Ubizen
   * Eric Devolder, Mastercard
   * Herman Stevens, Ubizen
   * Frank Piessens, KU Leuven
-  
-  
+
+
 ### 26 May 2005 Meeting (Ghent)
 On 26th of May 2005 we held the **first OWASP Belgium Chapter meeting**!
 
@@ -855,4 +870,3 @@ It was a big success: we had nearly 40 people attending, despite the Belgium-unl
 * 18h00 - 18h45: **[OWASP Introduction](assets/2005/2005-05-26/First_OWASP_Belgium_Chapter_Meeting_-_Gent_-_26_May_2005_-_I_OWASP_Introduction.pdf)** by Sebastien Deleersnyder (Ascure)
 * 19h00 - 19h45: **[How to Break Web Application Security](assets/2005/2005-05-26/First_OWASP_Belgium_Chapter_Meeting_-_Gent_-_26_May_2005_-_II_How_to_Break_Web_Application_Security.pdf)** by Erwin Geirnaert (Security Innovation)
 * 20h00 - 20h45: **[How to Build Secure Web Applications](assets/2005/2005-05-26/First_OWASP_Belgium_Chapter_Meeting_-_Gent_-_26_May_2005_-_III_How_to_Build_Secure_Web_Applications.pdf)** by professor Frank Piessens (KU Leuven)
-        
