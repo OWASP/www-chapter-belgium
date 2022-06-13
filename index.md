@@ -31,7 +31,8 @@ Both speakers are faculty of the [Secure Application Development (SecAppDev 2022
 * 20h00-20h10: ***Break***
 * 20h10-21h00: [The Call is coming from inside: Post-exploitation Scenarios with Kubernetes Webhooks by Abhay Bhargav](#the-call-is-coming-from-inside-post-exploitation-scenarios-with-kubernetes-webhooks)
 
-### [Register NOW](https://www.meetup.com/belgium-owasp-meetup-group/events/286239648) on Meetup.com to attend this event.
+### [Register now!](https://www.meetup.com/belgium-owasp-meetup-group/events/286239648){: .cta-button .green} on Meetup.com to attend this event!
+{: .nav-button}
 
 ### Top 5 of recent API Breaches - What can we learn from them?
 We will outline the root causes of some recent API vulnerabilities making the news.
@@ -50,7 +51,8 @@ Everything from security context to memory limits can be enforced through the us
 Abhay Bhargav is the Founder of we45 and AppSecEngineer. He has created some pioneering works in the area of DevSecOps and AppSec Automation, including the world’s first hands-on training program on DevSecOps. In addition to this, Abhay is active in his research of new technologies and their impact on Application Security.\
 Abhay is a speaker and trainer at major industry events including DEF CON, BlackHat, OWASP AppSecUSA, EU and AppSecCali. His trainings have been sold-out events at conferences like AppSecUSA, AppSecDay Melbourne, CodeBlue, BlackHat and so on.
 
-### [Register NOW](https://www.meetup.com/belgium-owasp-meetup-group/events/286239648) on Meetup.com to attend this event.
+### [Register now!](https://www.meetup.com/belgium-owasp-meetup-group/events/286239648){: .cta-button .green} on Meetup.com to attend this event!
+{: .nav-button}
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
