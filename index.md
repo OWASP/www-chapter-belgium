@@ -31,6 +31,8 @@ Both speakers are faculty of the [Secure Application Development (SecAppDev 2022
 * 20h00-20h10: ***Break***
 * 20h10-21h00: [The Call is coming from inside: Post-exploitation Scenarios with Kubernetes Webhooks by Abhay Bhargav](#the-call-is-coming-from-inside-post-exploitation-scenarios-with-kubernetes-webhooks)
 
+### [Register NOW](https://www.meetup.com/belgium-owasp-meetup-group/events/286239648) on Meetup.com to attend this event.
+
 ### Top 5 of recent API Breaches - What can we learn from them?
 We will outline the root causes of some recent API vulnerabilities making the news.
 * A detailed look at the underlying OWASP API security Top 10 flaws.
