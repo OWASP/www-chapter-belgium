@@ -48,18 +48,18 @@
   - time          : 15:00 - 15:05
     name          : OWASP Closing word
 
-  - time          : Workshops
+  - time          : Workshop
     title         : Malware general
     name          : Zsombor Kovacs
 
-  - time          : Workshops
+  - time          : Workshop
     title         : OWASP-SKF
     name          : Riccardo ten Cate
 
-  - time          : Workshops
+  - time          : Workshop
     title         : OWASP-SAMM
     name          : Sebastien Deleersnyder
 
-  - time          : Workshops
+  - time          : Workshop
     title         : Malware - Red Teaming
     name          : Tom Kallo
