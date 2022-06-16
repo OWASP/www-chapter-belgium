@@ -1,0 +1,31 @@
+- day             : 20/02/2019
+  registrationUrl :
+  city            : Leuven
+  location        : DistriNet KU Leuven<br>Auditorium Erik Duval (200A.00.25), Celestijnenlaan 200A, Leuven
+  locationMaps    : https://www.google.com/maps/search/?api=1&query=50.86424%2C%204.679227
+  description     : >-
+                    Both speakers are faculty of the <a href="https://www.secappdev.org/">Secure Application Development</a> course held in Leuven from 18/02 to 22/02/2019.
+  event           :
+  - name          : Welcome and sandwiches
+    time          : 18:15 - 19:00
+
+  - title         : OWASP Update
+    time          : 19:00 - 19:10
+    name          : Sebastien Deleersnyder (OWASP)
+    url           : assets/2019/2019-02-20/Owasp_Belgium_update_2019-02-20_v1.pdf
+    urltag        : PDF
+
+  - time          : 19:10 - 20:00
+    name          : Prof. Martin Johns (TU Braunschweig)
+    title         : CSP in the age of Script Gadgets
+    url           : assets/2019/2019-02-20/CSP_Martin_Johns_OWASP_BE.pdf
+    urltag        : PDF
+
+  - name          : Break
+    time          : 20:00 - 20:10
+
+  - time          : 20:10 - 21:00
+    name          : Jimmy Mesta (CTO, Manicode Security)
+    title         : Zero to DevSecOps - security in a DevOps world
+    url           : assets/2019/2019-02-20/Zero-to-DevSecOps-OWASP-Meetup-02-19-19.pdf
+    urltag        : PDF

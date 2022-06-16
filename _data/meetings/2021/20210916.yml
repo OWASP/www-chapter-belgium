@@ -1,0 +1,19 @@
+- day             : 16/09/2021
+  registrationUrl :
+  city            :
+  location        :
+  locationMaps    :
+  description     : >-
+                    This event is part of the monthly OWASP Belgium Virtual Chapter Meeting Series 2021
+  event           :
+  - image         :
+    time          : 17:00 - 18:00
+    name          : Andrew van der Stock
+    bio           : >-
+                    Andrew is a seasoned web application security specialist and enterprise security architect. He is the Executive Director at OWASP, taking the Foundation through organizational change and taking our mission to the next level. Andrew has worked in the IT industry for over 25 years. Andrew has researched and developed the web application security and architecture fields since 1998. He is a Lifetime member of OWASP, former Director, and co-leads the OWASP Application Security Verification Standard and OWASP Top 10 projects. An Australian ex-pat of Melbourne and Sydney, he currently lives in the USA with his family.
+    title         : The OWASP Top 10 2021
+    abstract      : >-
+                    The OWASP Top 10 2021 is the latest version of the venerable project. During this session, Andrew will take you through how we designed and improved the data collection, the results of the data analysis, the Top 10 2021 itself - with a brief description of each item, along with how you can best adopt and promote this awareness piece. Also, a brief introduction to the work Andrew is doing on the ASVS 5.0, due in 2022.
+    feed          : https://youtu.be/7vihq1OVd1M
+    url           :
+    urltag        :

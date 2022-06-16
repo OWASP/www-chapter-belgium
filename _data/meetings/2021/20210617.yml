@@ -1,0 +1,19 @@
+- day             : 17/06/2021
+  registrationUrl :
+  city            :
+  location        :
+  locationMaps    :
+  description     : >-
+                    This event is part of the monthly OWASP Belgium Virtual Chapter Meeting Series 2021
+  event           :
+  - image         :
+    time          :
+    name          : Marc Curphey
+    bio           : >-
+                    Former cryptographer that started OWASP, SourceClear and now [OpenRaven](http://www.openraven.com). Early at Foundstone (sold to McAfee) and late to Microsoft (ran MSDN). British expat that has been living in San Francisco for 20 years. Rides bikes and builds software.
+    title         : Upcoming open-source AWS Discovery tool
+    abstract      : >-
+                    As we have moved to the cloud and to a data economy, more and more security decisions have moved from code to cloud infrastructure and data engineering. Mark Curphey thinks we are at the same junction in time with cloud and data as we were in 2001 when he founded OWASP. This presentation is a deep dive into a free open-source Cloud Security Posture Manager (CSPM) that he and his team at Open Raven have been building. The Crow platform discovers resources in multi-cloud environments and then checks the security configurations against best practices and known exploit conditions. It's built on a modern data stack itself and designed to scale. In this talk Mark and Jason Nichols the lead engineer will cover how Crow works, core modules such as Magpie and Rook and dive deep into writing your own security rules and reports.
+    feed          : https://www.youtube.com/watch?v=Pb6y9pWDCAY
+    url           : assets/2021/2021-06-17/Magpie.pdf
+    urltag        : PDF

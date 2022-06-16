@@ -1,0 +1,29 @@
+- day             : 25/11/2019
+  registrationUrl :
+  city            : Leuven
+  location        : DistriNet KU Leuven<br>Auditorium Erik Duval (200A.00.25), Celestijnenlaan 200A, Leuven
+  locationMaps    : https://www.google.com/maps/search/?api=1&query=50.86424%2C%204.679227
+  description     : >-
+                    The event is co-located with [a briefing and industry opportunity meeting of the <a href="https://impulsprogramma-cybersecurity-2019-11-25.eventbrite.com/">Flanders Cyber Security impuls program</a>. Feel free to [register](https://impulsprogramma-cybersecurity-2019-11-25.eventbrite.com/) for this co-located event if interested.
+  event           :
+  - name          : Welcome and networking
+    time          : 18:00 - 19:00
+
+  - title         : OWASP Update
+    time          : 19:00 - 19:10
+    name          : Lieven Desmet
+    url           : assets/2019/2019-11-25/Owasp_be_update_20191125.pdf
+    urltag        : PDF
+
+  - time          : 19:10 - 20:00
+    name          : Philippe De Ryck
+    title         : Recent evolutions in the OAuth 2.0 and OpenID Connect landscape
+    url           : assets/2019/2019-11-25/Owasp-be-20191125-deryck-recentevolutionsoauth.pdf
+    urltag        : PDF
+
+  - image         :
+    time          : 20:00 - 20:50
+    name          : Lieven Desmet
+    title         : Detection and Prevention of DNS abuse in .eu TLD
+    url           : assets/2019/2019-11-25/Owasp-be-2019-11-25-desmet.pdf
+    urltag        : PDF

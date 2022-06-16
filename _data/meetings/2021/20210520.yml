@@ -1,0 +1,23 @@
+- day             : 20/05/2021
+  registrationUrl :
+  city            :
+  location        :
+  locationMaps    :
+  description     : >-
+                    This event is part of the monthly OWASP Belgium Virtual Chapter Meeting Series 2021
+  event           :
+  - image         :
+    time          :
+    name          : Jeremiah Grossman and Jason Nichols
+    bio           : >-
+                    Jeremiah Grossman's career spans nearly 20 years and has lived a literal lifetime in computer security to become one of the industry's biggest names. And since Jeremiah earned a Brazilian Jiu-Jitsu black belt, the media has described him as "the embodiment of converged IT and physical security.” Preventing attacks from the scariest cyber-criminals is all in a day's work for Jeremiah, but staying a keystroke ahead of the bad guys isn't easy. In 2001, Jeremiah founded WhiteHat Security, which today has one of the largest professional hacking armies on the planet. Let it sink in. Professional. Hacker. Army.
+
+                    Jeremiah has received a number of industry awards, been publicly thanked by Microsoft, Mozilla, Google, Facebook, and many others for privately informing them of weaknesses in their systems -- a polite way of saying, ‘hacking them'. His research included ways to surreptitiously turn on anyone's computer video camera and microphone from anywhere across the Internet, sidestep firewalls, abuse online advertising networks to take any website offline, hijack the email and bank accounts of millions, silently rip out saved passwords and surfing history from web browsers, and many other cyber-attack techniques – some so insidious and fundamental that many still have not been fixed to this day.
+
+                    Collectively, it's no surprise Jeremiah has been featured in the Wall Street Journal, Forbes, NY Times and hundreds of other media outlets around the world who rely upon his expertise. Just type “Jeremiah Grossman” into your favorite search engine, you'll see. He also serves on the advisory board of several hot start-ups including Kenna Security, BugCrowd, SentinelOn, Arkose Labs, and LifeDNA. Of course, all of this was after Mr. Grossman served as information security officer at Yahoo!
+    title         : Why Attack Surface Management is Hard
+    abstract      : >-
+                    Everyone agrees that attack surface management is critically important, as it is the very first step of any information security program. While enterprise interest and market traction for attack surface management is building, it’s curious why every organization doesn’t already have an up-to-date attack surface map. They should! It may sound strange, but I believe it’s because attack surface management is technologically a hard problem to solve – extremely hard. This is harder to solve than most any another other problem across the entire IT and IT security industry, and harder than any other problem I’ve personally worked on. Let’s dive into the technical details of the many challenges and explore statistics of attack surface maps across the industries.
+    feed          : https://www.youtube.com/watch?v=klJp0ds45hQ
+    url           :
+    urltag        :

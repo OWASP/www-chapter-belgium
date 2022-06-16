@@ -1,0 +1,21 @@
+- day             : 21/10/2021
+  registrationUrl :
+  city            :
+  location        :
+  locationMaps    :
+  description     : >-
+                    This event is part of the monthly OWASP Belgium Virtual Chapter Meeting Series 2021
+  event           :
+  - image         :
+    time          :
+    name          : Steven Springett
+    bio           : >-
+                    Steve educates teams on the strategy and specifics of developing secure software.
+                    He practices security at every stage of the development lifecycle by leading sessions on threat modeling, secure architecture and design, static/dynamic/component analysis, offensive research, and defensive programming techniques.
+                    Steve's passionate about helping organizations identify and reduce risk from the use of third-party and open source components. He is an open source advocate and leads the OWASP Dependency-Track project, OWASP Software Component Verification Standard (SCVS) project, CycloneDX software bill of materials standard, and participates in several related projects and working groups.
+    title         : Component Analysis vs SCA - How SBOMs are the driving force for change
+    abstract      : >-
+                    This walk would dive into the CycloneDX Software Bill of Materials specification and world-wide efforts to identify and reduce risk in the global software supply chain.
+    feed          : https://youtu.be/cu-21oRKkaQ
+    url           :
+    urltag        :

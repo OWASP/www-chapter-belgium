@@ -1,0 +1,65 @@
+- day             : 28/10/2020
+  registrationUrl :
+  city            :
+  location        :
+  locationMaps    :
+  description     : >-
+                    This virtual security day - conference is free to join for everybody and we have an amazing line up of interesting speakers and topics. Also we have multiple workshops you can attend for free.
+  event           :
+
+  - time          : 09:00 - 09:15
+    name          : Sebastien Deleersnyder and Glenn ten Cate
+    title         : OWASP Kickoff
+
+  - image         :
+    time          : 09:15 - 10:00
+    name          : Sebastien Deleersnyder
+    bio           :
+    title         : OWASP SAMM
+    abstract      :
+    feed          :
+    url           :
+    urltag        :
+
+  - time          : 10:00 - 11:00
+    name          : Riccado ten Cate
+    title         : Making the web secure by design
+
+  - time          : 11:00 - 11:45
+    title         : Tom Tervoort
+    name          : Zerologon - taking over an AD domain in three seconds
+
+  - time          : 11:45 - 12:45
+    name          : break
+
+  - time          : 12:45 - 13:30
+    title         : Phoenix - Proactively detect and fight phishing attacks
+    name          : Davide Cioccia and Stefan Petrushevski
+
+  - time          : 13:30 - 14:15
+    title         : Using oldschool techniques to turn software to malware
+    name          : Hidde Westerhof
+
+  - time          : 14:15 - 15:00
+    title         : State of the internet
+    name          : Peter Massini
+
+
+  - time          : 15:00 - 15:05
+    name          : OWASP Closing word
+
+  - time          : Workshops
+    title         : Malware general
+    name          : Zsombor Kovacs
+
+  - time          : Workshops
+    title         : OWASP-SKF
+    name          : Riccardo ten Cate
+
+  - time          : Workshops
+    title         : OWASP-SAMM
+    name          : Sebastien Deleersnyder
+
+  - time          : Workshops
+    title         : Malware - Red Teaming
+    name          : Tom Kallo

@@ -1,0 +1,27 @@
+- day             : 11/03/2020
+  registrationUrl :
+  city            : Leuven
+  location        : DistriNet Research Group (KU Leuven)
+  locationMaps    :
+  description     : >-
+                    CANCELLED! Due to the COVID-19 related cancellation of the <a href="https://www.secappdev.org/">Secure Application Development</a> training, the chapter meeting will be cancelled as well.<br>
+                    Both speakers are faculty of the <a href="https://www.secappdev.org/">Secure Application Development</a>, a unique AppSec course held in Leuven from 09/03 to 13/03/2020.
+  event           :
+
+  - time          : 18:00 - 18:50
+    name          : Welcome and sandwiches
+
+  - time          : 18:50 - 19:00
+    name          : OWASP Update
+
+  - time          : 19:00 - 20:00
+    name          : Abhay Bhargav
+    title         : The hitchhikers guide to secrets for cloud environments
+
+
+  - time          : 20:00 - 20:10
+    name          : Break
+
+  - time          : 20:10 - 21:10
+    title         : Blueprint for secure JavaScript development
+    name          : Marcin Hoppe

@@ -1,0 +1,21 @@
+- day             : 18/02/2021
+  registrationUrl :
+  city            :
+  location        :
+  locationMaps    :
+  description     : >-
+                    This event is part of the monthly OWASP Belgium Virtual Chapter Meeting Series 2021
+  event           :
+  - image         :
+    time          :
+    name          : Jim Manicode and Philippe De Ryck
+    bio           : >-
+                    Jim Manico is the founder of Manicode Security where he trains software developers on secure coding and security engineering. He is also the co-founder of the LocoMoco Security Conference and is an investor/advisor for BitDiscovery and Signal Sciences. Jim is a frequent speaker on secure software practices and is a member of the JavaOne rockstar speaker community. He is the author of Iron-Clad Java: Building Secure Web Applications from McGraw-Hill. For more information, visit <http://www.linkedin.com/in/jmanico>.
+                    Dr. Philippe De Ryck (Web Security Expert, Founder of Pragmatic Web Security)
+                    Philippe De Ryck helps developers protect companies through better web security. His Ph.D. in web security from KU Leuven lies at the basis of his exceptional knowledge of the security landscape. As the founder of Pragmatic Web Security, Philippe delivers security training and security consulting to companies worldwide. His online course platform allows anyone to learn complex security topics at their own pace. Philippe is a Google Developer Expert and an Auth0 Ambassador/Expert for his community contributions on the security of web applications and APIs. For more information, check [Twitter](https://twitter.com/PhilippeDeRyck), [LinkedIn](https://www.linkedin.com/in/PhilippeDeRyck/) or [Github](https://github.com/philippederyck/).
+    title         : JWT's  - sign em like it's hot
+    abstract      : >-
+                    When needing to overtake an existing form of government (ie: cookie based traditional session management) one must carefully plan how to raid that traditional institution and bring about a new regime (ie: JWT based session management). Often, radical shifts in governance require new leadership institutions (key management, more challenging logout functionality, managing the increase in complexity, access control considerations, etc). Ahem.
+    feed          : https://www.youtube.com/watch?v=yZoF2wNG78c
+    url           : assets/2021/2021-02-18/JWT-Security.pdf
+    urltag        : PDF
