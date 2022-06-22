@@ -32,7 +32,7 @@ tags: belgium
 ### 14 June 2022 meeting (Leuven)
 * 18h15-19h00: Welcome and refreshments
 * 19h00-19h10: **OWASP Update**
-* 19h10-20h00: [Top 5 of recent API Breaches - What can we learn from them? by Isabelle Mauny](#top-5-of-recent-api-breaches---what-can-we-learn-from-them) - [Check out the PDF](/assets/2022/2022-06-14/OWASP-Belgium-APISecurity.pdf)
+* 19h10-20h00: [Top 5 of recent API Breaches - What can we learn from them? by Isabelle Mauny](#top-5-of-recent-api-breaches---what-can-we-learn-from-them) - [Check out the PDF](assets/2022/2022-06-14/OWASP-Belgium-APISecurity.pdf)
 * 20h00-20h10: ***Break***
 * 20h10-21h00: [The Call is coming from inside: Post-exploitation Scenarios with Kubernetes Webhooks by Abhay Bhargav](#the-call-is-coming-from-inside-post-exploitation-scenarios-with-kubernetes-webhooks)
 

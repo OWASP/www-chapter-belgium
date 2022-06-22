@@ -31,12 +31,12 @@ With the Belgium chapter, we aim to organize 4 local chapter meetings per year a
 
 <div class="center">
 <h3>We're taking a ...</h3>
-<img src="/assets/images/holiday.jpg" alt="Holiday time">
+<img src="assets/images/holiday.jpg" alt="Holiday time">
 <h3>break!</h3>
 <br>
 <p>We will be back in September for more Belgium Chapter Meetings.</p>
 <br>
-In the meantime check out <a href="/#div-meetings">the previous meetings</a> or <a href="/#div-archive">the archives</a>.
+In the meantime check out <a href="https://owasp.org/www-chapter-belgium/#div-meetings">the previous meetings</a> or <a href="https://owasp.org/www-chapter-belgium/#div-archive">the archives</a>.
 <br>
 <br>
 
@@ -47,7 +47,6 @@ In the meantime check out <a href="/#div-meetings">the previous meetings</a> or 
 <br>
 
 <!--
-
 
 ### [Register now!](https://www.meetup.com/belgium-owasp-meetup-group/events/286239648){: .cta-button .green} on Meetup.com to attend this event!
 {: .nav-button}
