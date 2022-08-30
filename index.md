@@ -23,9 +23,9 @@ This chapter meeting will take place at the Lamot Congress Center, in Mechelen.
 This event is co-located with the [CyberSecurity event "Strategic Rsearch and Industry Impact"](https://cybersecurity-bites.be/cybersecurity-strategic-research-to-industry-)
 
 ### Agenda
-18:00 - 19:00 - Welcome and refreshments
-19:00 - 20:00 - Tbc
-20:00 - 21:00 - Tbc
+* 18:00 - 19:00 - Welcome and refreshments
+* 19:00 - 20:00 - Tbc
+* 20:00 - 21:00 - Tbc
 
 The agenda will be updated quickly.
 
