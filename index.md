@@ -26,10 +26,10 @@ This event is co-located with the [CyberSecurity event "Strategic Rsearch and In
 
 ### Agenda
 * 18:00 - 19:00 - Welcome and refreshments
-* 19:00 - 20:00 - Tbc
-* 20:00 - 21:00 - Tbc
+* 19:00 - 20:00 - Philippe Bogaerts - A hacker’s view on #containers and #K8S
+* 20:00 - 21:00 - Victor Le Pochat - An Audit of Facebook's Political Ad Policy Enforcement
 
-The agenda will be updated quickly.
+Details on the talks soon...
 
 ### [Register now!](https://www.meetup.com/nl-NL/belgium-owasp-meetup-group/events/288155026/){: .cta-button .green} on Meetup.com to attend this event!
 {: .nav-button}
