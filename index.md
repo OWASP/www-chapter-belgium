@@ -21,16 +21,16 @@ With the Belgium chapter, we aim to organize 4 local chapter meetings per year a
 ## September 13th, 2020, Mechelen
 This chapter meeting will take place at the Lamot Congress Center, in Mechelen.
 
-This event is co-located with the [CyberSecurity event "Strategic Rsearch and Industry Impact"](https://cybersecurity-bites.be/cybersecurity-strategic-research-to-industry-)
+This event is co-located with the [CyberSecurity event "Strategic Rsearch and Industry Impact"](https://cybersecurity-bites.be/cybersecurity-van-onderzoek-tot-industrie-impact/)
 
 
 ### Agenda
 * 18:00 - 19:00 - Welcome and refreshments
-* 19:00 - 20:00 - Philippe Bogaerts - A hacker’s view on #containers and #K8S
-* 20:00 - 21:00 - Victor Le Pochat - An Audit of Facebook's Political Ad Policy Enforcement
+* 19:00 - 20:00 - [Philippe Bogaerts - A hacker’s view on #containers and #K8S](https://owasp.org/www-chapter-belgium/#div-meetings)
+* 20:00 - 21:00 - [Victor Le Pochat - An Audit of Facebook's Political Ad Policy Enforcement](https://owasp.org/www-chapter-belgium/#div-meetings)
 
-Details on the talks soon...
 
+<br>
 ### [Register now!](https://www.meetup.com/nl-NL/belgium-owasp-meetup-group/events/288155026/){: .cta-button .green} on Meetup.com to attend this event!
 {: .nav-button}
 

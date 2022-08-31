@@ -8,6 +8,35 @@ tags: belgium
 ---
 ## OWASP Belgium Chapter Meeting 2022
 
+## September 13th:
+We are please to welcome Victor Le Pochat and Philippe Bogaerts.
+This meeting is co-located with the [CyberSecurity event "Strategic Rsearch and Industry Impact"](https://cybersecurity-bites.be/cybersecurity-van-onderzoek-tot-industrie-impact/)
+
+### Agenda:
+* 18h15-19h00: Welcome and refreshments
+* 19h00-19h10: **OWASP Update**
+* 19h10-20h00: [A hacker’s view on #containers and #K8S by Philippe Bogaerts](#a-hackers-view-on-containers-and-k8s)
+* 20h00-20h10: ***Break***
+* 20h10-21h00: [An Audit of Facebook's Political Ad Policy Enforcement by Victor Le Pochat](#an-audit-of-facebooks-political-ad-policy-enforcement)
+
+### A hacker’s view on #containers and #K8S
+Kubernetes and the eco-systems around are fundamentally complex systems with lots of different potential attack vectors aimed at data theft, currency mining and other threats.  The attack surface is immense.\
+Current legacy security controls do not offer an acceptable level of protection anymore. By looking at the problem from different angles, we’ll discuss the key concepts of container and Kubernetes security to better and reliably protect our applications, workloads and clusters.
+
+### Philippe Bogaerts
+Philippe brings more than 20+ years of experience in security. Starting out as a trainer specializing in advanced TCP/IP protocols, networking and security, Philippe quickly became known by colleagues as “Philippe hacks to learn”.\
+Being a pioneer in network firewall, reverse proxy and load-balancing, Philippe later on specialized in web application security with a focus on penetration testing and web application firewalling.\
+About 6 years ago, containers and orchestration grabbed his attention and started researching (mostly as a hobby), the architecture and security aspects of these new emerging technologies.\
+Today, Philippe contributes mostly by writing [blog posts](https://xxradar.medium.com), talking at meetups as well as co-organizing a [renowned security conference](https://brucon.org).\
+During daytime, Philippe is a solution architect focusing on AWS, Kubernetes and cloud protection.
+
+### An Audit of Facebook's Political Ad Policy Enforcement
+Major technology companies strive to protect the integrity of political advertising on their platforms by implementing and enforcing self-regulatory policies that impose transparency requirements on political ads. In this paper, we quantify whether Facebook’s current enforcement correctly identifies political ads and ensures compliance by advertisers. In a comprehensive, large-scale analysis of 4.2 million political and 29.6 million non-political ads from 215,030 advertisers, we identify ads correctly detected as political (true positives), ads incorrectly detected (false positives), and ads missed by detection (false negatives).\
+Facebook’s current enforcement appears imprecise: 61% more ads are missed than are detected worldwide, and 55% of U.S. detected ads are in fact non-political. Detection performance is uneven across countries, with some having up to 53 times higher false negative rates among clearly political pages than in the U.S. Moreover, enforcement appears inadequate for preventing systematic violations of political advertising policies: for example, advertisers were able to continue running political ads without disclosing them while they were temporarily prohibited in the U.S. We attribute these flaws to five gaps in Facebook’s current enforcement and transparency implementation, and close with recommendations to improve the security of the online political ad ecosystem.
+
+### Victor Le Pochat
+Victor Le Pochat, imec-DistriNet, KU Leuven; Laura Edelson, New York University; Tom Van Goethem and Wouter Joosen, imec-DistriNet, KU Leuven; Damon McCoy and Tobias Lauinger, New York University
+
 ## June 14th:
 For this ON-SITE chapter meeting, we have scheduled Isabelle Mauny and Abhay Bhargav.
 
