@@ -35,7 +35,8 @@ Major technology companies strive to protect the integrity of political advertis
 Facebook’s current enforcement appears imprecise: 61% more ads are missed than are detected worldwide, and 55% of U.S. detected ads are in fact non-political. Detection performance is uneven across countries, with some having up to 53 times higher false negative rates among clearly political pages than in the U.S. Moreover, enforcement appears inadequate for preventing systematic violations of political advertising policies: for example, advertisers were able to continue running political ads without disclosing them while they were temporarily prohibited in the U.S. We attribute these flaws to five gaps in Facebook’s current enforcement and transparency implementation, and close with recommendations to improve the security of the online political ad ecosystem.
 
 ### Victor Le Pochat
-Victor Le Pochat, imec-DistriNet, KU Leuven; Laura Edelson, New York University; Tom Van Goethem and Wouter Joosen, imec-DistriNet, KU Leuven; Damon McCoy and Tobias Lauinger, New York University
+Victor Le Pochat is a PhD researcher in the area of web security and privacy at the imec-DistriNet research group at KU Leuven in Belgium. His interests lie in the exploration of web ecosystems through large-scale measurements, and in web security and privacy research methodology, both analyzing and improving current research practices. [@VictorLePochat on Twitter](https://twitter.com/VictorLePochat)
+
 
 ## June 14th:
 For this ON-SITE chapter meeting, we have scheduled Isabelle Mauny and Abhay Bhargav.
