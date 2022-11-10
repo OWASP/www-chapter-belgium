@@ -18,7 +18,10 @@ With the Belgium chapter, we aim to organize 4 local chapter meetings per year a
 
 # Upcoming events
 
-## September 13th, 2020, Mechelen
+## November 24-25th, 2022, Tilburg (NL)
+Join us in Tilburg for the 2022 version of [Owasp BeNeLux days](https://owaspbenelux.eu).
+
+## September 13th, 2022, Mechelen
 This chapter meeting will take place at the Lamot Congress Center, in Mechelen.
 
 This event is co-located with the [CyberSecurity event "Strategic Rsearch and Industry Impact"](https://cybersecurity-bites.be/cybersecurity-van-onderzoek-tot-industrie-impact/)
