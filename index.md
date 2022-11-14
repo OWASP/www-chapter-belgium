@@ -34,13 +34,6 @@ This event is co-located with the [CyberSecurity event "Strategic Rsearch and In
 
 
 <br>
-<!--
-### [Register now!](https://www.meetup.com/nl-NL/belgium-owasp-meetup-group/events/288155026/){: .cta-button .green} on Meetup.com to attend this event!
-{: .nav-button}
-
-<br>
-<br>
--->
 <br>
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
