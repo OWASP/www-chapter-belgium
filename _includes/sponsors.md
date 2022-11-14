@@ -9,3 +9,4 @@ OWASP Belgium thanks its structural chapter supporters for 2022 and the OWASP Be
 [![SIG](assets/images/sponsors/sig.png){:sponsorimage}](https://www.softwareimprovementgroup.com/){:target="_blank"}
 [![Contrast Security](assets/images/sponsors/contrast-security.png){:sponsorimage}](https://www.contrastsecurity.com/){:target="_blank"}
 [![42 Crunch](assets/images/sponsors/42crunch.png){:sponsorimage}](https://42crunch.com/){:target="_blank"}
+[![Achmea](assets/images/sponsors/achmea.png){:sponsorimage}](https://www.achmea.nl/){:target="_blank"}
