@@ -29,6 +29,20 @@ tags: belgium
 
 ## 2022 chapter meetings
 
+### November 24-25th, 2022, Tilburg (NL)
+Join us in Tilburg for the 2022 version of [Owasp BeNeLux days](https://owaspbenelux.eu).
+
+### September 13th, 2022, Mechelen
+This chapter meeting will take place at the Lamot Congress Center, in Mechelen.
+
+This event is co-located with the [CyberSecurity event "Strategic Rsearch and Industry Impact"](https://cybersecurity-bites.be/cybersecurity-van-onderzoek-tot-industrie-impact/)
+
+#### Agenda
+* 18:00 - 19:00 - Welcome and refreshments
+* 19:00 - 20:00 - [Philippe Bogaerts - A hacker’s view on #containers and #K8S](https://owasp.org/www-chapter-belgium/#div-meetings)
+* 20:00 - 21:00 - [Victor Le Pochat - An Audit of Facebook's Political Ad Policy Enforcement](https://owasp.org/www-chapter-belgium/#div-meetings)
+
+
 ### 14 June 2022 meeting (Leuven)
 * 18h15-19h00: Welcome and refreshments
 * 19h00-19h10: **OWASP Update**

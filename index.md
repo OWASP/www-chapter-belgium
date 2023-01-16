@@ -11,12 +11,16 @@ meetup-group: belgium-owasp-meetup-group
 Welcome to the Belgium chapter homepage. The chapter leaders are
 [Sebastien Deleersnyder](mailto:seba@owasp.org),
 [Lieven Desmet](mailto:lieven.desmet@owasp.org),
-[Bart De Win](mailto:bart.dewin@owasp.org), and
-[David Mathy](mailto:david.mathy@owasp.org).
+[Bart De Win](mailto:bart.dewin@owasp.org),
+[David Mathy](mailto:david.mathy@owasp.org) and Stella Dineva.
 
 With the Belgium chapter, we aim to organize 4 local chapter meetings per year and co-organize the yearly BeNeLux Day. Any suggestions for speakers or venue? Feel free to reach out to us!
 
 # Upcoming events
+
+Soon to be announced...
+
+# Past events
 
 ## November 24-25th, 2022, Tilburg (NL)
 Join us in Tilburg for the 2022 version of [Owasp BeNeLux days](https://owaspbenelux.eu).
