@@ -20,7 +20,16 @@ With the Belgium chapter, we aim to organize 4 local chapter meetings per year a
 
 # Upcoming events
 
-Soon to be announced...
+
+## October 17th, 2023, Lamot (BE)
+This chapter meeting will take place at the Lamot Congress Center, in Mechelen.
+
+This event is co-located with the [CyberSecurity event "Strategic Research and Industry Impact"](https://cybersecurity-bites.be/cybersecurity-strategic-research-industry-impact-2nd-edition/)
+
+
+## November 23-24th, 2023, Hasselt (BE)
+Join us in Hasselt for the 2023 version of [Owasp BeNeLux days](https://owaspbenelux.eu).
+
 
 # Past events
 
