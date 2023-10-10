@@ -21,7 +21,7 @@ With the Belgium chapter, we aim to organize 4 local chapter meetings per year a
 # Upcoming events
 
 
-## October 17th, 2023, Lamot (BE)
+## October 17th, 2023, Mechelen (BE)
 This chapter meeting will take place at the Lamot Congress Center, in Mechelen.
 
 This event is co-located with the [CyberSecurity event "Strategic Research and Industry Impact"](https://cybersecurity-bites.be/cybersecurity-strategic-research-industry-impact-2nd-edition/)
