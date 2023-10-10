@@ -30,25 +30,6 @@ This event is co-located with the [CyberSecurity event "Strategic Research and I
 ## November 23-24th, 2023, Hasselt (BE)
 Join us in Hasselt for the 2023 version of [Owasp BeNeLux days](https://owaspbenelux.eu).
 
-{% comment %}
-# Past events
-
-## November 24-25th, 2022, Tilburg (NL)
-Join us in Tilburg for the 2022 version of [Owasp BeNeLux days](https://owaspbenelux.eu).
-
-## September 13th, 2022, Mechelen
-This chapter meeting will take place at the Lamot Congress Center, in Mechelen.
-
-This event is co-located with the [CyberSecurity event "Strategic Rsearch and Industry Impact"](https://cybersecurity-bites.be/cybersecurity-van-onderzoek-tot-industrie-impact/)
-
-
-### Agenda
-* 18:00 - 19:00 - Welcome and refreshments
-* 19:00 - 20:00 - [Philippe Bogaerts - A hacker’s view on #containers and #K8S](https://owasp.org/www-chapter-belgium/#div-meetings)
-* 20:00 - 21:00 - [Victor Le Pochat - An Audit of Facebook's Political Ad Policy Enforcement](https://owasp.org/www-chapter-belgium/#div-meetings)
-
-{% endcomment %}
-
 <br>
 <br>
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
