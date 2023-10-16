@@ -1,5 +1,9 @@
 ### Information and chapter invites
+* [OWASP BE contact list](http://eepurl.com/iFZtb)
 * [OWASP BE Meetup group](https://www.meetup.com/belgium-owasp-meetup-group/)
+
+
+### OWASP BE Community
 * [Slack #chapter-belgium](https://owasp.slack.com/messages/chapter-belgium/) ([register](https://owasp.org/slack/invite) first)
 * [Join our mailing list](https://groups.google.com/a/owasp.org/forum/#!forum/belgium-chapter)
 * [OWASP BE on Twitter](https://twitter.com/owasp_be)
