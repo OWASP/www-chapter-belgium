@@ -14,14 +14,10 @@
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 * [Become a chapter sponsor](https://www.owasp.org/index.php/Local_Chapter_Supporter)
 
-### Board members
-* Sebastien Deleersnyder
+### Volunteers
 * Lieven Desmet
 * Bart De Win
 * Stella Dineva
-* Erwin Geirnaert
-* Thomas Herlea
 * David Mathy
-* Adolfo Solero
 * Maxim Baele
-
+* Sebastien Deleersnyder
