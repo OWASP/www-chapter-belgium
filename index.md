@@ -12,7 +12,7 @@ meetup-group: belgium-owasp-meetup-group
 Welcome to the Belgium chapter homepage. The chapter leaders are
 [Lieven Desmet](mailto:lieven.desmet@owasp.org),
 [Bart De Win](mailto:bart.dewin@owasp.org),
-[David Mathy](mailto:david.mathy@owasp.org),
+[David Mathy](mailto:david.mathy@owasp.org) and
 [Stella Dineva](mailto:stella.dineva@owasp.org).
 
 With the Belgium chapter, we aim to organize 4 local chapter meetings per year and co-organize the yearly BeNeLux Day. Any suggestions for speakers or venue? Feel free to reach out to us!

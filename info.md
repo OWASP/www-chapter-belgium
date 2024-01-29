@@ -16,8 +16,5 @@
 
 ### Volunteers
 * Sebastien Deleersnyder
-* Erwin Geirnaert
-* Thomas Herlea
-* Adolfo Solero
 * Maxim Baele
 
