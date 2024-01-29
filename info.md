@@ -15,9 +15,7 @@
 * [Become a chapter sponsor](https://www.owasp.org/index.php/Local_Chapter_Supporter)
 
 ### Volunteers
-* Lieven Desmet
-* Bart De Win
-* Stella Dineva
-* David Mathy
-* Maxim Baele
 * Sebastien Deleersnyder
+* Erwin Geirnaert
+* Thomas Herlea
+* Adolfo Solero
