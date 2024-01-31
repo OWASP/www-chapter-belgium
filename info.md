@@ -16,5 +16,4 @@
 
 ### Volunteers
 * Sebastien Deleersnyder
-* Maxim Baele
 
