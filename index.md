@@ -27,6 +27,13 @@ We're glad to host:
 * [Joris Gorinsek from NIKO: Navigating the Evolving Landscape of Cyber Security Legislation as an IoT Device Manufacturer](https://owasp.org/www-chapter-belgium/#div-meetings)
 * [Ive Verstappen & Jev Meijvis from DotNET lab: OWASP Cornucopia and Scrum: A strategic approach to introduce threat modeling in an Agile development process](https://owasp.org/www-chapter-belgium/#div-meetings)
 
+## May 21st, 2024, Brussels
+This chapter meeting will take place in BeCentral in Brussels, courtesy of Proximus-ADA.
+
+Hosting:
+* Victor LePochat and Karel Dhondt (Distrinet - KU Leuven): User Privacy in Online Location-Based Services
+* Jeremy Schmidt - SS7 Security (title subject to change)
+
 
 <br>
 <br>

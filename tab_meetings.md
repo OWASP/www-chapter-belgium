@@ -48,3 +48,20 @@ Jef serves as the unit director for the Cybersecurity unit at dotNET lab.
 With a robust foundation in software development and cloud architecture, his focus lies in enhancing the security within software development teams.
 He has hands-on experience with securing and moving enterprise applications to a cloud environment, especially in the Microsoft & Azure ecosystem.
 
+
+{::comment}
+## May 21st, 2024, Brussels
+This chapter meeting will take place in BeCentral (Proximus-ADA) in Brussels.
+
+### Location:
+Cantersteen 12, 1000 Brussels
+
+### Agenda (subject to change)
+* 18h00-18h30: Welcome and refreshments
+* 18h30-18h40: **OWASP Update**
+* 18h40-19h30: User Privacy in Online Location-Based Services by Victor LePochat and Karel Dhondt (Distrinet - KU Leuven)
+* 19h30-19h45: ***Break***
+* 19:45-20h35: SS7 Security (title subject to change) by Jeremy Schmidt (Proximus ADA)
+* 21:00: Close
+
+{:/comment}
