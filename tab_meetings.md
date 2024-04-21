@@ -6,44 +6,45 @@ tab: true
 order: 2
 tags: belgium
 ---
-## OWASP Belgium Chapter Meeting 2023
+## OWASP Belgium Chapter Meeting 2024
 
-## October 17th:
-We are please to welcome Asuman Senol and Georges Bolssens. 
-This meeting is co-located with the [CyberSecurity event "Strategic Rsearch and Industry Impact"](https://cybersecurity-bites.be/cybersecurity-strategic-research-industry-impact-2nd-edition/)
+## May 2nd, 2024, Antwerpen
+This chapter meeting will take place at the High School "Karel de Grote" in Antwerpen.
+
+### Location:
+Nationalestraat 5, 2000 Antwerpen
 
 ### Agenda:
-* 18h15-19h00: Welcome and refreshments
-* 19h00-19h10: **OWASP Update**
-* 19h10-19h50: **[Leaky Forms: A Study of Email and Password Exfiltration Before Form Submission](#leaky-forms-a-study-of-email-and-password-exfiltration-before-form-submission)** by [Asuman Senol](#asuman-senol) (Privacy Researcher at COSIC, KU Leuven BE)
-* 19h50-20h30: **[Cyber breaches and how to prevent them](#cyber-breaches-and-how-to-prevent-them)** by [Georges Bolssens](#georges-bolssens) (Principal Consultant at Toreon) 
+* 17h30-18h20: Welcome and refreshments
+* 18h20-18h30: **OWASP Update**
+* 18h30-19h30: [Navigating the Evolving Landscape of Cyber Security Legislation as an IoT Device Manufacturer - Joris Gorinsek (NIKO)](#navigating-the-evolving-landscape-of-cyber-security-legislation-as-an-iot-device-manufacturer---joris-gorinsek-niko)
+* 19h30-19h45: ***Break***
+* 19:45-20h45: [OWASP Cornucopia and Scrum: A strategic approach to introduce threat modeling in an Agile development process (Ive Verstappen & Jev Meijvis - DotNET lab)](#owasp-cornucopia-and-scrum-a-strategic-approach-to-introduce-threat-modeling-in-an-agile-development-process---ive-verstappen--jef-meijvis-dotnet-lab)
+* 21:00: Close
 
-### Leaky Forms: A Study of Email and Password Exfiltration Before Form Submission 
-Web users enter their email addresses into online forms for a variety of reasons, including signing in or signing up for a service or subscribing to a newsletter. While enabling such functionality, email addresses typed into forms can also be collected by third-party scripts even when users change their minds and leave the site without submitting the form. Email addresses—or identifiers derived from them—are known to be used by data brokers and advertisers for cross-site, cross-platform, and persistent identification of potentially unsuspecting individuals. In order to find out whether access to online forms is misused by online trackers, we present a measurement of email and password collection that occurs before the form submission on the top 100,000 websites. We evaluate the effect of user location, browser configuration, and interaction with consent dialogs by comparing results across two vantage points (EU/US), two browser configurations (desktop/mobile), and three consent modes. Our crawler finds and fills email and password fields, monitors the network traffic for leaks, and intercepts script access to filled input fields. Our analyses show that users’ email addresses are exfiltrated to tracking, marketing and analytics domains before form submission and without giving consent on 1,844 websites in the EU crawl and 2,950 websites in the US crawl. While the majority of email addresses are sent to known tracking domains, we further identify 41 tracker domains that are not listed by any of the popular blocklists. Furthermore, we find incidental password collection on 52 websites by third-party session replay scripts. 
+### Navigating the Evolving Landscape of Cyber Security Legislation as an IoT Device Manufacturer - Joris Gorinsek (NIKO)
 
-### Asuman Senol
-Asuman Senol is a last year PhD student at COSIC under the supervision of Assistant Prof. Gunes Acar and Prof. Claudia Diaz. She works on online tracking and web privacy. Her research involves conducting large-scale web measurement studies to investigate privacy and security issues on the Web. Before starting her doctoral studies, she worked as a full-stack web developer for 5 years. She contributes to various open source software projects thanks to her background in the industry and current academic interests in privacy and security.
+**Abstract**: The world of IoT security is on the cusp of significant change with the arrival of new regulations like the EU's Radio Equipment Delegated Act (RED DA), Cyber Resilience Act (CRA) and NIS2 Directive. This presentation will provide a brief overview of these upcoming legislations and their impact on the way we at Niko develop and source IoT devices.
 
-### Cyber breaches and how to prevent them
- This talk explains the common threats for software applications from an attacker point of view, by using real-world data breaches and what the attacked companies could have done to prevent it.
+In this presentation we'll delve into the compliance requirements for manufacturers under the RED DA and share our lessons learned. We'll outline our strategy for tackling the upcoming CRA for both in-house developed products and those sourced externally. Finally, we'll share how you, as an application security advocate, can leverage these regulations to promote a more secure future for your organization.
 
-We have selected breaches of which technical details are well understood, so we can use them as case studies, which we will approach using the following questions:
-* What happened?
-* Why did this happen?
-* What were the consequences?
-* How can you prevent it?
+**About Joris Gorinsek**: For over 20 years, Joris has been deeply involved in the design and development of embedded and IoT devices. His expertise extends from low level bootloaders and Linux kernel internals all the way to smartphone applications and cloud services, with a strong focus on application security for the past 6 years.
 
-### Georges Bolssens
-Georges Bolssens embarked on his coding journey in the early 1990s and delved into the realm of application security in 2017. With an inherent passion for teaching, Georges is not only a seasoned developer but also an adept communicator. His unique talent lies in simplifying intricate subjects through relatable analogies, making him an engaging and effective speaker.
+Currently, as system architect for Niko's Home Automation department, Joris champions product security, ensuring their offerings are built using robust security practices. Lately most of his time is spent on analyzing upcoming cybersecurity legislation, assessing its impact on Niko's products, their way of working and defining optimal strategy for compliance.
 
-Having undertaken numerous consulting assignments, Georges has assumed the role of a cybersecurity educator for a diverse spectrum of professionals. His guidance has illuminated the path for individuals ranging from legal experts at renowned "Big 4" consulting firms to ethical hackers and all those in between.
+Joris is a member of the Agoria industry expert group on cybersecurity legislation and a DPI Certified CISO.
 
-In his capacity as an Application Security Consultant at Toreon, Georges has been instrumental in assisting numerous clients in constructing comprehensive threat models for their digital assets. His expertise and commitment led to his appointment as a co-instructor for Toreon's distinguished "Advanced Whiteboard Hacking – a.k.a. Hands-on Threat Modeling" course. Notably, he co-taught this course at the esteemed "BlackHat USA" conference in 2023.
+### OWASP Cornucopia and Scrum: A strategic approach to introduce threat modeling in an Agile development process - Ive Verstappen & Jef Meijvis (DotNET Lab)
 
+**Abstract**: In today’s fast-paced software development environments, embedding security within agile frameworks such as Scrum is essential. This presentation introduces OWASP Cornucopia, an effective tool for identifying and integrating security requirements into agile development cycles. We'll explore how to integrate the Cornucopia game into Scrum processes, particularly during the planning phase, to enhance security without disrupting development flow.
+Participants will learn practical tips for facilitating Cornucopia games within their teams, using outcomes to improve application security, and scaling the approach based on project complexity and security needs. This presentation will provide valuable insights for Scrum Masters, product owners, developers, and security professionals aiming to better integrate security practices into their agile processes, ultimately leading to safer and more robust software products.
 
-## OWASP BeNeLux Days 2023 (November 23-24)
-We are proud to announce the next edition of OWASP BeNeLux Days! The event will take place on 23 and 24 November 2023, in Hasselt (BE)
+**About Ive Verstappen**: As the founder of dotNET lab, I am blessed to be able to work with world-class people, all of whom I respect and admire. I'm also pleased to have great, understanding customers from whom I learn a great deal about building a trustworthy business. Every day is a learning-experience for me.
+We are extremely pleased to have a first-class team of consultants at dotNET lab. Our consultants are professionals and excellent developers. Besides being professional, they are also nice, interesting people with whom I enjoy spending my time.
+I find the world of Business and IT endlessly interesting and I really enjoy the process of trying to create a company where great people like to work.
+ 
+**About Jef Meijvis**: 
+Jef serves as the unit director for the Cybersecurity unit at dotNET lab.
+With a robust foundation in software development and cloud architecture, his focus lies in enhancing the security within software development teams.
+He has hands-on experience with securing and moving enterprise applications to a cloud environment, especially in the Microsoft & Azure ecosystem.
 
-The OWASP BeNeLux Days 2023 consist of 2 days. On Thursday November 23th, we have a full day conference program with a list of renowned speakers. On Friday November 24th, you can join 1 of the free trainings.
-
-For further info and registration, we kindly refer you to: <https://owaspbenelux.eu>.

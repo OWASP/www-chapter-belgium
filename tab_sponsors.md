@@ -10,4 +10,4 @@ tags: belgium
 ## Local sponsors
 {% include sponsors.md %}
 
-If you want to support our chapter, please contact [Seba Deleersnyder](mailto:seba@owasp.org).
+If you want to support our chapter, please contact [Stella Dineva](mailto:stella.dineva@owasp.org).
