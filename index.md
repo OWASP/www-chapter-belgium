@@ -32,7 +32,7 @@ This chapter meeting will take place in BeCentral in Brussels, courtesy of Proxi
 
 Hosting:
 * Victor LePochat and Karel Dhondt (Distrinet - KU Leuven): User Privacy in Online Location-Based Services
-* Jeremy Schmidt - SS7 Security (title subject to change)
+* Jeremy Schmidt (Proximus ADA) - SS7 Security (title subject to change)
 
 
 <br>
