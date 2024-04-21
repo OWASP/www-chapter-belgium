@@ -24,8 +24,8 @@ With the Belgium chapter, we aim to organize 4 local chapter meetings per year a
 This chapter meeting will take place at the High School "Karel de Grote" in Antwerpen.
 
 We're glad to host:
-* [Joris Gorinsek from NIKO: Navigating the Evolving Landscape of Cyber Security Legislation as an IoT Device Manufacturer](/#div-meetings)
-* [Ive Verstappen & Jev Meijvis from DotNET lab: OWASP Cornucopia and Scrum: A strategic approach to introduce threat modeling in an Agile development process](/#div-meetings)
+* [Joris Gorinsek from NIKO: Navigating the Evolving Landscape of Cyber Security Legislation as an IoT Device Manufacturer](/www-chapter-belgium/#div-meetings)
+* [Ive Verstappen & Jev Meijvis from DotNET lab: OWASP Cornucopia and Scrum: A strategic approach to introduce threat modeling in an Agile development process](/www-chapter-belgium/#div-meetings)
 
 
 <br>
