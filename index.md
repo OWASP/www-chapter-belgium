@@ -38,8 +38,16 @@ Hosting:
 
 **Registration:** <https://www.meetup.com/nl-NL/belgium-owasp-meetup-group/events/300566355/>{:target="_blank"}
 
-<br>
-<br>
+<br/>
+# Save the Date !! 
+The following chapter meetings are currently being planned - more info will follow soon.
+
+**Make sure to already mark your agenda!**
+
+* **Octorber 3rd, 2024**: E&Y (Diegem) 
+* **November 14th, 2024**: Lamot (Mechelen)
+<br/>
+<br/>
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 **More events and info**: [on the 'Chapter Meetings' tab](https://owasp.org/www-chapter-belgium/#div-meetings).
