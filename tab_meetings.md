@@ -22,6 +22,11 @@ Nationalestraat 5, 2000 Antwerpen
 * 19:45-20h45: [OWASP Cornucopia and Scrum: A strategic approach to introduce threat modeling in an Agile development process (Ive Verstappen & Jev Meijvis - DotNET lab)](#owasp-cornucopia-and-scrum-a-strategic-approach-to-introduce-threat-modeling-in-an-agile-development-process---ive-verstappen--jef-meijvis-dotnet-lab)
 * 21:00: Close
 
+### Registration
+Our chapter meetings are open for everyone, and attendance is free of charge. We ask you to register on Meetup in order to provide you with last-minute updates, if needed.
+
+**Registration:** <https://www.meetup.com/nl-NL/belgium-owasp-meetup-group/events/300566321/>
+
 ### Navigating the Evolving Landscape of Cyber Security Legislation as an IoT Device Manufacturer - Joris Gorinsek (NIKO)
 
 **Abstract**: The world of IoT security is on the cusp of significant change with the arrival of new regulations like the EU's Radio Equipment Delegated Act (RED DA), Cyber Resilience Act (CRA) and NIS2 Directive. This presentation will provide a brief overview of these upcoming legislations and their impact on the way we at Niko develop and source IoT devices.
