@@ -25,7 +25,8 @@ Nationalestraat 5, 2000 Antwerpen
 ### Registration
 Our chapter meetings are open for everyone, and attendance is free of charge. We ask you to register on Meetup in order to provide you with last-minute updates, if needed.
 
-**Registration:** <https://www.meetup.com/nl-NL/belgium-owasp-meetup-group/events/300566321/>
+**Registration:** <https://www.meetup.com/nl-NL/belgium-owasp-meetup-group/events/300566321/>{:target="_blank"}
+
 
 ### Navigating the Evolving Landscape of Cyber Security Legislation as an IoT Device Manufacturer - Joris Gorinsek (NIKO)
 

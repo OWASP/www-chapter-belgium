@@ -36,7 +36,7 @@ Hosting:
 * Victor LePochat and Karel Dhondt (Distrinet - KU Leuven): User Privacy in Online Location-Based Services
 * Jeremy Schmidt (Proximus ADA) - SS7 Security (title subject to change)
 
-**Registration:** <https://www.meetup.com/nl-NL/belgium-owasp-meetup-group/events/300566355/>
+**Registration:** <https://www.meetup.com/nl-NL/belgium-owasp-meetup-group/events/300566355/>{:target="_blank"}
 
 <br>
 <br>
