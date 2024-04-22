@@ -27,6 +27,8 @@ We're glad to host:
 * [Joris Gorinsek from NIKO: Navigating the Evolving Landscape of Cyber Security Legislation as an IoT Device Manufacturer](https://owasp.org/www-chapter-belgium/#div-meetings)
 * [Ive Verstappen & Jev Meijvis from DotNET lab: OWASP Cornucopia and Scrum: A strategic approach to introduce threat modeling in an Agile development process](https://owasp.org/www-chapter-belgium/#div-meetings)
 
+**Registration:** <https://www.meetup.com/nl-NL/belgium-owasp-meetup-group/events/300566321/>
+
 ## May 21st, 2024, Brussels
 This chapter meeting will take place in BeCentral in Brussels, courtesy of Proximus-ADA.
 
