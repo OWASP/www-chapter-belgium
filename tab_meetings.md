@@ -64,9 +64,9 @@ Cantersteen 12, 1000 Brussels
 ### Agenda (subject to change)
 * 18h00-18h30: Welcome and refreshments
 * 18h30-18h40: **OWASP Update**
-* 18h40-19h30: User Privacy in Online Location-Based Services by Victor LePochat and Karel Dhondt (Distrinet - KU Leuven)
+* 18h40-19h30: [User Privacy in Online Location-Based Services by Victor LePochat and Karel Dhondt (Distrinet - KU Leuven)](#user-privacy-in-online-location-based-services---victor-lepochat-and-karel-dhondt-distrinet---ku-leuven)
 * 19h30-19h45: ***Break***
-* 19:45-20h35: Signaling New Frontiers: SS7 Insights by Jeremy Schmidt (Proximus ADA)
+* 19:45-20h35: [Signaling New Frontiers: SS7 Insights by Jeremy Schmidt (Proximus ADA)](#signaling-new-frontiers-ss7-insights---jeremy-schmidt-proximus-ada)
 * 21:00: Close
 
 ### User Privacy in Online Location-Based Services - Victor LePochat and Karel Dhondt (Distrinet - KU Leuven)

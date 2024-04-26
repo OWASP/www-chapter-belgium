@@ -33,8 +33,8 @@ We're glad to host:
 This chapter meeting will take place in BeCentral in Brussels, courtesy of Proximus-ADA.
 
 Hosting:
-* Victor LePochat and Karel Dhondt (Distrinet - KU Leuven): User Privacy in Online Location-Based Services
-* Jeremy Schmidt (Proximus ADA) - Signaling New Frontiers: SS7 Insights
+* [Victor LePochat and Karel Dhondt (Distrinet - KU Leuven): User Privacy in Online Location-Based Services](https://owasp.org/www-chapter-belgium/#div-meetings)
+* [Jeremy Schmidt (Proximus ADA) - Signaling New Frontiers: SS7 Insights](https://owasp.org/www-chapter-belgium/#div-meetings)
 
 **Registration:** <https://www.meetup.com/nl-NL/belgium-owasp-meetup-group/events/300566355/>{:target="_blank"}
 
@@ -44,7 +44,7 @@ The following chapter meetings are currently being planned - more info will foll
 
 **Make sure to already mark your agenda!**
 
-* **Octorber 3rd, 2024**: E&Y (Diegem) 
+* **October 3rd, 2024**: E&Y (Diegem) 
 * **November 14th, 2024**: Lamot (Mechelen)
 <br/>
 <br/>
