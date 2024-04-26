@@ -34,7 +34,7 @@ This chapter meeting will take place in BeCentral in Brussels, courtesy of Proxi
 
 Hosting:
 * Victor LePochat and Karel Dhondt (Distrinet - KU Leuven): User Privacy in Online Location-Based Services
-* Jeremy Schmidt (Proximus ADA) - SS7 Security (title subject to change)
+* Jeremy Schmidt (Proximus ADA) - Signaling New Frontiers: SS7 Insights
 
 **Registration:** <https://www.meetup.com/nl-NL/belgium-owasp-meetup-group/events/300566355/>{:target="_blank"}
 
