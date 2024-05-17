@@ -20,15 +20,6 @@ With the Belgium chapter, we aim to organize 4 local chapter meetings per year a
 
 # Upcoming events
 
-## May 2nd, 2024, Antwerpen
-This chapter meeting will take place at the High School "Karel de Grote" in Antwerpen.
-
-We're glad to host:
-* [Joris Gorinsek from NIKO: Navigating the Evolving Landscape of Cyber Security Legislation as an IoT Device Manufacturer](https://owasp.org/www-chapter-belgium/#div-meetings)
-* [Ive Verstappen & Jev Meijvis from DotNET lab: OWASP Cornucopia and Scrum: A strategic approach to introduce threat modeling in an Agile development process](https://owasp.org/www-chapter-belgium/#div-meetings)
-
-**Registration:** <https://www.meetup.com/nl-NL/belgium-owasp-meetup-group/events/300566321/>{:target="_blank"}
-
 ## May 21st, 2024, Brussels
 This chapter meeting will take place in BeCentral in Brussels, courtesy of Proximus-ADA.
 
