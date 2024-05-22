@@ -20,23 +20,15 @@ With the Belgium chapter, we aim to organize 4 local chapter meetings per year a
 
 # Upcoming events
 
-## May 21st, 2024, Brussels
-This chapter meeting will take place in BeCentral in Brussels, courtesy of Proximus-ADA.
-
-Hosting:
-* [Victor LePochat and Karel Dhondt (Distrinet - KU Leuven): User Privacy in Online Location-Based Services](https://owasp.org/www-chapter-belgium/#div-meetings)
-* [Jeremy Schmidt (Proximus ADA) - Signaling New Frontiers: SS7 Insights](https://owasp.org/www-chapter-belgium/#div-meetings)
-
-**Registration:** <https://www.meetup.com/nl-NL/belgium-owasp-meetup-group/events/300566355/>{:target="_blank"}
-
 <br/>
 # Save the Date !! 
 The following chapter meetings are currently being planned - more info will follow soon.
 
 **Make sure to already mark your agenda!**
 
-* **October 3rd, 2024**: E&Y (Diegem) 
-* **November 14th, 2024**: Lamot (Mechelen)
+* October 3rd, 2024**: E&Y (Diegem) 
+* November 14th, 2024**: Lamot (Mechelen)
+* November 28th and 29th, 2024: OWASP BeNeLux Days 2024 (Utrecht)
 <br/>
 <br/>
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
