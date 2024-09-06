@@ -17,9 +17,9 @@ Kouterveldstraat 7B 001, 1831 Diegem
 ### Agenda (subject to change)
 * 18h00-18h30: Welcome and refreshments
 * 18h30-18h40: **OWASP Update**
-* 18h40-19h30: [JWT security and exploitation (by Louis Nyffenegger, founder of PentesterLab)](#)
+* 18h40-19h30: [JWT security and exploitation (by Louis Nyffenegger, founder of PentesterLab)](#jwt-security-and-exploitation-by-louis-nyffenegger-founder-of-pentesterlab)
 * 19h30-19h45: ***Break***
-* 19:45-20h45: [Breaking and securing OAuth 2.0 in frontends (by Dr. Philippe De Ryck, Founder of Pragmatic Web Security)](#)
+* 19:45-20h45: [Breaking and securing OAuth 2.0 in frontends (by Dr. Philippe De Ryck, Founder of Pragmatic Web Security)](#breaking-and-securing-oauth-20-in-frontends-by-dr-philippe-de-ryck-founder-of-pragmatic-web-security)
 * 21:00: Close
 
 ### Registration
