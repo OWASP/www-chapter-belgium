@@ -11,7 +11,7 @@ OWASP Belgium thanks its structural chapter supporters for 2023 and the OWASP Be
 [![Veracode](assets/images/sponsors/veracode.png){:sponsorimage}](https://www.veracode.com/){:target="_blank"}
 [![SecureFlag](assets/images/sponsors/secureflag.svg){:sponsorimage}](https://www.secureflag.com/){:target="_blank"}
 [![Synopsys](assets/images/sponsors/synopsys.jpg){:sponsorimage}](https://www.synopsys.com/){:target="_blank"}
-[![Approach Cyber](assets/images/sponsors/approach-cyber.jpg){:sponsorimage}](https://www.approach-cyber.com/){:target="_blank"}
+[![Approach Cyber](assets/images/sponsors/approach-cyber.svg){:sponsorimage}](https://www.approach-cyber.com/){:target="_blank"}
 
 
 {% comment %}
