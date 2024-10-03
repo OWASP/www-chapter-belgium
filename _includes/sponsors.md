@@ -4,7 +4,6 @@ OWASP Belgium thanks its structural chapter supporters for 2023 and the OWASP Be
 [![Vest](assets/images/sponsors/vest.jpg){:sponsorimage}](http://www.vest.nl/){:target="_blank"}
 [![Guardsquare](assets/images/sponsors/guardsquare.png){:sponsorimage}](http://www.guardsquare.com/){:target="_blank"}
 [![Contrast Security](assets/images/sponsors/contrast-security.png){:sponsorimage}](https://www.contrastsecurity.com/){:target="_blank"}
-lank"}
 [![ArmorCode](assets/images/sponsors/armorcode_black.svg){:sponsorimage}](https://www.armorcode.com/){:target="_blank"}
 [![Cegeka](assets/images/sponsors/cegeka.svg){:sponsorimage}](https://www.cegeka.com/){:target="_blank"}
 [![Zimperium](assets/images/sponsors/zimperium.png){:sponsorimage}](https://www.zimperium.com/){:target="_blank"}
