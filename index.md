@@ -20,16 +20,12 @@ With the Belgium chapter, we aim to organize 4 local chapter meetings per year a
 
 # Upcoming events
 
-## October 3rd, 2024: E&Y (Diegem) 
-**Agenda** (subject to change):
-* 18h00-18h30: Welcome and refreshments
-* 18h30-18h40: OWASP Update
-* 18h40-19h30: **JWT security and exploitation** (by Louis Nyffenegger, founder of PentesterLab)
-* 19:45-20h45: **Breaking and securing OAuth 2.0 in frontends** (by Dr. Philippe De Ryck, Founder of Pragmatic Web Security)
+## November 14th, 2024**: Lamot (Mechelen)
+**Agenda** (will be confirmed soon):
 
-**Registration:** <https://www.meetup.com/nl-NL/belgium-owasp-meetup-group/events/303275104/>{:target="_blank"}
-
+<!--
 **More events and info**: [on the 'Chapter Meetings' tab](https://owasp.org/www-chapter-belgium/#div-meetings).
+-->
 
 <br/>
 # Save the Date !! 
@@ -37,7 +33,6 @@ The following chapter meetings are currently being planned - more info will foll
 
 **Make sure to already mark your agenda!**
 
-* **November 14th, 2024**: Lamot (Mechelen)
 * **November 28th and 29th, 2024**: OWASP BeNeLux Days 2024 (Utrecht)
 <br/>
 <br/>
