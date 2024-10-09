@@ -21,7 +21,7 @@ With the Belgium chapter, we aim to organize 4 local chapter meetings per year a
 # Upcoming events
 
 ## November 14th, 2024**: Lamot (Mechelen)
-**Agenda** (will be confirmed soon):
+**Agenda** (will be confirmed soon)
 
 <!--
 **More events and info**: [on the 'Chapter Meetings' tab](https://owasp.org/www-chapter-belgium/#div-meetings).
