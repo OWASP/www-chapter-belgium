@@ -20,8 +20,17 @@ With the Belgium chapter, we aim to organize 4 local chapter meetings per year a
 
 # Upcoming events
 
-## November 14th, 2024**: Lamot (Mechelen)
-**Agenda** (will be confirmed soon)
+## November 14th, 2024: Lamot (Mechelen)
+This meeting is co-located with the [CyberSecurity event "Strategic Rsearch and Industry Impact"](https://cybersecurity-research.be/event/cybersecurity-strategic-research-and-industry-impact)
+
+**Agenda:**
+* 17h30-19h00: Welcome and refreshments
+* 19h00-19h10: **OWASP Update**
+* 19h10-20h00: **A Mobile Security Crash Course: Application Security, Resilience, and Malware** by Jeroen Beckers (Mobile Solution Lead at NVISO)
+* 20h00-20h30: **TBD**
+
+**Registration:** <https://www.meetup.com/nl-NL/belgium-owasp-meetup-group/events/303275189/>{:target="_blank"}
+
 
 <!--
 **More events and info**: [on the 'Chapter Meetings' tab](https://owasp.org/www-chapter-belgium/#div-meetings).
