@@ -22,6 +22,7 @@ This meeting is co-located with the [CyberSecurity event "Strategic Rsearch and 
 
 ### Registration
 Our chapter meetings are open for everyone, and attendance is free of charge. We ask you to register on Meetup in order to provide you with last-minute updates, if needed.
+
 **Registration:** <https://www.meetup.com/nl-NL/belgium-owasp-meetup-group/events/303275189/>{:target="_blank"}
 
 ### A Mobile Security Crash Course: Application Security, Resilience, and Malware
