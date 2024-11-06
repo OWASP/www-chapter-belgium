@@ -18,7 +18,7 @@ This meeting is co-located with the [CyberSecurity event "Strategic Rsearch and 
 * 17h30-19h00: Welcome and refreshments
 * 19h00-19h10: **OWASP Update**
 * 19h10-20h00: **[A Mobile Security Crash Course: Application Security, Resilience, and Malware](#a-mobile-security-crash-course-application-security-resilience-and-malware)** by [Jeroen Beckers](#jeroen-beckers) (Mobile Solution Lead at NVISO)
-* 20h00-20h30: **[TBD](#)** by [TBD](#) 
+* 20h00-20h45: **LanShield: Control your apps, defend your network** by Jeroen Robben and Angelos Beitis (DistriNet, KU Leuven) 
 
 ### Registration
 Our chapter meetings are open for everyone, and attendance is free of charge. We ask you to register on Meetup in order to provide you with last-minute updates, if needed.

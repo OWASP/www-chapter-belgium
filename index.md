@@ -27,7 +27,7 @@ This meeting is co-located with the [CyberSecurity event "Strategic Rsearch and 
 * 17h30-19h00: Welcome and refreshments
 * 19h00-19h10: **OWASP Update**
 * 19h10-20h00: **A Mobile Security Crash Course: Application Security, Resilience, and Malware** by Jeroen Beckers (Mobile Solution Lead at NVISO)
-* 20h00-20h30: **TBD**
+* 20h00-20h45: **LanShield: Control your apps, defend your network** by Jeroen Robben and Angelos Beitis (DistriNet, KU Leuven)
 
 **Registration:** <https://www.meetup.com/nl-NL/belgium-owasp-meetup-group/events/303275189/>{:target="_blank"}
 
