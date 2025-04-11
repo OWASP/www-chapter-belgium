@@ -8,12 +8,11 @@ tags: belgium
 ---
 # Upcoming OWASP Belgium Chapter Meetings
 
-## April 24th, 2025/: KdG (Antwerp)
+## April 24th, 2025 @KdG (Antwerp)
 
 On April 24th, we organize our next OWASP Belgium chapter meeting at Karel de Grote Hogeschool (Antwerp).
 
-We are please to welcome Robbe Verwilghen and *TBD*.
-We'll have two talks centered around ethical hacking and bug bounty hunting, stay tuned for more details on the speakers and their topics.
+We are please to welcome Robbe Verwilghen and Hendrik Noben!
 
 Agenda:
 
