@@ -14,13 +14,17 @@ On April 24th, we organize our next OWASP Belgium chapter meeting at Karel de Gr
 
 We are please to welcome Robbe Verwilghen and Hendrik Noben!
 
-Agenda:
+### Location:
+KDG Campus Groenplaats
+Nationalestraat 5
+2000 ANTWERPEN
 
-17:30-18:00: Welcome with snacks & drinks
-18:00-18:10: OWASP update
-18:10-19:00: Robbe Verwilghen - Understand what you hack, not how you hack it.
-19:10-20:00: Hendrik Noben - Real Stories from Behind the SSDLC Curtain; A Game of SSDLC Mistake Bingo
-20:30: End of the meetup
+### Agenda
+*17:30-18:00: Welcome with snacks & drinks
+*18:00-18:10: OWASP update
+*18:10-19:00: Robbe Verwilghen - Understand what you hack, not how you hack it.
+*19:10-20:00: Hendrik Noben - Real Stories from Behind the SSDLC Curtain; A Game of SSDLC Mistake Bingo
+*20:30: End of the meetup
 
 ### Registration
 Our chapter meetings are open for everyone, and attendance is free of charge. We ask you to register on Meetup in order to provide you with last-minute updates, if needed.
