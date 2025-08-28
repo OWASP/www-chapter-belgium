@@ -21,7 +21,7 @@ With the Belgium chapter, we aim to organize 4 local chapter meetings per year a
 # Upcoming events
 
 ## OWASP BE chapter meeting: September 30, 2025 (Louvain-La-Neuve)
-Click [Chapter meetings](#div-meetings) tab above for more info.
+Click [Chapter meetings](https://owasp.org/www-chapter-belgium#div-meetings) tab above for more info.
 
 Registration: <https://www.meetup.com/belgium-owasp-meetup-group/events/310746669>{:target="_blank"}
 
