@@ -22,10 +22,10 @@ Rue du Fond Cattelain 2
 ### Agenda
 
 * 17:30 - 18:20 : Welcome (drinks + sandwiches)
-* 18:20 - 18:30: OWASP update
-* 18:30 - 19:30: Learning to Detect Malware: Features, Pitfalls, and Adversarial Threats (by Charles-Henry Bertrand Van Ouytsel, UCLouvain)
+* 18:20 - 18:30: **OWASP update**
+* 18:30 - 19:30: **Learning to Detect Malware: Features, Pitfalls, and Adversarial Threats** (by Charles-Henry Bertrand Van Ouytsel, UCLouvain)
 * 19:30 - 19:45 : break
-* 19:45 - 20:45 : Integrating Security Without Slowing Development: A Pragmatic DevSecOps Approach (by Steve Mihy, Approach Cyber)
+* 19:45 - 20:45 : **Integrating Security Without Slowing Development: A Pragmatic DevSecOps Approach** (by Steve Mihy, Approach Cyber)
 * 20:45 - 21:30 : Refreshments
 
 ### Registration

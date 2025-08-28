@@ -20,33 +20,11 @@ With the Belgium chapter, we aim to organize 4 local chapter meetings per year a
 
 # Upcoming events
 
-## November 14th, 2024: Lamot (Mechelen)
-This meeting is co-located with the [CyberSecurity event "Strategic Rsearch and Industry Impact"](https://cybersecurity-research.be/event/cybersecurity-strategic-research-and-industry-impact)
+## OWASP BE chapter meeting: September 30, 2025 (Louvain-La-Neuve)
+Registration: <https://www.meetup.com/belgium-owasp-meetup-group/events/310746669>{:target="_blank"}
 
-**Agenda:**
-* 17h30-19h00: Welcome and refreshments
-* 19h00-19h10: **OWASP Update**
-* 19h10-20h00: **A Mobile Security Crash Course: Application Security, Resilience, and Malware** by Jeroen Beckers (Mobile Solution Lead at NVISO)
-* 20h00-20h45: **LanShield: Control your apps, defend your network** by Jeroen Robben and Angelos Beitis (DistriNet, KU Leuven)
-
-**Registration:** <https://www.meetup.com/nl-NL/belgium-owasp-meetup-group/events/303275189/>{:target="_blank"}
-
-
-<!--
-**More events and info**: [on the 'Chapter Meetings' tab](https://owasp.org/www-chapter-belgium/#div-meetings).
--->
-
-<br/>
-# Save the Date !! 
-The following chapter meetings are currently being planned - more info will follow soon.
-
-**Make sure to already mark your agenda!**
-
-* **November 28th and 29th, 2024**: OWASP BeNeLux Days 2024 (Utrecht)
-<br/>
-<br/>
-Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
-
+## OWASP BeNeLux Days: December 2-3,  2025 (Mechelen)
+More info: <https://2025.owaspbenelux.eu/>{:target="_blank"}
 
 ## Chapter sponsors
 {% include sponsors.md %}
