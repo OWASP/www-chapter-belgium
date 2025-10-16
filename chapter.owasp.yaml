@@ -1,0 +1,35 @@
+community:
+  - name: chapter-belgium
+    platform: slack
+    url: https://owasp.slack.com/archives/C04UNPGUA
+    description: The OWASP Belgium chapter channel
+leaders:
+  - name: Lieven Desmet
+    email: lieven.desmet@owasp.org
+  - name: Bart De Win
+    email: bart.dewin@owasp.org
+    github: 23bartman
+  - name: David Mathy
+    email: david.mathy@owasp.org
+    github: dm-17
+  - name: Stella Dineva
+    email: stella.dineva@owasp.org
+  - name: Maxim Baele
+    email: maxim.baele@owasp.org
+location:
+  country: Belgium
+  country_code: BE
+  region: Europe
+  latitude: 50.6402809
+  longitude: 4.6667145
+meetup_group: belgium-owasp-meetup-group
+name: OWASP Belgium
+repositories:
+  - name: www-chapter-belgium
+    url: https://github.com/OWASP/www-chapter-belgium
+    description: OWASP Foundation Web Repository
+tags:
+  - belgium
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-belgium
