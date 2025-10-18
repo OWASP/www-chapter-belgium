@@ -30,6 +30,10 @@ repositories:
     description: OWASP Foundation Web Repository
 tags:
   - belgium
-  - custom-tag-1
-  - custom-tag-2
+  - owasp
+  - application security
+  - benelux days
+  - identity and access management
+  - api security
+  - web security
 website: https://owasp.org/www-chapter-belgium
