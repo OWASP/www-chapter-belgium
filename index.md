@@ -16,17 +16,13 @@ Welcome to the Belgium chapter homepage. The chapter leaders are
 [Stella Dineva](mailto:stella.dineva@owasp.org) and
 [Maxim Baele](mailto:maxim.baele@owasp.org).
 
-With the Belgium chapter, we aim to organize 4 local chapter meetings per year and co-organize the yearly BeNeLux Day. Any suggestions for speakers or venue? Feel free to reach out to us!
+With the Belgium chapter, we aim to organize 4 local chapter meetings per year and co-organize the yearly BeNeLux Days. Any suggestions for speakers or venue? Feel free to reach out to us!
 
 # Upcoming events
 
-## OWASP BE chapter meeting: September 30, 2025 (Louvain-La-Neuve)
-Click [Chapter meetings](https://owasp.org/www-chapter-belgium#div-meetings) tab above for more info.
-
-Registration: <https://www.meetup.com/belgium-owasp-meetup-group/events/310746669>{:target="_blank"}
-
 ## OWASP BeNeLux Days: December 2-3,  2025 (Mechelen)
-More info: <https://2025.owaspbenelux.eu/>{:target="_blank"}
+One day of conference with the best talks on Dec, 2, followed by one day of training on Dec, 3.
+Hurry and register here... <https://2025.owaspbenelux.eu/>{:target="_blank"}
 
 ## Chapter sponsors
 {% include sponsors.md %}

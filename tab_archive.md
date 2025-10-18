@@ -8,6 +8,7 @@ tags: belgium
 ---
 
 ## Meeting archive
+* [2025 chapter meetings](#2025-chapter-meetings)
 * [2024 chapter meetings](#2024-chapter-meetings)
 * [2023 chapter meetings](#2023-chapter-meetings)
 * [2022 chapter meetings](#2022-chapter-meetings)
@@ -28,6 +29,22 @@ tags: belgium
 * [2007 chapter meetings](#2007-chapter-meetings)
 * [2006 chapter meetings](#2006-chapter-meetings)
 * [2005 chapter meetings](#2005-chapter-meetings)
+
+## 2025 chapter meetings
+
+## September 30, 2025
+This chapter meeting took place in "The Gate Axis Parc" (Mont-Saint-Guibert).
+
+### Agenda
+* Learning to Detect Malware: Features, Pitfalls, and Adversarial Threats (by Charles-Henry Bertrand Van Ouytsel, UCLouvain)
+* Integrating Security Without Slowing Development: A Pragmatic DevSecOps Approach (by Steve Mihy, Approach Cyber)
+
+## April 24, 2025
+This chapter meeting took place in "KDG Hogeschool Campus Groenplaats" (Antwerpen).
+
+### Agenda
+* Understand what you hack, not how you hack it (by Robbe Verwilghen)
+* Real Stories from Behind the SSDLC Curtain – A Game of SSDLC Mistake Bingo (by Hendrik Noben)
 
 ## 2024 chapter meetings
 
