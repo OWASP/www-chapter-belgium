@@ -8,6 +8,12 @@ tags: belgium
 ---
 # Upcoming OWASP Belgium Chapter Meetings
 
+Stay tuned for new chapter meetings.
+
+And don't forget to register to the Owasp BeNeLux Days <https://2025.owaspbenelux.eu/>{:target="_blank"}
+
+# Past events in 2025
+
 ## September 30th, 2025 (Louvain-La-Neuve)
 
 On September 30th, we organize our next OWASP Belgium chapter meeting at The Gate (Mont-Saint-Guibert).
@@ -27,11 +33,6 @@ Rue du Fond Cattelain 2
 * 19:30 - 19:45 : break
 * 19:45 - 20:45 : **Integrating Security Without Slowing Development: A Pragmatic DevSecOps Approach** (by Steve Mihy, Approach Cyber)
 * 20:45 - 21:30 : Refreshments
-
-### Registration
-Our chapter meetings are open for everyone, and attendance is free of charge. We ask you to register on Meetup in order to provide you with last-minute updates, if needed.
-
-**Registration:** <https://www.meetup.com/belgium-owasp-meetup-group/events/310746669>{:target="_blank"}
 
 ### Learning to Detect Malware: Features, Pitfalls, and Adversarial Threats 
 ***Abstract:*** Antivirus solutions increasingly rely on Machine Learning (ML) as a component of their detection pipelines. While ML has brought substantial improvements in adaptability and scalability, it also introduces new challenges. These include the question of how to represent malware for effective classification, the trade-offs between static and dynamic analysis, and the vulnerability of models to adversarial manipulation.
@@ -57,12 +58,6 @@ This talk aims to provide clear, actionable guidance for developers, security pr
 ***About Steve:*** Steve Mihy is the Director of Secure Development at Approach Cyber. Steve and his team help Approach Cyber's customers to develop applications such as itsme, perform code review, implement Secure Software Development Lifecycle and assess Security within Development teams. Steve joined Approach in 2010 after 10 years as a senior developer/systems engineer and consultant at SWIFT. Steve has a master in computer science from UNamur.
 
 
-
-
-
-
-# Past events
-
 ## April 24th, 2025 @KdG (Antwerp)
 
 On April 24th, we organize our next OWASP Belgium chapter meeting at Karel de Grote Hogeschool (Antwerp).
@@ -80,11 +75,6 @@ Nationalestraat 5
 *18:10-19:00: Robbe Verwilghen - Understand what you hack, not how you hack it.
 *19:10-20:00: Hendrik Noben - Real Stories from Behind the SSDLC Curtain; A Game of SSDLC Mistake Bingo
 *20:30: End of the meetup
-
-### Registration
-Our chapter meetings are open for everyone, and attendance is free of charge. We ask you to register on Meetup in order to provide you with last-minute updates, if needed.
-
-**Registration:** <https://www.meetup.com/belgium-owasp-meetup-group/events/306971354/>{:target="_blank"}
 
 
 ### Understand what you hack, not how you hack it. (By Robbe Verwilghen, penetration tester and bug bounty hunter)
