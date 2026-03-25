@@ -34,6 +34,7 @@ Nationalestraat 5
 In this session, we turn that feeling into a game! We will walk through a series of real-world inspired code snippets and give you one minute to tell us why we do not like this code. Then we will break down, point by point, what feels wrong, what is risky, and how it could fail in practice. By the end, you will leave with a reusable mental checklist for "I don't like this code" moments and a more systematic approach to security code review.
 
 ***About Louis:*** Louis Nyffenegger is an experienced speaker who has delivered talks and training at major security events worldwide. His sessions focus on web application security, vulnerability research, and advanced code review techniques.
+
 ![Profile picture of Louis](assets/images/Speaker%20pictures/profilepicture_LouisNyffenegger.jpeg)
 
 ### Hacking Browsers: The Easy Way
@@ -46,6 +47,7 @@ I’m a hacker. I like breaking stuff. I’m a penetration tester at Toreon, I�
 I’m also a teacher. I teach developers about secure coding, I teach beginners about Red Teaming for Hack The Box and I’ve created a bunch of YouTube videos on my channel.
 In the online realm, you may know me as PinkDraconian. Come up to me and say hi!
 My life motto is “Hacking you so you don’t get hacked“ and I’d like to show you part of that ideology during my talk. See you there!
+
 ![Profile picture of Robbe](assets/images/Speaker%20pictures/profilepicture_RobbeVanRoey.png)
 
 # Past events in 2025
