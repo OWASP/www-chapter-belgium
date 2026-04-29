@@ -20,9 +20,17 @@ With the Belgium chapter, we aim to organize 4 local chapter meetings per year a
 
 # Upcoming events
 
+## OWASP Chapter meeting: April 29th, 2026 (KdG, Antwerp) 
+Click [Chapter meetings](https://owasp.org/www-chapter-belgium#div-meetings) tab above for more info.
+
+Registration: <https://www.meetup.com/belgium-owasp-meetup-group/events/313957638>{:target="_blank"}
+
+
+{% comment %}
 ## OWASP BeNeLux Days: December 2-3,  2025 (Mechelen)
 One day of conference with the best talks on Dec, 2, followed by one day of training on Dec, 3.
 Hurry and register here... <https://2025.owaspbenelux.eu/>{:target="_blank"}
+{% endcomment %}
 
 ## Chapter sponsors
 {% include sponsors.md %}
