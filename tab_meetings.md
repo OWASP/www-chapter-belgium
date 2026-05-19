@@ -7,7 +7,44 @@ order: 2
 tags: belgium
 ---
 # Upcoming OWASP Belgium Chapter Meetings
+## June 2nd, 2026 @KU Leuven (Heverlee)
+Hosted by [DistriNet Research Group (KU Leuven)](https://distrinet.cs.kuleuven.be/)
 
+Jim is faculty of the [Secure Application Development (SecAppDev) course ](https://www.secappdev.org/) held in Leuven from 2026-06-21 to 2026-06-05.
+
+### Location
+KU Leuven Dept. Computer Science (Auditorium A.00.225)
+Celestijnenlaan 200A
+3001 Heverlee
+
+
+### Agenda
+
+* 17:45 - 18:30 : Welcome (drinks + sandwiches)
+* 18:30 - 18:40 : **OWASP update**
+* 18:40 - 19:40 : **TBD** (by Jim Manico)
+* 19:40 - 19:50 : break
+* 19:50 - 20:50 : **The Vulnpocalypse is hitting the physical realm: Reverse-engineering IoT devices with open source tooling and LLMs** (by Georges Bolssens, Toreon)
+
+### Registration
+Our chapter meetings are open for everyone, and attendance is free of charge. We ask you to [register via the OWASP Belgium Meetup group](https://www.meetup.com/belgium-owasp-meetup-group/) in order to provide you with last-minute updates, if needed.
+
+RSVP chapter meeting: <https://www.meetup.com/belgium-owasp-meetup-group/events/314842473/>
+
+### The Vulnpocalypse is hitting the physical realm: Reverse-engineering IoT devices with open source tooling and LLMs 
+***Abstract:*** Skeptical at first, I started looking into how well an LLM would do in reverse-engineering the firmware of cheap IoT hardware, gating slop-submissions by having a hard rule on "PoC||GTFO". The case study running through the talk is a coordinated-disclosure project against a €30 WiFi extender, with the end result (much to my own surprise) being an automatable set of 0-days that ultimately led to the manufacturer issuing 4 CVEs. Chained together, they lead to interception of all internet traffic for all downstream users. The scary part is that all I had to do was chat to Claude, reboot the device when asked, and validate the PoCs: in other words, I was the QA-reviewer for a pentester that never sleeps.
+
+We will be discussing the technicalities and lessons-learned so attendees can build this kind of setup themselves, but also open the discussion of how this new paradigm democratizes penetration testing. It also looks at how device manufacturers are going to have to deal with this looming tsunami of incoming bug reports and how new EU legislation will squeeze them from the other end into forced rapid response. 
+
+
+***About Georges:*** Georges' lifelong curiosity about 'how stuff works' culminated in a Master’s degree in Electro-Mechanical Engineering. With over 15 years of experience in technical and managerial roles within the biotech industry, he developed a deep proficiency in programming and a passion for cybersecurity.
+
+This unique combination of engineering logic and coding expertise makes Georges an ideal Application Security expert; he relates to the daily challenges of software developers while fully understanding the adversarial mindset of hackers. Since transitioning to AppSec in 2017, he has consulted for a wide variety of business contexts.
+
+Georges joined Toreon in 2021, where he currently serves as the Product Owner for Threat Modeling Consulting. He is also the Lead Trainer for Toreon’s globally recognized 'Whiteboard Hacking' training. Leveraging his background in electronics, Georges is a key member of the hardware penetration testing team, with specific expertise in threat modeling for embedded medical and non-medical devices.
+
+
+# Past OWASP Belgium Chapter Meetings
 ## April 29th, 2026 @KdG (Antwerp)
 
 Karel de Grote Hogeschool in Antwerp has kindly invited us to host a chapter meeting at their Groenplaats campus again this year, and we're happy to accept their invitation.
