@@ -22,7 +22,7 @@ Celestijnenlaan 200A
 
 * 17:45 - 18:30 : Welcome (drinks + sandwiches)
 * 18:30 - 18:40 : **OWASP update**
-* 18:40 - 19:40 : **TBD** (by Jim Manico)
+* 18:40 - 19:40 : **Secure Coding with AI: Building Safer Software with Claude Code and Codex** (by Jim Manico, Manicode Security)
 * 19:40 - 19:50 : break
 * 19:50 - 20:50 : **The Vulnpocalypse is hitting the physical realm: Reverse-engineering IoT devices with open source tooling and LLMs** (by Georges Bolssens, Toreon)
 
@@ -30,6 +30,13 @@ Celestijnenlaan 200A
 Our chapter meetings are open for everyone, and attendance is free of charge. We ask you to [register via the OWASP Belgium Meetup group](https://www.meetup.com/belgium-owasp-meetup-group/) in order to provide you with last-minute updates, if needed.
 
 RSVP chapter meeting: <https://www.meetup.com/belgium-owasp-meetup-group/events/314842473/>
+
+### Secure Coding with AI: Building Safer Software with Claude Code and Codex
+***Abstract:***
+AI coding assistants are rapidly changing how software is built, but they also introduce new security risks when used without proper controls and guidance. In this practical, demo-driven session, Jim Manico will demonstrate how to use modern AI coding tools securely and effectively. The talk covers setting up a secure Claude Code environment, applying secure coding prompts based on OWASP guidance, and using Claude Code and Codex together for development, review, and testing workflows. Attendees will learn practical techniques for improving software security while accelerating development with AI-assisted coding.
+
+***About Jim:***
+Jim Manico is the founder of Manicode Security and a longtime application security educator with more than 25 years of software development and security experience. Jim is a frequent international speaker on secure software practices, a former member of the OWASP Global Board of Directors, and a contributor to several OWASP projects including the AISVS and Cheat Sheet Series. He is the author of Iron-Clad Java: Building Secure Web Applications and has trained developers at Fortune 500 companies, financial institutions, and government organizations worldwide.
 
 ### The Vulnpocalypse is hitting the physical realm: Reverse-engineering IoT devices with open source tooling and LLMs 
 ***Abstract:*** Skeptical at first, I started looking into how well an LLM would do in reverse-engineering the firmware of cheap IoT hardware, gating slop-submissions by having a hard rule on "PoC||GTFO". The case study running through the talk is a coordinated-disclosure project against a €30 WiFi extender, with the end result (much to my own surprise) being an automatable set of 0-days that ultimately led to the manufacturer issuing 4 CVEs. Chained together, they lead to interception of all internet traffic for all downstream users. The scary part is that all I had to do was chat to Claude, reboot the device when asked, and validate the PoCs: in other words, I was the QA-reviewer for a pentester that never sleeps.
